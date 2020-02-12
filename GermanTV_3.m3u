@@ -1,0 +1,347 @@
+#EXTM3U
+#EXTINF:-1,Das Erste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/561
+#EXTINF:-1,ZDF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/563
+#EXTINF:-1,Sat 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/565
+#EXTINF:-1,Sat 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/567
+#EXTINF:-1,RTL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/569
+#EXTINF:-1,RTL HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/571
+#EXTINF:-1,RTL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/573
+#EXTINF:-1,RTL 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/575
+#EXTINF:-1,ProSieben HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/577
+#EXTINF:-1,ProSieben HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/579
+#EXTINF:-1,Kabel eins HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/581
+#EXTINF:-1,Kabel eins HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/583
+#EXTINF:-1,VOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/585
+#EXTINF:-1,VOX HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/587
+#EXTINF:-1,Sixx HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/589
+#EXTINF:-1,Sixx HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/591
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/593
+#EXTINF:-1,ProSieben Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/595
+#EXTINF:-1,ProSieben Maxx FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/597
+#EXTINF:-1,RTL Passion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/599
+#EXTINF:-1,RTL Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/601
+#EXTINF:-1,RTL Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/603
+#EXTINF:-1,RTLplus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/605
+#EXTINF:-1,Nitro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/607
+#EXTINF:-1,Nitro FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/609
+#EXTINF:-1,Sat 1 Emotions
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/611
+#EXTINF:-1,Kabel eins Classics
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/613
+#EXTINF:-1,Sat 1 Gold HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/615
+#EXTINF:-1,Tele5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/617
+#EXTINF:-1,Servus TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/619
+#EXTINF:-1,One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/621
+#EXTINF:-1,ZDFneo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/623
+#EXTINF:-1,3sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/625
+#EXTINF:-1,Sonnenklar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/627
+#EXTINF:-1,SWR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/629
+#EXTINF:-1,NDR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/631
+#EXTINF:-1,WDR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/633
+#EXTINF:-1,MDR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/635
+#EXTINF:-1,HR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/639
+#EXTINF:-1,SR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/641
+#EXTINF:-1,BR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/643
+#EXTINF:-1,Nickelodeon AT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/645
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/647
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/649
+#EXTINF:-1,Sky Krimi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/651
+#EXTINF:-1,Sky Nostalgie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/653
+#EXTINF:-1,Sky Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/655
+#EXTINF:-1,Sky Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/657
+#EXTINF:-1,Sky Atlantic FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/659
+#EXTINF:-1,Sky Atlantic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/661
+#EXTINF:-1,Sky Cinema Family FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/663
+#EXTINF:-1,Sky Cinema Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/665
+#EXTINF:-1,Sky Cinema Hits FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/667
+#EXTINF:-1,Sky Cinema Hits HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/669
+#EXTINF:-1,Sky Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/671
+#EXTINF:-1,Sky Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/673
+#EXTINF:-1,Sky Cinema   24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/675
+#EXTINF:-1,Sky Cinema  1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/677
+#EXTINF:-1,Sky Cinema  24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/679
+#EXTINF:-1,Sky Cinema  1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/681
+#EXTINF:-1,Sky Cinema FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/683
+#EXTINF:-1,Sky Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/685
+#EXTINF:-1,Sky 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/687
+#EXTINF:-1,Sky 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/689
+#EXTINF:-1,Arte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/691
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/693
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/695
+#EXTINF:-1,DMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/697
+#EXTINF:-1,Tagesschau 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/699
+#EXTINF:-1,Welt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/701
+#EXTINF:-1,n-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/703
+#EXTINF:-1,ZDF Info HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/705
+#EXTINF:-1,Phoenix SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/707
+#EXTINF:-1,Welt der Wunder TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/709
+#EXTINF:-1,Kabel eins Doku AT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/711
+#EXTINF:-1,Crime   Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/713
+#EXTINF:-1,N24 Doku
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/715
+#EXTINF:-1,Spiegel TV Geschichte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/717
+#EXTINF:-1,Spiegel TV Wissen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/719
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/721
+#EXTINF:-1,Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/723
+#EXTINF:-1,Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/725
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/727
+#EXTINF:-1,Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/729
+#EXTINF:-1,Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/731
+#EXTINF:-1,Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/733
+#EXTINF:-1,KiKa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/735
+#EXTINF:-1,Super RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/737
+#EXTINF:-1,Toggo Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/739
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/741
+#EXTINF:-1,Disney Cinemagic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/743
+#EXTINF:-1,Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/745
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/747
+#EXTINF:-1,FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/749
+#EXTINF:-1,TNT Serie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/751
+#EXTINF:-1,TNT Serie FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/753
+#EXTINF:-1,TNT Film HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/755
+#EXTINF:-1,TNT Film FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/757
+#EXTINF:-1,TNT Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/759
+#EXTINF:-1,TNT Comedy FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/761
+#EXTINF:-1,Universal TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/763
+#EXTINF:-1,Universal TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/765
+#EXTINF:-1,13th Street HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/767
+#EXTINF:-1,13th Street FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/769
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/771
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/773
+#EXTINF:-1,Sony Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/775
+#EXTINF:-1,Silverline
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/777
+#EXTINF:-1,Kinowelt TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/779
+#EXTINF:-1,Zee One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/781
+#EXTINF:-1,Romance TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/783
+#EXTINF:-1,Heimatkanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/785
+#EXTINF:-1,DE| Sky Select 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/37851
+#EXTINF:-1,DE| Sky Select 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/37852
+#EXTINF:-1,DE| Sky Select 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/37853
+#EXTINF:-1,DE| Sky Select 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/37854
+#EXTINF:-1,DE| Sky Select 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/37855
+#EXTINF:-1,DE| Sky Select 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/37856
+#EXTINF:-1,DE| Sky Select 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/37857
+#EXTINF:-1,DE| Sky Select 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/37858
+#EXTINF:-1,DE| Sky Select 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/37859
+#EXTINF:-1,DE| Sky Select 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/37860
+#EXTINF:-1,Sky Bundesliga 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16663
+#EXTINF:-1,Sky Bundesliga 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16664
+#EXTINF:-1,Sky Bundesliga 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16665
+#EXTINF:-1,Sky Bundesliga 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16666
+#EXTINF:-1,Sky Bundesliga 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16667
+#EXTINF:-1,Sky Bundesliga 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16668
+#EXTINF:-1,Sky Bundesliga 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16669
+#EXTINF:-1,Sky Bundesliga 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16670
+#EXTINF:-1,Sky Bundesliga 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16671
+#EXTINF:-1,Sky Bundesliga 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16672
+#EXTINF:-1,Sky Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16673
+#EXTINF:-1,Sky Sport 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16652
+#EXTINF:-1,Sky Sport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16653
+#EXTINF:-1,Sky Sport 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16654
+#EXTINF:-1,Sky Sport 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16655
+#EXTINF:-1,Sky Sport 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16656
+#EXTINF:-1,Sky Sport 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16657
+#EXTINF:-1,Sky Sport 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16658
+#EXTINF:-1,Sky Sport 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16659
+#EXTINF:-1,Sky Sport 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16660
+#EXTINF:-1,Sky Sport 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16661
+#EXTINF:-1,Sky Sport 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16662
+#EXTINF:-1,DAZN 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16649
+#EXTINF:-1,DAZN 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16650
+#EXTINF:-1,Sportdigital HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/16651
+#EXTINF:-1,TELEKOM SPORT 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30643
+#EXTINF:-1,TELEKOM SPORT 2 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30644
+#EXTINF:-1,TELEKOM SPORT 3 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30645
+#EXTINF:-1,TELEKOM SPORT 4 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30646
+#EXTINF:-1,TELEKOM SPORT 5 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30647
+#EXTINF:-1,TELEKOM SPORT 6 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30648
+#EXTINF:-1,TELEKOM SPORT 7 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30649
+#EXTINF:-1,TELEKOM SPORT 8 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30650
+#EXTINF:-1,DEL SPORT 1 4K+ #SPIELTAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30651
+#EXTINF:-1,DEL SPORT 2 4K+ #SPIELTAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30652
+#EXTINF:-1,DEL SPORT 3 4K+ #SPIELTAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30653
+#EXTINF:-1,DEL SPORT 4 4K+ #SPIELTAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30654
+#EXTINF:-1,DEL SPORT 5 4K+ #SPIELTAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30655
+#EXTINF:-1,DEL SPORT 6 4K+ #SPIELTAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30656
+#EXTINF:-1,DEL SPORT 7 4K+ #SPIELTAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30657
+#EXTINF:-1,BBL SPORT 1 4K+ #SPIELTAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30658
+#EXTINF:-1,BBL SPORT 2 4K+ #SPIELTAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30659
+#EXTINF:-1,BBL SPORT 3 4K+ #SPIELTAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30660
+#EXTINF:-1,BBL SPORT 4 4K+ #SPIELTAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30661
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30662
+#EXTINF:-1,EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30663
+#EXTINF:-1,EUROSPORT 2 XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30664
+#EXTINF:-1,SPORT 1 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30665
+#EXTINF:-1,BAYERN MUNCHEN TV 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30666
+#EXTINF:-1,AUTO MOTOR SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30667
+#EXTINF:-1,MOTORVISION 4K+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TheSamsungFreak_TV;url=http://tnci.tv:80/Tk1tdWPoxP/Z1PW8QCbPi/30668
