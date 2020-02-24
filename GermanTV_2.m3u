@@ -1,35 +1,215 @@
 #EXTM3U 
-#EXTINF:-1,DE:Sky_Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/818
-#EXTINF:-1,DE:Syfy_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/832
-#EXTINF:-1,DE:SUPER_RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/83
-#EXTINF:-1,DE:Sky_TNT_Serie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/608
-#EXTINF:-1,DE:Sky_Hits_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1371
-#EXTINF:-1,DE:Sky_Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/598
-#EXTINF:-1,DE:Sky_Cinema-24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/599
-#EXTINF:-1,DE:Sky_Atlantic_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/816
-#EXTINF:-1,DE:Sixx_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/829
-#EXTINF:-1,DE:RTL_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/82
-#EXTINF:-1,DE:National_Geo_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/830
-#EXTINF:-1,DE:History_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/822
-#EXTINF:-1,DE:Fox_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/604
-#EXTINF:-1,DE:Disney_Junior_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/823
-#EXTINF:-1,DE:AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/833
-#EXTINF:-1,DE:ARD_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/605
-#EXTINF:-1,DE:13_Street_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/603
+#EXTINF:-1,|DE| RTL HD
+http://king365-tv.com:2103/yhp/1234/3303
+#EXTINF:-1,|DE| RTL FHD
+http://king365-tv.com:2103/yhp/1234/23440
+#EXTINF:-1,|DE| RTL 2 FHD
+http://king365-tv.com:2103/yhp/1234/3304
+#EXTINF:-1,|DE| RTL Crime HD
+http://king365-tv.com:2103/yhp/1234/1610
+#EXTINF:-1,|DE| RTL Nitro HD
+http://king365-tv.com:2103/yhp/1234/1609
+#EXTINF:-1,|DE| RTL PASSION HD
+http://king365-tv.com:2103/yhp/1234/3317
+#EXTINF:-1,|DE| ORF 1 HD
+http://king365-tv.com:2103/yhp/1234/1969
+#EXTINF:-1,|DE| ORF 2 HD
+http://king365-tv.com:2103/yhp/1234/2286
+#EXTINF:-1,|DE| FOX HD
+http://king365-tv.com:2103/yhp/1234/3313
+#EXTINF:-1,|DE| ZDF HD
+http://king365-tv.com:2103/yhp/1234/397
+#EXTINF:-1,|DE| ZDF FHD
+http://king365-tv.com:2103/yhp/1234/23441
+#EXTINF:-1,|DE| VOX HD
+http://king365-tv.com:2103/yhp/1234/1699
+#EXTINF:-1,|DE| SAT.1 HD
+http://king365-tv.com:2103/yhp/1234/1697
+#EXTINF:-1,|DE| ARTE HD
+http://king365-tv.com:2103/yhp/1234/3300
+#EXTINF:-1,|DE| AXN HD
+http://king365-tv.com:2103/yhp/1234/3301
+#EXTINF:-1,|DE| Super RTL HD
+http://king365-tv.com:2103/yhp/1234/161
+#EXTINF:-1,|DE| KABEL EINS HD
+http://king365-tv.com:2103/yhp/1234/2342
+#EXTINF:-1,|DE| DAS ERSTE HD
+http://king365-tv.com:2103/yhp/1234/1972
+#EXTINF:-1,|DE| ZDF Info HD
+http://king365-tv.com:2103/yhp/1234/23446
+#EXTINF:-1,|DE| RTL TELE LETZEBUERG HD
+http://king365-tv.com:2103/yhp/1234/5410
+#EXTINF:-1,|DE| SIXX HD
+http://king365-tv.com:2103/yhp/1234/1696
+#EXTINF:-1,|DE| N24 HD
+http://king365-tv.com:2103/yhp/1234/1973
+#EXTINF:-1,|DE| N-TV HD
+http://king365-tv.com:2103/yhp/1234/2343
+#EXTINF:-1,|DE| BR
+http://king365-tv.com:2103/yhp/1234/23445
+#EXTINF:-1,|DE| Phoenix HD
+http://king365-tv.com:2103/yhp/1234/23442
+#EXTINF:-1,|DE| SWR BW FHD
+http://king365-tv.com:2103/yhp/1234/23447
+#EXTINF:-1,|DE| MDR HD
+http://king365-tv.com:2103/yhp/1234/31584
+#EXTINF:-1,|DE| WDR HD
+http://king365-tv.com:2103/yhp/1234/23443
+#EXTINF:-1,|DE| SERVUS TV HD
+http://king365-tv.com:2103/yhp/1234/2349
+#EXTINF:-1,|DE| TLC HD
+http://king365-tv.com:2103/yhp/1234/3310
+#EXTINF:-1,|DE| ZDF NEO HD
+http://king365-tv.com:2103/yhp/1234/1968
+#EXTINF:-1,|DE| Sky Select 1 HD
+http://king365-tv.com:2103/yhp/1234/156
+#EXTINF:-1,|DE| Sky Select 2 HD
+http://king365-tv.com:2103/yhp/1234/157
+#EXTINF:-1,|DE| Sky Select 3 HD
+http://king365-tv.com:2103/yhp/1234/166
+#EXTINF:-1,|DE| Sky Select 4 HD
+http://king365-tv.com:2103/yhp/1234/167
+#EXTINF:-1,|DE| Sky Select 5 HD
+http://king365-tv.com:2103/yhp/1234/1182
+#EXTINF:-1,|DE| Sky Cinema HD
+http://king365-tv.com:2103/yhp/1234/146
+#EXTINF:-1,|DE| Sky Cinema +1 HD
+http://king365-tv.com:2103/yhp/1234/147
+#EXTINF:-1,|DE| Sky Cinema +24 HD
+http://king365-tv.com:2103/yhp/1234/148
+#EXTINF:-1,|DE| Sky Cinema Atlantic HD
+http://king365-tv.com:2103/yhp/1234/143
+#EXTINF:-1,|DE| Sky Cinema Action HD
+http://king365-tv.com:2103/yhp/1234/142
+#EXTINF:-1,|DE| Sky Nostalgie HD
+http://king365-tv.com:2103/yhp/1234/419
+#EXTINF:-1,|DE| Sky Cinema Emotion HD
+http://king365-tv.com:2103/yhp/1234/151
+#EXTINF:-1,|DE| Sky Cinema Hits HD
+http://king365-tv.com:2103/yhp/1234/152
+#EXTINF:-1,|DE| Sky Syfy HD
+http://king365-tv.com:2103/yhp/1234/160
+#EXTINF:-1,|DE| Sky Krimi HD
+http://king365-tv.com:2103/yhp/1234/153
+#EXTINF:-1,|DE| HR FHD
+http://king365-tv.com:2103/yhp/1234/2097
+#EXTINF:-1,|DE| Sky History HD
+http://king365-tv.com:2103/yhp/1234/1611
+#EXTINF:-1,|DE| 13TH STREET FHD
+http://king365-tv.com:2103/yhp/1234/127
+#EXTINF:-1,|DE| TNT FILM FHD
+http://king365-tv.com:2103/yhp/1234/1608
+#EXTINF:-1,|DE| TNT SERIE HD
+http://king365-tv.com:2103/yhp/1234/1607
+#EXTINF:-1,|DE| TNT COMEDY HD
+http://king365-tv.com:2103/yhp/1234/3307
+#EXTINF:-1,|DE| ProSieben HD
+http://king365-tv.com:2103/yhp/1234/2346
+#EXTINF:-1,|DE| ProSieben MAXX HD
+http://king365-tv.com:2103/yhp/1234/2347
+#EXTINF:-1,|DE| PRO7 FUN HD
+http://king365-tv.com:2103/yhp/1234/2345
+#EXTINF:-1,|DE| Sony TV HD
+http://king365-tv.com:2103/yhp/1234/2092
+#EXTINF:-1,|DE| COMEDY CENTRAL / VIVA HD
+http://king365-tv.com:2103/yhp/1234/3315
+#EXTINF:-1,|DE| UNIVERSAL CHANNEL HD
+http://king365-tv.com:2103/yhp/1234/3308
+#EXTINF:-1,|DE| HEIMAT KANAL HD
+http://king365-tv.com:2103/yhp/1234/3311
+#EXTINF:-1,|DE| SilverLine Movies Channel HD
+http://king365-tv.com:2103/yhp/1234/2350
+#EXTINF:-1,|DE| Nat Geo HD
+http://king365-tv.com:2103/yhp/1234/155
+#EXTINF:-1,|DE| Nat Geo Wild HD
+http://king365-tv.com:2103/yhp/1234/154
+#EXTINF:-1,|DE| DISCOVERY CHANNEL FHD
+http://king365-tv.com:2103/yhp/1234/3302
+#EXTINF:-1,|DE| HISTORY FHD
+http://king365-tv.com:2103/yhp/1234/3299
+#EXTINF:-1,|DE| 3SAT HD
+http://king365-tv.com:2103/yhp/1234/3319
+#EXTINF:-1,|DE| SPIEGEL Geschichte HD
+http://king365-tv.com:2103/yhp/1234/1698
+#EXTINF:-1,|DE| SPIEGEL TV WISSEN HD
+http://king365-tv.com:2103/yhp/1234/3306
+#EXTINF:-1,|DE| ANIMAL PLANET HD
+http://king365-tv.com:2103/yhp/1234/2338
+#EXTINF:-1,|DE| SKY DMAXX HD
+http://king365-tv.com:2103/yhp/1234/1604
+#EXTINF:-1,|DE| DELUXE MUSIC HD
+http://king365-tv.com:2103/yhp/1234/3312
+#EXTINF:-1,|DE| DAZN 1 BAR HD
+http://king365-tv.com:2103/yhp/1234/8462
+#EXTINF:-1,|DE| DAZN 2 BAR HD
+http://king365-tv.com:2103/yhp/1234/8463
+#EXTINF:-1,|DE| Sky FuBball BUNDESLIGA 1 HD
+http://king365-tv.com:2103/yhp/1234/144
+#EXTINF:-1,|DE| Sky BUNDESLIGA 2 HD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2028
+#EXTINF:-1,|DE| Sky BUNDESLIGA 3 HD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2029
+#EXTINF:-1,|DE| Sky BUNDESLIGA 4 HD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2030
+#EXTINF:-1,|DE| Sky BUNDESLIGA 5 HD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2031
+#EXTINF:-1,|DE| Sky BUNDESLIGA 6 HD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2032
+#EXTINF:-1,|DE| Sky BUNDESLIGA 7 HD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2068
+#EXTINF:-1,|DE| Sky BUNDESLIGA 8 HD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2069
+#EXTINF:-1,|DE| Sky BUNDESLIGA 9 HD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2270
+#EXTINF:-1,|DE| Sky BUNDESLIGA 10 HD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2271
+#EXTINF:-1,|DE| Sky Sport 1 FHD
+http://king365-tv.com:2103/yhp/1234/158
+#EXTINF:-1,|DE| Sky Sport 2 HD
+http://king365-tv.com:2103/yhp/1234/159
+#EXTINF:-1,|DE| Sky Sport 3 FHD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2272
+#EXTINF:-1,|DE| Sky Sport 4 FHD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2273
+#EXTINF:-1,|DE| Sky Sport 5 FHD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2274
+#EXTINF:-1,|DE| Sky Sport 6 FHD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2275
+#EXTINF:-1,|DE| Sky Sport 7 FHD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2276
+#EXTINF:-1,|DE| Sky Sport 8 FHD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2277
+#EXTINF:-1,|DE| Sky Sport 9 FHD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2278
+#EXTINF:-1,|DE| Sky Sport 10 FHD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2279
+#EXTINF:-1,|DE| Sky Sport 11 FHD (Live Events Only)
+http://king365-tv.com:2103/yhp/1234/2280
+#EXTINF:-1,|DE| Sky Sport Austria HD
+http://king365-tv.com:2103/yhp/1234/1605
+#EXTINF:-1,|DE| Sky Sport News HD
+http://king365-tv.com:2103/yhp/1234/2091
+#EXTINF:-1,|DE| SPORT 1 HD
+http://king365-tv.com:2103/yhp/1234/2348
+#EXTINF:-1,|DE| Sport Digital HD
+http://king365-tv.com:2103/yhp/1234/1606
+#EXTINF:-1,|DE| EuroSport 1 HD
+http://king365-tv.com:2103/yhp/1234/2095
+#EXTINF:-1,|DE| EuroSport 2 HD
+http://king365-tv.com:2103/yhp/1234/2096
+#EXTINF:-1,|DE| EuroSport 2 Xtra HD
+http://king365-tv.com:2103/yhp/1234/2094
+#EXTINF:-1,|DE| KiKa HD
+http://king365-tv.com:2103/yhp/1234/2093
+#EXTINF:-1,|DE| NICKELODEON HD
+http://king365-tv.com:2103/yhp/1234/1700
+#EXTINF:-1,|DE| BOOMERANG HD
+http://king365-tv.com:2103/yhp/1234/482
+#EXTINF:-1,|DE| DISNEY CHANNEL HD
+http://king365-tv.com:2103/yhp/1234/130
+#EXTINF:-1,|DE| DISNEY CINEMAGIC HD
+http://king365-tv.com:2103/yhp/1234/3314
+#EXTINF:-1,|DE| DISNEY JUNIOR HD
+http://king365-tv.com:2103/yhp/1234/1702
+#EXTINF:-1,|DE| DISNEY XD HD
+http://king365-tv.com:2103/yhp/1234/1701
