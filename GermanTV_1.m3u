@@ -1,675 +1,615 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="13th Street DE" tvg-name="13th Street HD DE" tvg-logo="http://195.154.221.171/picons/13thstreethdde.png" group-title="Germany",13th Street HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/80
-#EXTINF:-1 tvg-id="3sat DE" tvg-name="3sat HD DE" tvg-logo="http://195.154.221.171/picons/3sathdde.png" group-title="Germany",3sat HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2565
-#EXTINF:-1 tvg-id="AandE DE" tvg-name="Crime Investigation+ DE" tvg-logo="http://195.154.221.171/picons/aande.png" group-title="Germany",Crime Investigation+ DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12394
-#EXTINF:-1 tvg-id="ARD-alpha DE" tvg-name="ARD Alpha DE" tvg-logo="http://195.154.221.171/picons/ardalphade.png" group-title="Germany",ARD Alpha DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/107
-#EXTINF:-1 tvg-id="AXN HD DE" tvg-name="AXN HD DE" tvg-logo="http://195.154.221.171/picons/axnhdde.png" group-title="Germany",AXN HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/105
-#EXTINF:-1 tvg-id="ANIXE DE" tvg-name="ANIXE FHD DE" tvg-logo="http://195.154.221.171/picons/anixehdde.png" group-title="Germany",ANIXE FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2563
-#EXTINF:-1 tvg-id="Animal Planet DE" tvg-name="Animal Planet HD DE" tvg-logo="http://195.154.221.171/picons/animalplanethdde.png" group-title="Germany",Animal Planet HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2564
-#EXTINF:-1 tvg-id="arte DE" tvg-name="arte DE" tvg-logo="http://195.154.221.171/picons/artede.png" group-title="Germany",arte DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/106
-#EXTINF:-1 tvg-id="Astro TV DE" tvg-name="Astro TV DE" tvg-logo="http://195.154.221.171/picons/astrotvde.png" group-title="Germany",Astro TV DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5432
-#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-logo="http://195.154.221.171/picons/augsburgtvde.png" group-title="Germany",Augsburg TV DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/103
-#EXTINF:-1 tvg-id="BR Fernsehen Nord DE" tvg-name="BR DE" tvg-logo="http://195.154.221.171/picons/brde.png" group-title="Germany",BR DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5431
-#EXTINF:-1 tvg-id="Baby TV DE" tvg-name="Baby TV DE" tvg-logo="http://195.154.221.171/picons/babytvde.png" group-title="Germany",Baby TV DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/104
-#EXTINF:-1 tvg-id="Boomerang DE" tvg-name="Boomerang DE" tvg-logo="http://195.154.221.171/picons/boomerang.png" group-title="Germany",Boomerang DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/13783
-#EXTINF:-1 tvg-id="Boomerang DE" tvg-name="Boomerang SD+ DE" tvg-logo="http://195.154.221.171/picons/boomerang.png" group-title="Germany",Boomerang SD+ DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3185
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 1 HD DE" tvg-logo="" group-title="Germany",Sky Movies BoxOffice 1 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12464
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 2 HD DE" tvg-logo="" group-title="Germany",Sky Movies BoxOffice 2 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12463
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 3 HD DE" tvg-logo="" group-title="Germany",Sky Movies BoxOffice 3 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12462
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies BoxOffice 4 HD DE" tvg-logo="" group-title="Germany",Sky Movies BoxOffice 4 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12461
-#EXTINF:-1 tvg-id="" tvg-name="CINE FILM CLUB 5 HD DE" tvg-logo="" group-title="Germany",CINE FILM CLUB 5 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12460
-#EXTINF:-1 tvg-id="DMAX DE" tvg-name="DMAX HD DE" tvg-logo="http://195.154.221.171/picons/dmaxhdde.png" group-title="Germany",DMAX HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/101
-#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-logo="http://195.154.221.171/picons/daserstede.png" group-title="Germany",Das Erste DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2562
-#EXTINF:-1 tvg-id="Deluxe Music DE" tvg-name="Deluxe Music DE" tvg-logo="http://195.154.221.171/picons/deluxemusicde.png" group-title="Germany",Deluxe Music DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3184
-#EXTINF:-1 tvg-id="Deutsches Musik Fernsehen DE" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://195.154.221.171/picons/deutschesmusikfernsehende.png" group-title="Germany",Deutsches Musik Fernsehen DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5430
-#EXTINF:-1 tvg-id="Discovery Channel HD DE" tvg-name="Discovery Channel HD DE" tvg-logo="http://195.154.221.171/picons/discoverychannelhdde.png" group-title="Germany",Discovery Channel HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/59
-#EXTINF:-1 tvg-id="Cartoon Network DE" tvg-name="Cartoon Network DE" tvg-logo="http://195.154.221.171/picons/cartoonnetwork.png" group-title="Germany",Cartoon Network DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/16366
-#EXTINF:-1 tvg-id="Disney Channel DE" tvg-name="Disney Channel DE" tvg-logo="http://195.154.221.171/picons/disneychannelde.png" group-title="Germany",Disney Channel DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/99
-#EXTINF:-1 tvg-id="Disney Cinemagic DE" tvg-name="Sky Cinema Special HD DE" tvg-logo="http://195.154.221.171/picons/disneycinemagicde.png" group-title="Germany",Sky Cinema Special HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3183
-#EXTINF:-1 tvg-id="Disney Junior DE" tvg-name="Disney Junior FHD DE" tvg-logo="http://195.154.221.171/picons/disneyjuniorde.png" group-title="Germany",Disney Junior FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/58
-#EXTINF:-1 tvg-id="Disney XD DE" tvg-name="Disney XD DE" tvg-logo="http://195.154.221.171/picons/disneyxdde.png" group-title="Germany",Disney XD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/98
-#EXTINF:-1 tvg-id="Nick Jr. DE" tvg-name="Nick Jr. HD DE" tvg-logo="http://195.154.221.171/picons/nickjr.png" group-title="Germany",Nick Jr. HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/16367
-#EXTINF:-1 tvg-id="TOGGO plus DE" tvg-name="TOGGO plus DE" tvg-logo="http://195.154.221.171/picons/toggoplusde.png" group-title="Germany",TOGGO plus DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3851
-#EXTINF:-1 tvg-id="Super RTL DE" tvg-name="TOGGO plus von Super RTL DE" tvg-logo="http://195.154.221.171/picons/toggoplusvonsuperrtlde.png" group-title="Germany",TOGGO plus von Super RTL DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2549
-#EXTINF:-1 tvg-id="E! Entertainment DE" tvg-name="E! DE" tvg-logo="http://195.154.221.171/picons/ede.png" group-title="Germany",E! DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5429
-#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="Eurosport 1 HD DE" tvg-logo="http://195.154.221.171/picons/eurosport1hdde.png" group-title="Germany",Eurosport 1 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1316
-#EXTINF:-1 tvg-id="Eurosport 2 DE" tvg-name="Eurosport 2 DE" tvg-logo="http://195.154.221.171/picons/eurosport2de.png" group-title="Germany",Eurosport 2 DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/97
-#EXTINF:-1 tvg-id="Eurosport 2 HD Xtra DE" tvg-name="Eurosport 2 Xtra HD DE" tvg-logo="http://195.154.221.171/picons/eurosport2xtrahdde.png" group-title="Germany",Eurosport 2 Xtra HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/7430
-#EXTINF:-1 tvg-id="FC Bayern TV DE" tvg-name="FC Bayern TV HD DE" tvg-logo="http://195.154.221.171/picons/fcbayerntvde.png" group-title="Germany",FC Bayern TV HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/6491
-#EXTINF:-1 tvg-id="FOX HD DE" tvg-name="FOX HD DE" tvg-logo="http://195.154.221.171/picons/foxhdde.png" group-title="Germany",FOX HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2556
-#EXTINF:-1 tvg-id="" tvg-name="MediaShop DE" tvg-logo="http://195.154.221.171/picons/mediashopde.png" group-title="Germany",MediaShop DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5426
-#EXTINF:-1 tvg-id="FOX HD DE" tvg-name="FOX DE" tvg-logo="http://195.154.221.171/picons/foxde.png" group-title="Germany",FOX DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5425
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR DE" tvg-logo="http://195.154.221.171/picons/hrde.png" group-title="Germany",HR DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5422
-#EXTINF:-1 tvg-id="Heimatkanal DE" tvg-name="Heimatikanal DE" tvg-logo="http://195.154.221.171/picons/heimatkanalde.png" group-title="Germany",Heimatikanal DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3182
-#EXTINF:-1 tvg-id="History DE" tvg-name="History HD DE" tvg-logo="http://195.154.221.171/picons/historyhdde.png" group-title="Germany",History HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/95
-#EXTINF:-1 tvg-id="Jukebox DE" tvg-name="Jukebox DE" tvg-logo="http://195.154.221.171/picons/jukeboxde.png" group-title="Germany",Jukebox DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3854
-#EXTINF:-1 tvg-id="Junior DE" tvg-name="Junior DE" tvg-logo="http://195.154.221.171/picons/juniorde.png" group-title="Germany",Junior DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3850
-#EXTINF:-1 tvg-id="kabel eins DE" tvg-name="kabel eins HD DE" tvg-logo="http://195.154.221.171/picons/kabeleinshdde.png" group-title="Germany",kabel eins HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/92
-#EXTINF:-1 tvg-id="Kabel eins CLASSICS DE" tvg-name="kabel eins CLASSICS FHD DE" tvg-logo="http://195.154.221.171/picons/kabeleinsclassicshdde.png" group-title="Germany",kabel eins CLASSICS FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/94
-#EXTINF:-1 tvg-id="kabel eins Doku DE" tvg-name="kabel eins Doku DE" tvg-logo="http://195.154.221.171/picons/kabeleinsdokude.png" group-title="Germany",kabel eins Doku DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/93
-#EXTINF:-1 tvg-id="KiKa DE" tvg-name="KiKa DE" tvg-logo="http://195.154.221.171/picons/kikade.png" group-title="Germany",KiKa DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/91
-#EXTINF:-1 tvg-id="Kinowelt TV DE" tvg-name="KinoweltTV DE" tvg-logo="http://195.154.221.171/picons/kinowelttvde.png" group-title="Germany",KinoweltTV DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/90
-#EXTINF:-1 tvg-id="MDR DE" tvg-name="MDR HD DE" tvg-logo="http://195.154.221.171/picons/mdrhdde.png" group-title="Germany",MDR HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/89
-#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 1 HD DE" tvg-logo="" group-title="Germany",MOVIESINEMA GERMAN 1 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12475
-#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 2 HD DE" tvg-logo="" group-title="Germany",MOVIESINEMA GERMAN 2 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12474
-#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 3 HD DE" tvg-logo="" group-title="Germany",MOVIESINEMA GERMAN 3 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12473
-#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 4 HD DE" tvg-logo="" group-title="Germany",MOVIESINEMA GERMAN 4 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12472
-#EXTINF:-1 tvg-id="" tvg-name="MOVIESINEMA GERMAN 5 HD DE" tvg-logo="" group-title="Germany",MOVIESINEMA GERMAN 5 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12471
-#EXTINF:-1 tvg-id="MTV Dance UK" tvg-name="MTV Dance DE" tvg-logo="http://195.154.221.171/picons/mtvdancede.png" group-title="Germany",MTV Dance DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3853
-#EXTINF:-1 tvg-id="Motorvision TV DE" tvg-name="Motorvision TV DE" tvg-logo="http://195.154.221.171/picons/motorvisiontvde.png" group-title="Germany",Motorvision TV DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3181
-#EXTINF:-1 tvg-id="N24 DE" tvg-name="Welt HD DE" tvg-logo="http://195.154.221.171/picons/welt.png" group-title="Germany",Welt HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/88
-#EXTINF:-1 tvg-id="N24 DE" tvg-name="N24 Doku DE" tvg-logo="http://195.154.221.171/picons/n24hdde.png" group-title="Germany",N24 Doku DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5415
-#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR HD DE" tvg-logo="http://195.154.221.171/picons/ndrhdde.png" group-title="Germany",NDR HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/86
-#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geographic DE" tvg-logo="http://195.154.221.171/picons/nationalgeographicde.png" group-title="Germany",National Geographic DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5414
-#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geographic HD DE" tvg-logo="http://195.154.221.171/picons/nationalgeographichdde.png" group-title="Germany",National Geographic HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/87
-#EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="Nat Geo Wild DE" tvg-logo="http://195.154.221.171/picons/natgeowildde.png" group-title="Germany",Nat Geo Wild DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2561
-#EXTINF:-1 tvg-id="Nickelodeon DE" tvg-name="Nickelodeon HD DE" tvg-logo="http://195.154.221.171/picons/nickelodeonde.png" group-title="Germany",Nickelodeon HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3852
-#EXTINF:-1 tvg-id="n-tv DE" tvg-name="n-tv HD DE" tvg-logo="http://195.154.221.171/picons/ntvde.png" group-title="Germany",n-tv HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/85
-#EXTINF:-1 tvg-id="ORF eins DE" tvg-name="ORF eins HD DE" tvg-logo="http://195.154.221.171/picons/orfeinshdde.png" group-title="Germany",ORF eins HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2559
-#EXTINF:-1 tvg-id="ORF 2 DE" tvg-name="ORF 2 HD DE" tvg-logo="http://195.154.221.171/picons/orf2de.png" group-title="Germany",ORF 2 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2558
-#EXTINF:-1 tvg-id="PHOENIX DE" tvg-name="Phoenix HD DE" tvg-logo="http://195.154.221.171/picons/phoenixhdde.png" group-title="Germany",Phoenix HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3186
-#EXTINF:-1 tvg-id="ProSieben DE" tvg-name="ProSieben DE" tvg-logo="http://195.154.221.171/picons/prosiebende.png" group-title="Germany",ProSieben DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3180
-#EXTINF:-1 tvg-id="Pro7 HD DE" tvg-name="ProSieben HD DE" tvg-logo="http://195.154.221.171/picons/prosiebenhdde.png" group-title="Germany",ProSieben HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/83
-#EXTINF:-1 tvg-id="Pro7 Maxx HD DE" tvg-name="ProSieben MAXX HD DE" tvg-logo="http://195.154.221.171/picons/prosiebenmaxxhdde.png" group-title="Germany",ProSieben MAXX HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/82
-#EXTINF:-1 tvg-id="QVC DE" tvg-name="QVC DE" tvg-logo="http://195.154.221.171/picons/qvcde.png" group-title="Germany",QVC DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5412
-#EXTINF:-1 tvg-id="QVC Beauty and Style DE" tvg-name="QVC Beauty & Style DE" tvg-logo="http://195.154.221.171/picons/qvcbeautyandstylede.png" group-title="Germany",QVC Beauty & Style DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5411
-#EXTINF:-1 tvg-id="RBB DE" tvg-name="rbb DE" tvg-logo="http://195.154.221.171/picons/rbbde.png" group-title="Germany",rbb DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5410
-#EXTINF:-1 tvg-id="RBB DE" tvg-name="rbb HD DE" tvg-logo="http://195.154.221.171/picons/rbbhdde.png" group-title="Germany",rbb HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5409
-#EXTINF:-1 tvg-id="RTL DE" tvg-name="RTL DE" tvg-logo="http://195.154.221.171/picons/rtlde.png" group-title="Germany",RTL DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/81
-#EXTINF:-1 tvg-id="RTL II DE" tvg-name="RTL II DE" tvg-logo="http://195.154.221.171/picons/rtliide.png" group-title="Germany",RTL II DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9348
-#EXTINF:-1 tvg-id="RTL II DE" tvg-name="RTL II HD DE" tvg-logo="http://195.154.221.171/picons/rtliihdde.png" group-title="Germany",RTL II HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/79
-#EXTINF:-1 tvg-id="RTL Crime DE" tvg-name="RTL Crime DE" tvg-logo="http://195.154.221.171/picons/rtlcrimede.png" group-title="Germany",RTL Crime DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/77
-#EXTINF:-1 tvg-id="RTL Living DE" tvg-name="RTL Living HD DE" tvg-logo="http://195.154.221.171/picons/rtllivinghdde.png" group-title="Germany",RTL Living HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/76
-#EXTINF:-1 tvg-id="RTL NITRO DE" tvg-name="RTL Nitro HD DE" tvg-logo="http://195.154.221.171/picons/rtlnitrode.png" group-title="Germany",RTL Nitro HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/75
-#EXTINF:-1 tvg-id="RTL Passion DE" tvg-name="RTL Passion HD DE" tvg-logo="http://195.154.221.171/picons/rtlpassionde.png" group-title="Germany",RTL Passion HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/74
-#EXTINF:-1 tvg-id="RTLplus DE" tvg-name="RTL plus DE" tvg-logo="http://195.154.221.171/picons/rtlplus.png" group-title="Germany",RTL plus DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/13971
-#EXTINF:-1 tvg-id="Romance TV DE" tvg-name="Romance TV DE" tvg-logo="http://195.154.221.171/picons/romancetvde.png" group-title="Germany",Romance TV DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3177
-#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="SAT.1 HD DE" tvg-logo="http://195.154.221.171/picons/sat1hdde.png" group-title="Germany",SAT.1 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/72
-#EXTINF:-1 tvg-id="Sat.1 Gold DE" tvg-name="SAT.1 GOLD HD DE" tvg-logo="http://195.154.221.171/picons/sat1goldde.png" group-title="Germany",SAT.1 GOLD HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/71
-#EXTINF:-1 tvg-id="SAT.1 emotions DE" tvg-name="SAT.1 emotions DE" tvg-logo="http://195.154.221.171/picons/sat1emotionsde.png" group-title="Germany",SAT.1 emotions DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/73
-#EXTINF:-1 tvg-id="ServusTV Deutschland DE" tvg-name="Servus TV HD DE" tvg-logo="http://195.154.221.171/picons/servustvhdde.png" group-title="Germany",Servus TV HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/70
-#EXTINF:-1 tvg-id="Silverline Movie Channel DE" tvg-name="Silverline Movie Channel HD DE" tvg-logo="http://195.154.221.171/picons/silverlinemoviechannelhdde.png" group-title="Germany",Silverline Movie Channel HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5490
-#EXTINF:-1 tvg-id="SIXX DE" tvg-name="SIXX HD DE" tvg-logo="http://195.154.221.171/picons/sixxhdde.png" group-title="Germany",SIXX HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/69
-#EXTINF:-1 tvg-id="Sky Atlantic DE" tvg-name="Sky Atlantic HD DE" tvg-logo="http://195.154.221.171/picons/skyatlantichdde.png" group-title="Germany",Sky Atlantic HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/66
-#EXTINF:-1 tvg-id="Sky Cinema DE" tvg-name="Sky Cinema HD DE" tvg-logo="http://195.154.221.171/picons/skycinemahdde.png" group-title="Germany",Sky Cinema HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/62
-#EXTINF:-1 tvg-id="Sky Cinema Plus1 DE" tvg-name="Sky Cinema +1 HD DE" tvg-logo="http://195.154.221.171/picons/skycinemaplus1hdde.png" group-title="Germany",Sky Cinema +1 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/65
-#EXTINF:-1 tvg-id="Sky Cinema Plus24 DE" tvg-name="Sky Cinema +24 HD DE" tvg-logo="http://195.154.221.171/picons/skycinemaplus24hdde.png" group-title="Germany",Sky Cinema +24 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/64
-#EXTINF:-1 tvg-id="Sky Cinema Action DE" tvg-name="Sky Cinema Action HD DE" tvg-logo="http://195.154.221.171/picons/skycinemaactionhdde.png" group-title="Germany",Sky Cinema Action HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/67
-#EXTINF:-1 tvg-id="Sky Cinema Comedy DE" tvg-name="Sky Cinema Comedy HD DE" tvg-logo="http://195.154.221.171/picons/skycinemacomedyhdde.png" group-title="Germany",Sky Cinema Comedy HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/60
-#EXTINF:-1 tvg-id="Sky Cinema Emotion DE" tvg-name="Sky Cinema Emotion DE" tvg-logo="http://195.154.221.171/picons/skycinemaemotionde.png" group-title="Germany",Sky Cinema Emotion DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2557
-#EXTINF:-1 tvg-id="Sky Cinema Emotion DE" tvg-name="Sky Cinema Emotion HD DE" tvg-logo="http://195.154.221.171/picons/skycinemaemotionhdde.png" group-title="Germany",Sky Cinema Emotion HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3849
-#EXTINF:-1 tvg-id="Sky Cinema Family DE" tvg-name="Sky Cinema Family HD DE" tvg-logo="http://195.154.221.171/picons/skycinemafamilyhdde.png" group-title="Germany",Sky Cinema Family HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/63
-#EXTINF:-1 tvg-id="Sky Cinema Hits DE" tvg-name="Sky Cinema Hits HD DE" tvg-logo="http://195.154.221.171/picons/skycinemahitshdde.png" group-title="Germany",Sky Cinema Hits HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2555
-#EXTINF:-1 tvg-id="Sky Cinema Nostalgie DE" tvg-name="Sky Cinema Nostalgie DE" tvg-logo="http://195.154.221.171/picons/skycinemanostalgiede.png" group-title="Germany",Sky Cinema Nostalgie DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3178
-#EXTINF:-1 tvg-id="Sky Krimi DE" tvg-name="Sky Krimi DE" tvg-logo="http://195.154.221.171/picons/skykrimide.png" group-title="Germany",Sky Krimi DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3179
-#EXTINF:-1 tvg-id="Sky Select 1 DE" tvg-name="Sky Popcorn Select 1 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect1hdde.png" group-title="Germany",Sky Popcorn Select 1 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/8530
-#EXTINF:-1 tvg-id="Sky Select 2 DE" tvg-name="Sky Popcorn Select 2 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect2hdde.png" group-title="Germany",Sky Popcorn Select 2 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/8529
-#EXTINF:-1 tvg-id="Sky Select 3 DE" tvg-name="Sky Popcorn Select 3 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect3hdde.png" group-title="Germany",Sky Popcorn Select 3 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/8528
-#EXTINF:-1 tvg-id="Sky Select 4 DE" tvg-name="Sky Popcorn Select 4 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect4hdde.png" group-title="Germany",Sky Popcorn Select 4 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/8527
-#EXTINF:-1 tvg-id="Sky Select 5 DE" tvg-name="Sky Popcorn Select 5 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect5hdde.png" group-title="Germany",Sky Popcorn Select 5 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/8526
-#EXTINF:-1 tvg-id="Sky Select 6 DE" tvg-name="Sky Popcorn Select 6 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect6hdde.png" group-title="Germany",Sky Popcorn Select 6 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/8525
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 1 DE" tvg-logo="http://195.154.221.171/picons/skyselect.png" group-title="Germany",SKY SELECT 1 DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12470
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select 1 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect1hdde.png" group-title="Germany",Sky Select 1 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1339
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 1 FHD DE" tvg-logo="http://195.154.221.171/picons/skyselecthd.png" group-title="Germany",SKY SELECT 1 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12491
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 2 DE" tvg-logo="http://195.154.221.171/picons/skyselect.png" group-title="Germany",SKY SELECT 2 DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12469
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select 2 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect2hdde.png" group-title="Germany",Sky Select 2 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1338
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 2 FHD DE" tvg-logo="http://195.154.221.171/picons/skyselecthd.png" group-title="Germany",SKY SELECT 2 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12490
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 3 DE" tvg-logo="http://195.154.221.171/picons/skyselect.png" group-title="Germany",SKY SELECT 3 DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12468
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select 3 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect3hdde.png" group-title="Germany",Sky Select 3 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1337
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 3 FHD DE" tvg-logo="http://195.154.221.171/picons/skyselecthd.png" group-title="Germany",SKY SELECT 3 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12489
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 4 DE" tvg-logo="http://195.154.221.171/picons/skyselect.png" group-title="Germany",SKY SELECT 4 DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12467
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select 4 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect4hdde.png" group-title="Germany",Sky Select 4 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1336
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 4 FHD DE" tvg-logo="http://195.154.221.171/picons/skyselecthd.png" group-title="Germany",SKY SELECT 4 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12488
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 5 DE" tvg-logo="http://195.154.221.171/picons/skyselect.png" group-title="Germany",SKY SELECT 5 DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12466
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select 5 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect5hdde.png" group-title="Germany",Sky Select 5 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1335
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 5 FHD DE" tvg-logo="http://195.154.221.171/picons/skyselecthd.png" group-title="Germany",SKY SELECT 5 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12487
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 6 DE" tvg-logo="http://195.154.221.171/picons/skyselect.png" group-title="Germany",SKY SELECT 6 DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12465
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select 6 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect6hdde.png" group-title="Germany",Sky Select 6 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1334
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select 7 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect7hdde.png" group-title="Germany",Sky Select 7 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1333
-#EXTINF:-1 tvg-id="" tvg-name="Sky Select 8 HD DE" tvg-logo="http://195.154.221.171/picons/skyselect8hdde.png" group-title="Germany",Sky Select 8 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1332
-#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="Sky Sport 1 HD DE" tvg-logo="http://195.154.221.171/picons/skysport1hdde.png" group-title="Germany",Sky Sport 1 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12697
-#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="Sky Sport 2 HD DE" tvg-logo="http://195.154.221.171/picons/skysport2hdde.png" group-title="Germany",Sky Sport 2 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12696
-#EXTINF:-1 tvg-id="Sky Sport 3 DE" tvg-name="Sky Sport 3 HD (Live Event) DE" tvg-logo="http://195.154.221.171/picons/skysport3hdde.png" group-title="Germany",Sky Sport 3 HD (Live Event) DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1323
-#EXTINF:-1 tvg-id="Sky Sport 4 DE" tvg-name="Sky Sport 4 HD (Live Event) DE" tvg-logo="http://195.154.221.171/picons/skysport4hdde.png" group-title="Germany",Sky Sport 4 HD (Live Event) DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1322
-#EXTINF:-1 tvg-id="Sky Sport 5 DE" tvg-name="Sky Sport 5 HD (Live Event) DE" tvg-logo="http://195.154.221.171/picons/skysport5hdde.png" group-title="Germany",Sky Sport 5 HD (Live Event) DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12695
-#EXTINF:-1 tvg-id="Sky Sport 6 DE" tvg-name="Sky Sport 6 HD (Live Event) DE" tvg-logo="http://195.154.221.171/picons/skysport6hdde.png" group-title="Germany",Sky Sport 6 HD (Live Event) DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1320
-#EXTINF:-1 tvg-id="Sky Sport 7 DE" tvg-name="Sky Sport 7 HD (Live Event) DE" tvg-logo="http://195.154.221.171/picons/skysport7hdde.png" group-title="Germany",Sky Sport 7 HD (Live Event) DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1319
-#EXTINF:-1 tvg-id="Sky Sport 8 DE" tvg-name="Sky Sport 8 HD (Live Event) DE" tvg-logo="http://195.154.221.171/picons/skysport8hdde.png" group-title="Germany",Sky Sport 8 HD (Live Event) DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12694
-#EXTINF:-1 tvg-id="Sky Sport 9 DE" tvg-name="Sky Sport 9 HD (Live Event) DE" tvg-logo="http://195.154.221.171/picons/skysport9hdde.png" group-title="Germany",Sky Sport 9 HD (Live Event) DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/8693
-#EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="Sky Sport Austria HD DE" tvg-logo="http://195.154.221.171/picons/skysportaustriade.png" group-title="Germany",Sky Sport Austria HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3176
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga1hdde.png" group-title="Germany",Sky Sport Bundesliga 1 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12700
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 DE" tvg-name="Sky Sport Bundesliga 2 HD (Live Event) DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga2hdde.png" group-title="Germany",Sky Sport Bundesliga 2 HD (Live Event) DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1330
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 DE" tvg-name="Sky Sport Bundesliga 3 HD (Live Event) DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga3hdde.png" group-title="Germany",Sky Sport Bundesliga 3 HD (Live Event) DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12699
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 DE" tvg-name="Sky Sport Bundesliga 4 HD (Live Event) DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga4hdde.png" group-title="Germany",Sky Sport Bundesliga 4 HD (Live Event) DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1328
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 DE" tvg-name="Sky Sport Bundesliga 5 HD (Live Event) DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga5hdde.png" group-title="Germany",Sky Sport Bundesliga 5 HD (Live Event) DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12698
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 DE" tvg-name="Sky Sport Bundesliga 6 HD (Live Event) DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga6hdde.png" group-title="Germany",Sky Sport Bundesliga 6 HD (Live Event) DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1326
-#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-name="Sky Sport News DE" tvg-logo="http://195.154.221.171/picons/skysportnewsde.png" group-title="Germany",Sky Sport News DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/24381
-#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-name="Sky Sport News HD DE" tvg-logo="http://195.154.221.171/picons/skysportnewshdde.png" group-title="Germany",Sky Sport News HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/1315
-#EXTINF:-1 tvg-id="Sony TV DE" tvg-name="Sony TV FHD DE" tvg-logo="http://195.154.221.171/picons/sonytvhdde.png" group-title="Germany",Sony TV FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5433
-#EXTINF:-1 tvg-id="SPIEGEL Geschichte DE" tvg-name="SPIEGEL Geschichte DE" tvg-logo="http://195.154.221.171/picons/spiegelgeschichtede.png" group-title="Germany",SPIEGEL Geschichte DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3174
-#EXTINF:-1 tvg-id="Spiegel TV Wissen DE" tvg-name="Spiegel TV Wissen HD DE" tvg-logo="http://195.154.221.171/picons/spiegeltvwissenhdde.png" group-title="Germany",Spiegel TV Wissen HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/8789
-#EXTINF:-1 tvg-id="Sport1 DE" tvg-name="Sport1 HD DE" tvg-logo="http://195.154.221.171/picons/sport1hdde.png" group-title="Germany",Sport1 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9271
-#EXTINF:-1 tvg-id="sportdigital DE" tvg-name="SportDigital HD DE" tvg-logo="http://195.154.221.171/picons/sportdigitalde.png" group-title="Germany",SportDigital HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3187
-#EXTINF:-1 tvg-id="SWR DE" tvg-name="SWR DE" tvg-logo="http://195.154.221.171/picons/swrde.png" group-title="Germany",SWR DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5403
-#EXTINF:-1 tvg-id="SWR DE" tvg-name="SWR HD DE" tvg-logo="http://195.154.221.171/picons/swrhdde.png" group-title="Germany",SWR HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5402
-#EXTINF:-1 tvg-id="Syfy DE" tvg-name="Syfy DE" tvg-logo="http://195.154.221.171/picons/syfyde.png" group-title="Germany",Syfy DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3173
-#EXTINF:-1 tvg-id="Tele 5 DE" tvg-name="Tele 5 HD DE" tvg-logo="http://195.154.221.171/picons/tele5de.png" group-title="Germany",Tele 5 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3172
-#EXTINF:-1 tvg-id="TLC DE" tvg-name="TLC DE" tvg-logo="http://195.154.221.171/picons/tlcde.png" group-title="Germany",TLC DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3171
-#EXTINF:-1 tvg-id="TNT Comedy DE" tvg-name="TNT Comedy HD DE" tvg-logo="http://195.154.221.171/picons/tntcomedyhdde.png" group-title="Germany",TNT Comedy HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3848
-#EXTINF:-1 tvg-id="TNT Film DE" tvg-name="TNT Film HD DE" tvg-logo="http://195.154.221.171/picons/tntfilmde.png" group-title="Germany",TNT Film HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4388
-#EXTINF:-1 tvg-id="TNT Serie DE" tvg-name="TNT Serie HD DE" tvg-logo="http://195.154.221.171/picons/tntseriehdde.png" group-title="Germany",TNT Serie HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3175
-#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry HD DE" tvg-logo="http://195.154.221.171/picons/tomandjerryhdde.png" group-title="Germany",Tom and Jerry HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/10557
-#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="Tagesschau 24 DE" tvg-logo="http://195.154.221.171/picons/tagesschau24de.png" group-title="Germany",Tagesschau 24 DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5401
-#EXTINF:-1 tvg-id="Universal Channel DE" tvg-name="Universal Channel HD DE" tvg-logo="http://195.154.221.171/picons/universalchannelhdde.png" group-title="Germany",Universal Channel HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3170
-#EXTINF:-1 tvg-id="Viva - Comedy Central DE" tvg-name="VIVA / Comedy Central DE" tvg-logo="http://195.154.221.171/picons/vivacomedycentralde.png" group-title="Germany",VIVA / Comedy Central DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3169
-#EXTINF:-1 tvg-id="VOX DE" tvg-name="VOX DE" tvg-logo="http://195.154.221.171/picons/voxde.png" group-title="Germany",VOX DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/100
-#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR HD DE" tvg-logo="http://195.154.221.171/picons/wdrhdde.png" group-title="Germany",WDR HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2551
-#EXTINF:-1 tvg-id="" tvg-name="WWE DE" tvg-logo="http://195.154.221.171/picons/wwede.png" group-title="Germany",WWE DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/7795
-#EXTINF:-1 tvg-id="Welt der Wunder DE" tvg-name="Welt der Wunder DE" tvg-logo="http://195.154.221.171/picons/weltderwunderde.png" group-title="Germany",Welt der Wunder DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5399
-#EXTINF:-1 tvg-id="ZDF DE" tvg-name="ZDF FHD DE" tvg-logo="http://195.154.221.171/picons/zdfde.png" group-title="Germany",ZDF FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2550
-#EXTINF:-1 tvg-id="ZDFinfo DE" tvg-name="ZDFinfo DE" tvg-logo="http://195.154.221.171/picons/zdfinfode.png" group-title="Germany",ZDFinfo DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3856
-#EXTINF:-1 tvg-id="ZDFneo DE" tvg-name="ZDFneo DE" tvg-logo="http://195.154.221.171/picons/zdfneode.png" group-title="Germany",ZDFneo DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3855
-#EXTINF:-1 tvg-id="Zee One DE" tvg-name="Zee One HD DE" tvg-logo="http://195.154.221.171/picons/zeeonede.png" group-title="Germany",Zee One HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/96
-#EXTINF:-1 tvg-id="13th Street DE" tvg-name="RTL Zwei HD DE" tvg-logo="" group-title="Germany",RTL Zwei HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/75471
-#EXTINF:-1 tvg-id="13th Street DE" tvg-name="RTL Zwei FHD DE" tvg-logo="" group-title="Germany",RTL Zwei FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/75472
-#EXTINF:-1 tvg-id="" tvg-name="VoxUp DE" tvg-logo="" group-title="Germany",VoxUp DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78138
-#EXTINF:-1 tvg-id="" tvg-name="Bibel TV Impuls DE" tvg-logo="" group-title="Germany",Bibel TV Impuls DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78202
-#EXTINF:-1 tvg-id="" tvg-name="Bibel TV Musik DE" tvg-logo="" group-title="Germany",Bibel TV Musik DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78203
-#EXTINF:-1 tvg-id="" tvg-name="Kingdom HD 24/7 VIP DE" tvg-logo="" group-title="Germany",Kingdom HD 24/7 VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78487
-#EXTINF:-1 tvg-id="" tvg-name="RTL HD DE" tvg-logo="" group-title="Germany",RTL HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78522
-#EXTINF:-1 tvg-id="" tvg-name="Planet FHD DE" tvg-logo="" group-title="Germany",Planet FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78574
-#EXTINF:-1 tvg-id="" tvg-name="Planet HD DE" tvg-logo="" group-title="Germany",Planet HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78575
-#EXTINF:-1 tvg-id="" tvg-name="Super RTL HD DE" tvg-logo="" group-title="Germany",Super RTL HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78578
-#EXTINF:-1 tvg-id="" tvg-name="VIVA / Comedy Central HD DE" tvg-logo="" group-title="Germany",VIVA / Comedy Central HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78579
-#EXTINF:-1 tvg-id="" tvg-name="Tele 5 DE" tvg-logo="" group-title="Germany",Tele 5 DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78580
-#EXTINF:-1 tvg-id="" tvg-name="Tele 5 FHD DE" tvg-logo="" group-title="Germany",Tele 5 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78581
-#EXTINF:-1 tvg-id="" tvg-name="Wetter.com DE" tvg-logo="" group-title="Germany",Wetter.com DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78597
-#EXTINF:-1 tvg-id="" tvg-name="Bon Gusto HD DE" tvg-logo="" group-title="Germany",Bon Gusto HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78598
-#EXTINF:-1 tvg-id="" tvg-name="Geo TV HD DE" tvg-logo="" group-title="Germany",Geo TV HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78601
-#EXTINF:-1 tvg-id="" tvg-name="Die Neue Zeit TV DE" tvg-logo="" group-title="Germany",Die Neue Zeit TV DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78658
-#EXTINF:-1 tvg-id="" tvg-name="Mainfranken Würzburg TV HD DE" tvg-logo="" group-title="Germany",Mainfranken Würzburg TV HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78659
-#EXTINF:-1 tvg-id="" tvg-name="Franken HD DE" tvg-logo="" group-title="Germany",Franken HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78660
-#EXTINF:-1 tvg-id="" tvg-name="Oberpfalz TV HD DE" tvg-logo="" group-title="Germany",Oberpfalz TV HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78663
-#EXTINF:-1 tvg-id="" tvg-name="Allgäu TV HD DE" tvg-logo="" group-title="Germany",Allgäu TV HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78665
-#EXTINF:-1 tvg-id="" tvg-name="Gute Laune TV DE" tvg-logo="" group-title="Germany",Gute Laune TV DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78667
-#EXTINF:-1 tvg-id="" tvg-name="EWTN DE" tvg-logo="" group-title="Germany",EWTN DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78668
-#EXTINF:-1 tvg-id="" tvg-name="QVC 2 FHD DE" tvg-logo="" group-title="Germany",QVC 2 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78669
-#EXTINF:-1 tvg-id="" tvg-name="1-2-3 TV HD DE" tvg-logo="" group-title="Germany",1-2-3 TV HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78670
-#EXTINF:-1 tvg-id="" tvg-name="Folx TV DE" tvg-logo="" group-title="Germany",Folx TV DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78671
-#EXTINF:-1 tvg-id="" tvg-name="Melodie TV DE" tvg-logo="" group-title="Germany",Melodie TV DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78673
-#EXTINF:-1 tvg-id="" tvg-name="Channel 21 DE" tvg-logo="" group-title="Germany",Channel 21 DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78674
-#EXTINF:-1 tvg-id="" tvg-name="Schau TV HD DE" tvg-logo="" group-title="Germany",Schau TV HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78676
-#EXTINF:-1 tvg-id="" tvg-name="RFO HD DE" tvg-logo="" group-title="Germany",RFO HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/78683
-#EXTINF:-1 tvg-id="13th Street DE" tvg-name="13th Street FHD DE" tvg-logo="http://195.154.221.171/picons/13thstreethdde.png" group-title="Germany",13th Street FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3948
-#EXTINF:-1 tvg-id="AandE DE" tvg-name="Crime Investigation+ FHD DE" tvg-logo="http://195.154.221.171/picons/aandehdde.png" group-title="Germany",Crime Investigation+ FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3947
-#EXTINF:-1 tvg-id="AandE DE" tvg-name="A+E DE" tvg-logo="" group-title="Germany",A+E DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9329
-#EXTINF:-1 tvg-id="Alex Berlin DE" tvg-name="ALEX Berlin DE" tvg-logo="http://195.154.221.171/picons/alexberlin.png" group-title="Germany",ALEX Berlin DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9301
-#EXTINF:-1 tvg-id="AXN HD DE" tvg-name="AXN FHD DE" tvg-logo="http://195.154.221.171/picons/axnhdde.png" group-title="Germany",AXN FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3945
-#EXTINF:-1 tvg-id="Animal Planet DE" tvg-name="Animal Planet DE" tvg-logo="http://195.154.221.171/picons/animalplanethdde.png" group-title="Germany",Animal Planet DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3946
-#EXTINF:-1 tvg-id="Auto Motor und Sport DE" tvg-name="Auto Motor und Sport FHD DE" tvg-logo="http://195.154.221.171/picons/automotorundsporthd.png" group-title="Germany",Auto Motor und Sport FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9340
-#EXTINF:-1 tvg-id="Bibel TV HD DE" tvg-name="Bibel TV HD DE" tvg-logo="http://195.154.221.171/picons/bibeltvhd.png" group-title="Germany",Bibel TV HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9341
-#EXTINF:-1 tvg-id="CLASSICA DE" tvg-name="CLASSICA HD DE" tvg-logo="http://195.154.221.171/picons/classicade.png" group-title="Germany",CLASSICA HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/102
-#EXTINF:-1 tvg-id="DW DE" tvg-name="DW DE" tvg-logo="http://195.154.221.171/picons/dw.png" group-title="Germany",DW DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9309
-#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste FHD DE" tvg-logo="http://195.154.221.171/picons/daserstehdde.png" group-title="Germany",Das Erste FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4177
-#EXTINF:-1 tvg-id="Deluxe Music DE" tvg-name="Deluxe Music FHD DE" tvg-logo="" group-title="Germany",Deluxe Music FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9333
-#EXTINF:-1 tvg-id="Discovery Channel HD DE" tvg-name="Discovery Channel FHD DE" tvg-logo="http://195.154.221.171/picons/discoverychannelhdde.png" group-title="Germany",Discovery Channel FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3944
-#EXTINF:-1 tvg-id="Disney Channel DE" tvg-name="Disney Channel FHD DE" tvg-logo="http://195.154.221.171/picons/disneychannelhdde.png" group-title="Germany",Disney Channel FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3943
-#EXTINF:-1 tvg-id="Disney Cinemagic DE" tvg-name="Sky Cinema Special FHD DE" tvg-logo="http://195.154.221.171/picons/disneycinemagichdde.png" group-title="Germany",Sky Cinema Special FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3942
-#EXTINF:-1 tvg-id="ATV HD AT" tvg-name="a.tv FHD DE" tvg-logo="http://195.154.221.171/picons/a.tvhd.png" group-title="Germany",a.tv FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9295
-#EXTINF:-1 tvg-id="euronews DE" tvg-name="Euronews DE" tvg-logo="http://195.154.221.171/picons/euronews.png" group-title="Germany",Euronews DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9305
-#EXTINF:-1 tvg-id="FOX HD DE" tvg-name="FOX FHD DE" tvg-logo="http://195.154.221.171/picons/foxhdde.png" group-title="Germany",FOX FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3941
-#EXTINF:-1 tvg-id="Fix and Foxi DE" tvg-name="Fix und Foxi DE" tvg-logo="http://195.154.221.171/picons/fixandfoxi.png" group-title="Germany",Fix und Foxi DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9324
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-logo="http://195.154.221.171/picons/hrhdde.png" group-title="Germany",HR HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5421
-#EXTINF:-1 tvg-id="History DE" tvg-name="History FHD DE" tvg-logo="http://195.154.221.171/picons/historyhdde.png" group-title="Germany",History FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3940
-#EXTINF:-1 tvg-id="KiKa DE" tvg-name="KiKa HD DE" tvg-logo="http://195.154.221.171/picons/kikahdde.png" group-title="Germany",KiKa HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4174
-#EXTINF:-1 tvg-id="" tvg-name="Kronehit TV FHD DE" tvg-logo="http://195.154.221.171/picons/kronehittv.png" group-title="Germany",Kronehit TV FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9313
-#EXTINF:-1 tvg-id="MTV Brand New DE" tvg-name="MTV Brand New DE" tvg-logo="" group-title="Germany",MTV Brand New DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9321
-#EXTINF:-1 tvg-id="MTV HD DE" tvg-name="MTV FHD DE" tvg-logo="http://195.154.221.171/picons/mtvhd.png" group-title="Germany",MTV FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9338
-#EXTINF:-1 tvg-id="MTV Hits DE" tvg-name="MTV Hits DE" tvg-logo="http://195.154.221.171/picons/mtvhits.png" group-title="Germany",MTV Hits DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9320
-#EXTINF:-1 tvg-id="" tvg-name="MTV ROCKS DE" tvg-logo="http://195.154.221.171/picons/mtvrocks.png" group-title="Germany",MTV ROCKS DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9318
-#EXTINF:-1 tvg-id="RTL NITRO DE" tvg-name="NITRO FHD DE" tvg-logo="http://195.154.221.171/picons/nitrohd.png" group-title="Germany",NITRO FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9334
-#EXTINF:-1 tvg-id="NRJ Hits FR" tvg-name="NRJ Hits DE" tvg-logo="http://195.154.221.171/picons/nrjhits.png" group-title="Germany",NRJ Hits DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9314
-#EXTINF:-1 tvg-id="NRJ Hits FR" tvg-name="NRJ TV DE" tvg-logo="http://195.154.221.171/picons/nrjhits.png" group-title="Germany",NRJ TV DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9315
-#EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="Nat Geo Wild FHD DE" tvg-logo="http://195.154.221.171/picons/natgeowildhdde.png" group-title="Germany",Nat Geo Wild FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3937
-#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geographic FHD DE" tvg-logo="http://195.154.221.171/picons/nationalgeographichdde.png" group-title="Germany",National Geographic FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3935
-#EXTINF:-1 tvg-id="Nickelodeon DE" tvg-name="Nickelodeon FHD DE" tvg-logo="http://195.154.221.171/picons/nickelodeonhdde.png" group-title="Germany",Nickelodeon FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4176
-#EXTINF:-1 tvg-id="" tvg-name="Noa4 Norderstedt FHD DE" tvg-logo="" group-title="Germany",Noa4 Norderstedt FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9330
-#EXTINF:-1 tvg-id="" tvg-name="Oberpfalz TV DE" tvg-logo="http://195.154.221.171/picons/oberpfalztv.png" group-title="Germany",Oberpfalz TV DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9287
-#EXTINF:-1 tvg-id="ONE HD DE" tvg-name="One TV HD DE" tvg-logo="http://195.154.221.171/picons/onetvhdde.png" group-title="Germany",One TV HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9306
-#EXTINF:-1 tvg-id="Pro7 HD DE" tvg-name="ProSieben FHD DE" tvg-logo="http://195.154.221.171/picons/prosiebenhdde.png" group-title="Germany",ProSieben FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4171
-#EXTINF:-1 tvg-id="Pro7 Fun DE" tvg-name="ProSieben Fun FHD DE" tvg-logo="http://195.154.221.171/picons/prosiebenfunhdde.png" group-title="Germany",ProSieben Fun FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/6420
-#EXTINF:-1 tvg-id="Pro7 Maxx HD DE" tvg-name="ProSieben MAXX FHD DE" tvg-logo="http://195.154.221.171/picons/prosiebenmaxxhdde.png" group-title="Germany",ProSieben MAXX FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3933
-#EXTINF:-1 tvg-id="PULS 8 DE" tvg-name="Puls 8 HD DE" tvg-logo="http://195.154.221.171/picons/pulsacht.png" group-title="Germany",Puls 8 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9335
-#EXTINF:-1 tvg-id="RTL II DE" tvg-name="RTL II FHD DE" tvg-logo="http://195.154.221.171/picons/rtliihdde.png" group-title="Germany",RTL II FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3932
-#EXTINF:-1 tvg-id="RTL NITRO DE" tvg-name="RTL Nitro FHD DE" tvg-logo="http://195.154.221.171/picons/rtlnitrohdde.png" group-title="Germany",RTL Nitro FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3930
-#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="SAT.1 FHD DE" tvg-logo="http://195.154.221.171/picons/sat1hdde.png" group-title="Germany",SAT.1 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3929
-#EXTINF:-1 tvg-id="SIXX DE" tvg-name="SIXX FHD DE" tvg-logo="http://195.154.221.171/picons/sixxhdde.png" group-title="Germany",SIXX FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3928
-#EXTINF:-1 tvg-id="SR Fernsehen DE" tvg-name="SR HD DE" tvg-logo="http://195.154.221.171/picons/srhdde.png" group-title="Germany",SR HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9307
-#EXTINF:-1 tvg-id="Sky 1 DE" tvg-name="Sky 1 HD DE" tvg-logo="http://195.154.221.171/picons/sky1hdde.png" group-title="Germany",Sky 1 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/68
-#EXTINF:-1 tvg-id="Sky Atlantic DE" tvg-name="Sky Atlantic +1 FHD DE" tvg-logo="http://195.154.221.171/picons/skyatlanticplus1hdde.png" group-title="Germany",Sky Atlantic +1 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4390
-#EXTINF:-1 tvg-id="Sky Atlantic DE" tvg-name="Sky Atlantic FHD DE" tvg-logo="http://195.154.221.171/picons/skyatlantichdde.png" group-title="Germany",Sky Atlantic FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3926
-#EXTINF:-1 tvg-id="Sky Cinema Plus1 DE" tvg-name="Sky Cinema +1 FHD DE" tvg-logo="http://195.154.221.171/picons/skycinemaplus1hdde.png" group-title="Germany",Sky Cinema +1 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4183
-#EXTINF:-1 tvg-id="Sky Cinema Plus24 DE" tvg-name="Sky Cinema +24 FHD DE" tvg-logo="http://195.154.221.171/picons/skycinemaplus24hdde.png" group-title="Germany",Sky Cinema +24 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4391
-#EXTINF:-1 tvg-id="Sky Cinema Action DE" tvg-name="Sky Cinema Action FHD DE" tvg-logo="http://195.154.221.171/picons/skycinemaactionhdde.png" group-title="Germany",Sky Cinema Action FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3927
-#EXTINF:-1 tvg-id="Sky Cinema DE" tvg-name="Sky Cinema FHD DE" tvg-logo="http://195.154.221.171/picons/skycinemahdde.png" group-title="Germany",Sky Cinema FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3925
-#EXTINF:-1 tvg-id="Sky Cinema Family DE" tvg-name="Sky Cinema Family FHD DE" tvg-logo="http://195.154.221.171/picons/skycinemafamilyhdde.png" group-title="Germany",Sky Cinema Family FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4181
-#EXTINF:-1 tvg-id="Sky Cinema Hits DE" tvg-name="Sky Cinema Hits FHD DE" tvg-logo="http://195.154.221.171/picons/skycinemahitshdde.png" group-title="Germany",Sky Cinema Hits FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3924
-#EXTINF:-1 tvg-id="Sonnenklar.TV DE" tvg-name="Sonnenklar.TV FHD DE" tvg-logo="" group-title="Germany",Sonnenklar.TV FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9332
-#EXTINF:-1 tvg-id="Spiegel TV Wissen DE" tvg-name="Spiegel TV Wissen FHD DE" tvg-logo="http://195.154.221.171/picons/spiegeltvwissenhdde.png" group-title="Germany",Spiegel TV Wissen FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5398
-#EXTINF:-1 tvg-id="Super RTL DE" tvg-name="Super RTL FHD DE" tvg-logo="http://195.154.221.171/picons/superrtlhdde.png" group-title="Germany",Super RTL FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3923
-#EXTINF:-1 tvg-id="Syfy DE" tvg-name="Syfy FHD DE" tvg-logo="http://195.154.221.171/picons/syfyhdde.png" group-title="Germany",Syfy FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3922
-#EXTINF:-1 tvg-id="TNT Comedy DE" tvg-name="TNT Comedy FHD DE" tvg-logo="http://195.154.221.171/picons/tntcomedyhdde.png" group-title="Germany",TNT Comedy FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4180
-#EXTINF:-1 tvg-id="TNT Film DE" tvg-name="TNT Film FHD DE" tvg-logo="http://195.154.221.171/picons/tntfilmhdde.png" group-title="Germany",TNT Film FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/2554
-#EXTINF:-1 tvg-id="TNT Serie DE" tvg-name="TNT Serie FHD DE" tvg-logo="http://195.154.221.171/picons/tntseriehdde.png" group-title="Germany",TNT Serie FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3921
-#EXTINF:-1 tvg-id="" tvg-name="TV Aktuelle DE" tvg-logo="" group-title="Germany",TV Aktuelle DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9276
-#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="Tagesschau 24 HD DE" tvg-logo="http://195.154.221.171/picons/tagesschau24hdde.png" group-title="Germany",Tagesschau 24 HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9303
-#EXTINF:-1 tvg-id="Travel Channel Deutschland DE" tvg-name="Travel Channel HD DE" tvg-logo="" group-title="Germany",Travel Channel HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9326
-#EXTINF:-1 tvg-id="VH1 Classic DE" tvg-name="VH1 Classic DE" tvg-logo="http://195.154.221.171/picons/vh1classic.png" group-title="Germany",VH1 Classic DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9316
-#EXTINF:-1 tvg-id="VH1 Classic DE" tvg-name="VH1 DE" tvg-logo="http://195.154.221.171/picons/vh1.png" group-title="Germany",VH1 DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9317
-#EXTINF:-1 tvg-id="VOX DE" tvg-name="VOX FHD DE" tvg-logo="http://195.154.221.171/picons/voxhdde.png" group-title="Germany",VOX FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3920
-#EXTINF:-1 tvg-id="XITE DE" tvg-name="XITE DE" tvg-logo="http://195.154.221.171/picons/xite.png" group-title="Germany",XITE DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9312
-#EXTINF:-1 tvg-id="ZDF DE" tvg-name="ZDF HD DE" tvg-logo="http://195.154.221.171/picons/zdfhdde.png" group-title="Germany",ZDF HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4178
-#EXTINF:-1 tvg-id="ZDFneo DE" tvg-name="ZDFneo HD DE" tvg-logo="http://195.154.221.171/picons/zdfneohdde.png" group-title="Germany",ZDFneo HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4172
-#EXTINF:-1 tvg-id="Zee One DE" tvg-name="Zee One FHD DE" tvg-logo="http://195.154.221.171/picons/zeeonehdde.png" group-title="Germany",Zee One FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5397
-#EXTINF:-1 tvg-id="arte DE" tvg-name="arte HD DE" tvg-logo="http://195.154.221.171/picons/artehdde.png" group-title="Germany",arte HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4173
-#EXTINF:-1 tvg-id="kabel eins DE" tvg-name="kabel eins FHD DE" tvg-logo="http://195.154.221.171/picons/kabeleinshdde.png" group-title="Germany",kabel eins FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4175
-#EXTINF:-1 tvg-id="n-tv DE" tvg-name="n-tv FHD DE" tvg-logo="http://195.154.221.171/picons/ntvhdde.png" group-title="Germany",n-tv FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3938
-#EXTINF:-1 tvg-id="" tvg-name="Movies World 1 HD VIP DE" tvg-logo="" group-title="Germany",Movies World 1 HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12605
-#EXTINF:-1 tvg-id="" tvg-name="Movies World 2 HD VIP DE" tvg-logo="" group-title="Germany",Movies World 2 HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12604
-#EXTINF:-1 tvg-id="" tvg-name="Movies World 3 HD VIP DE" tvg-logo="" group-title="Germany",Movies World 3 HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12603
-#EXTINF:-1 tvg-id="" tvg-name="Movies World 4 HD VIP DE" tvg-logo="" group-title="Germany",Movies World 4 HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12602
-#EXTINF:-1 tvg-id="" tvg-name="Movies World Action HD VIP DE" tvg-logo="" group-title="Germany",Movies World Action HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12601
-#EXTINF:-1 tvg-id="" tvg-name="Elit Select 1 HD VIP DE" tvg-logo="" group-title="Germany",Elit Select 1 HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12613
-#EXTINF:-1 tvg-id="" tvg-name="Elit Select 2 HD VIP DE" tvg-logo="" group-title="Germany",Elit Select 2 HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12612
-#EXTINF:-1 tvg-id="" tvg-name="Elit Select 3 HD VIP DE" tvg-logo="" group-title="Germany",Elit Select 3 HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12611
-#EXTINF:-1 tvg-id="" tvg-name="Elit Select 4 HD VIP DE" tvg-logo="" group-title="Germany",Elit Select 4 HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12610
-#EXTINF:-1 tvg-id="" tvg-name="Elit Select 5 HD VIP DE" tvg-logo="" group-title="Germany",Elit Select 5 HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12609
-#EXTINF:-1 tvg-id="" tvg-name="Elit Select 6 HD VIP DE" tvg-logo="" group-title="Germany",Elit Select 6 HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12608
-#EXTINF:-1 tvg-id="" tvg-name="Elit Select 7 HD VIP DE" tvg-logo="" group-title="Germany",Elit Select 7 HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12607
-#EXTINF:-1 tvg-id="" tvg-name="Elit Select 8 HD VIP DE" tvg-logo="" group-title="Germany",Elit Select 8 HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12606
-#EXTINF:-1 tvg-id="" tvg-name="Elit Select HD VIP DE" tvg-logo="" group-title="Germany",Elit Select HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12614
-#EXTINF:-1 tvg-id="" tvg-name="Film Club 1 HD DE VIP" tvg-logo="" group-title="Germany",Film Club 1 HD DE VIP
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12597
-#EXTINF:-1 tvg-id="" tvg-name="Film Club 2 HD DE VIP" tvg-logo="" group-title="Germany",Film Club 2 HD DE VIP
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12596
-#EXTINF:-1 tvg-id="" tvg-name="Film Club 3 HD DE VIP" tvg-logo="" group-title="Germany",Film Club 3 HD DE VIP
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12595
-#EXTINF:-1 tvg-id="" tvg-name="Film Club 4 HD DE VIP" tvg-logo="" group-title="Germany",Film Club 4 HD DE VIP
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12594
-#EXTINF:-1 tvg-id="" tvg-name="Film Club 5 HD DE VIP" tvg-logo="" group-title="Germany",Film Club 5 HD DE VIP
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/12593
-#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="Eurosport 1 FHD DE" tvg-logo="http://195.154.221.171/picons/eurosport1hd.png" group-title="Germany",Eurosport 1 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9345
-#EXTINF:-1 tvg-id="Eurosport 2 DE" tvg-name="Eurosport 2 FHD DE" tvg-logo="http://195.154.221.171/picons/eurosport2hd.png" group-title="Germany",Eurosport 2 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9344
-#EXTINF:-1 tvg-id="Eurosport 2 HD Xtra DE" tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="http://195.154.221.171/picons/eurosport2xtrahdde.png" group-title="Germany",Eurosport 2 Xtra FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/6506
-#EXTINF:-1 tvg-id="FC Bayern TV DE" tvg-name="FC Bayern TV FHD DE" tvg-logo="http://195.154.221.171/picons/fcbayerntvhdde.png" group-title="Germany",FC Bayern TV FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/6492
-#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="Sky Sport 1 FHD DE" tvg-logo="http://195.154.221.171/picons/skysport1hdde.png" group-title="Germany",Sky Sport 1 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4377
-#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="Sky Sport 2 FHD DE" tvg-logo="http://195.154.221.171/picons/skysport2hdde.png" group-title="Germany",Sky Sport 2 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4376
-#EXTINF:-1 tvg-id="Sky Sport 3 DE" tvg-name="Sky Sport 3 FHD DE" tvg-logo="http://195.154.221.171/picons/skysport3hdde.png" group-title="Germany",Sky Sport 3 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4375
-#EXTINF:-1 tvg-id="Sky Sport 4 DE" tvg-name="Sky Sport 4 FHD DE" tvg-logo="http://195.154.221.171/picons/skysport4hdde.png" group-title="Germany",Sky Sport 4 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4374
-#EXTINF:-1 tvg-id="Sky Sport 5 DE" tvg-name="Sky Sport 5 FHD DE" tvg-logo="http://195.154.221.171/picons/skysport5hdde.png" group-title="Germany",Sky Sport 5 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4373
-#EXTINF:-1 tvg-id="Sky Sport 6 DE" tvg-name="Sky Sport 6 FHD DE" tvg-logo="http://195.154.221.171/picons/skysport6hdde.png" group-title="Germany",Sky Sport 6 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4372
-#EXTINF:-1 tvg-id="Sky Sport 7 DE" tvg-name="Sky Sport 7 FHD DE" tvg-logo="http://195.154.221.171/picons/skysport7hdde.png" group-title="Germany",Sky Sport 7 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4371
-#EXTINF:-1 tvg-id="Sky Sport 8 DE" tvg-name="Sky Sport 8 FHD DE" tvg-logo="http://195.154.221.171/picons/skysport8hdde.png" group-title="Germany",Sky Sport 8 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4370
-#EXTINF:-1 tvg-id="Sky Sport 9 DE" tvg-name="Sky Sport 9 FHD DE" tvg-logo="http://195.154.221.171/picons/skysport9hdde.png" group-title="Germany",Sky Sport 9 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4369
-#EXTINF:-1 tvg-id="Sky Sport 10 DE" tvg-name="Sky Sport 10 FHD DE" tvg-logo="http://195.154.221.171/picons/skysport10hdde.png" group-title="Germany",Sky Sport 10 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4368
-#EXTINF:-1 tvg-id="Sky Sport 11 DE" tvg-name="Sky Sport 11 FHD DE" tvg-logo="http://195.154.221.171/picons/skysport11hdde.png" group-title="Germany",Sky Sport 11 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4367
-#EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="Sky Sport Austria FHD DE" tvg-logo="http://195.154.221.171/picons/skysportaustriahdde.png" group-title="Germany",Sky Sport Austria FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/5584
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="Sky Sport Bundesliga 1 FHD DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga1hdde.png" group-title="Germany",Sky Sport Bundesliga 1 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4387
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 DE" tvg-name="Sky Sport Bundesliga 2 FHD DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga2hdde.png" group-title="Germany",Sky Sport Bundesliga 2 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4386
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 DE" tvg-name="Sky Sport Bundesliga 3 FHD DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga3hdde.png" group-title="Germany",Sky Sport Bundesliga 3 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4385
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 DE" tvg-name="Sky Sport Bundesliga 4 FHD DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga4hdde.png" group-title="Germany",Sky Sport Bundesliga 4 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4384
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 DE" tvg-name="Sky Sport Bundesliga 5 FHD DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga5hdde.png" group-title="Germany",Sky Sport Bundesliga 5 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4383
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 DE" tvg-name="Sky Sport Bundesliga 6 FHD DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga6hdde.png" group-title="Germany",Sky Sport Bundesliga 6 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4382
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 7 DE" tvg-name="Sky Sport Bundesliga 7 FHD DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga7hdde.png" group-title="Germany",Sky Sport Bundesliga 7 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4381
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8 DE" tvg-name="Sky Sport Bundesliga 8 FHD DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga8hdde.png" group-title="Germany",Sky Sport Bundesliga 8 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4380
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 9 DE" tvg-name="Sky Sport Bundesliga 9 FHD DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga9hdde.png" group-title="Germany",Sky Sport Bundesliga 9 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4379
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 10 DE" tvg-name="Sky Sport Bundesliga 10 FHD DE" tvg-logo="http://195.154.221.171/picons/skysportbundesliga10hdde.png" group-title="Germany",Sky Sport Bundesliga 10 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/4378
-#EXTINF:-1 tvg-id="Sport1Plus DE" tvg-name="Sport1+ FHD DE" tvg-logo="http://195.154.221.171/picons/sport1plushd.png" group-title="Germany",Sport1+ FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9342
-#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel HD VIP DE" tvg-logo="http://195.154.221.171/picons/olympicchannel.png" group-title="Germany",Olympic Channel HD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/13797
-#EXTINF:-1 tvg-id="Sport1 DE" tvg-name="Sport1 FHD DE" tvg-logo="http://195.154.221.171/picons/sport1hdde.png" group-title="Germany",Sport1 FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/3847
-#EXTINF:-1 tvg-id="Sport1 US DE" tvg-name="eSport1 US HD DE" tvg-logo="http://195.154.221.171/picons/sport1ushd.png" group-title="Germany",eSport1 US HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9336
-#EXTINF:-1 tvg-id="sportdigital DE" tvg-name="Sportdigital FHD DE" tvg-logo="http://195.154.221.171/picons/sportdigitalhd.png" group-title="Germany",Sportdigital FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/9343
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 1 FHD VIP DE" tvg-logo="" group-title="Germany",Telekom Fussball 1 FHD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/15996
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 2 FHD VIP DE" tvg-logo="" group-title="Germany",Telekom Fussball 2 FHD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/15995
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 3 FHD VIP DE" tvg-logo="" group-title="Germany",Telekom Fussball 3 FHD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/15994
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 4 FHD VIP DE" tvg-logo="" group-title="Germany",Telekom Fussball 4 FHD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/15993
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 5 FHD VIP DE" tvg-logo="" group-title="Germany",Telekom Fussball 5 FHD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/15992
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 6 FHD VIP DE" tvg-logo="" group-title="Germany",Telekom Fussball 6 FHD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/15991
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 7 FHD VIP DE" tvg-logo="" group-title="Germany",Telekom Fussball 7 FHD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/15990
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 8 FHD VIP DE" tvg-logo="" group-title="Germany",Telekom Fussball 8 FHD VIP DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/15989
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 Bar HD DE" tvg-logo="" group-title="Germany",DAZN 1 Bar HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/18392
-#EXTINF:-1 tvg-id="DAZN DE" tvg-name="DAZN 1 Bar FHD DE" tvg-logo="http://195.154.221.171/picons/dazn.png" group-title="Germany",DAZN 1 Bar FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/16044
-#EXTINF:-1 tvg-id="DAZN DE" tvg-name="DAZN 2 Bar HD DE" tvg-logo="http://195.154.221.171/picons/dazn.png" group-title="Germany",DAZN 2 Bar HD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/16045
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 Bar FHD DE" tvg-logo="" group-title="Germany",DAZN 2 Bar FHD DE
-http://restream.geniptv.com:8080/hasanmusicsverige/kgc91Wp78o/18393
+#EXTINF:-1,DE | One HD
+http://showflix.org:5890/Mohamed/1234567/1175
+#EXTINF:-1,DE | Das Erste HD
+http://showflix.org:5890/Mohamed/1234567/1176
+#EXTINF:-1,DE | ZDF HD
+http://showflix.org:5890/Mohamed/1234567/1177
+#EXTINF:-1,DE | ZDF
+http://showflix.org:5890/Mohamed/1234567/1178
+#EXTINF:-1,DE | Zdf_neo HD
+http://showflix.org:5890/Mohamed/1234567/1179
+#EXTINF:-1,DE | ZDF info HD
+http://showflix.org:5890/Mohamed/1234567/1180
+#EXTINF:-1,DE | VOX HD
+http://showflix.org:5890/Mohamed/1234567/1181
+#EXTINF:-1,DE | VOX
+http://showflix.org:5890/Mohamed/1234567/1182
+#EXTINF:-1,DE | SAT.1 HD
+http://showflix.org:5890/Mohamed/1234567/1183
+#EXTINF:-1,DE | SAT.1
+http://showflix.org:5890/Mohamed/1234567/1184
+#EXTINF:-1,DE | SAT.1 Gold
+http://showflix.org:5890/Mohamed/1234567/1185
+#EXTINF:-1,DE | SAT.1 Gold HD
+http://showflix.org:5890/Mohamed/1234567/1186
+#EXTINF:-1,DE | RTL HD
+http://showflix.org:5890/Mohamed/1234567/1187
+#EXTINF:-1,DE | RTL
+http://showflix.org:5890/Mohamed/1234567/1188
+#EXTINF:-1,DE | RTL Zwei HD
+http://showflix.org:5890/Mohamed/1234567/1189
+#EXTINF:-1,DE | RTL Zwei
+http://showflix.org:5890/Mohamed/1234567/1190
+#EXTINF:-1,DE | RTL plus
+http://showflix.org:5890/Mohamed/1234567/1191
+#EXTINF:-1,DE | ProSieben HD
+http://showflix.org:5890/Mohamed/1234567/1194
+#EXTINF:-1,DE | ProSieben
+http://showflix.org:5890/Mohamed/1234567/1195
+#EXTINF:-1,DE | Pro7 MAXX HD
+http://showflix.org:5890/Mohamed/1234567/1196
+#EXTINF:-1,DE | Pro7 MAXX
+http://showflix.org:5890/Mohamed/1234567/1197
+#EXTINF:-1,DE | kabel eins HD
+http://showflix.org:5890/Mohamed/1234567/1198
+#EXTINF:-1,DE | Zee One
+http://showflix.org:5890/Mohamed/1234567/1199
+#EXTINF:-1,DE | Zee One HD
+http://showflix.org:5890/Mohamed/1234567/1200
+#EXTINF:-1,-- Unterhaltung | LIVE  --
+http://showflix.org:5890/Mohamed/1234567/1201
+#EXTINF:-1,DE | Channel 21
+http://showflix.org:5890/Mohamed/1234567/1204
+#EXTINF:-1,DE | N-TV
+http://showflix.org:5890/Mohamed/1234567/1205
+#EXTINF:-1,DE | SUPER RTL HD
+http://showflix.org:5890/Mohamed/1234567/1206
+#EXTINF:-1,DE | SUPER RTL
+http://showflix.org:5890/Mohamed/1234567/1207
+#EXTINF:-1,DE | Tagesschau 24
+http://showflix.org:5890/Mohamed/1234567/1208
+#EXTINF:-1,DE | Family TV
+http://showflix.org:5890/Mohamed/1234567/1215
+#EXTINF:-1,-- CINEMA | LIVE --
+http://showflix.org:5890/Mohamed/1234567/1223
+#EXTINF:-1,DE | Sky Krimi FHD
+http://showflix.org:5890/Mohamed/1234567/1224
+#EXTINF:-1,DE | Sky Atlantic FHD
+http://showflix.org:5890/Mohamed/1234567/1225
+#EXTINF:-1,DE | Sky Atlantic
+http://showflix.org:5890/Mohamed/1234567/1226
+#EXTINF:-1,DE | Sky Cinema HD
+http://showflix.org:5890/Mohamed/1234567/1227
+#EXTINF:-1,DE | Sky Cinema
+http://showflix.org:5890/Mohamed/1234567/1228
+#EXTINF:-1,DE | Sky Cinema +1 HD
+http://showflix.org:5890/Mohamed/1234567/1229
+#EXTINF:-1,DE | Sky Cinema +1
+http://showflix.org:5890/Mohamed/1234567/1230
+#EXTINF:-1,DE | Sky Cinema + 24 HD
+http://showflix.org:5890/Mohamed/1234567/1231
+#EXTINF:-1,DE | Sky Cinema  +24
+http://showflix.org:5890/Mohamed/1234567/1232
+#EXTINF:-1,DE | Sky Cinema Action HD
+http://showflix.org:5890/Mohamed/1234567/1233
+#EXTINF:-1,DE | Sky Cinema Action
+http://showflix.org:5890/Mohamed/1234567/1234
+#EXTINF:-1,DE | Sky Cinema Alien HD
+http://showflix.org:5890/Mohamed/1234567/1235
+#EXTINF:-1,DE | Sky Cinema Hits 
+http://showflix.org:5890/Mohamed/1234567/1236
+#EXTINF:-1,DE | Sky Cinema Family FHD
+http://showflix.org:5890/Mohamed/1234567/1237
+#EXTINF:-1,DE | Sky Cinema Family
+http://showflix.org:5890/Mohamed/1234567/1238
+#EXTINF:-1,DE | Sky Cinema Comedy
+http://showflix.org:5890/Mohamed/1234567/1239
+#EXTINF:-1,DE | Sky Cinema Nostalgie
+http://showflix.org:5890/Mohamed/1234567/1240
+#EXTINF:-1,DE | Sky Cinema Emotion
+http://showflix.org:5890/Mohamed/1234567/1241
+#EXTINF:-1,DE | Romance TV HD
+http://showflix.org:5890/Mohamed/1234567/1242
+#EXTINF:-1,DE | 13th Street HD
+http://showflix.org:5890/Mohamed/1234567/1243
+#EXTINF:-1,DE | 13th Street
+http://showflix.org:5890/Mohamed/1234567/1244
+#EXTINF:-1,DE | FOX HD
+http://showflix.org:5890/Mohamed/1234567/1245
+#EXTINF:-1,DE | FOX
+http://showflix.org:5890/Mohamed/1234567/1246
+#EXTINF:-1,DE | Fox Serie
+http://showflix.org:5890/Mohamed/1234567/1247
+#EXTINF:-1,DE | TNT Serie HD
+http://showflix.org:5890/Mohamed/1234567/1248
+#EXTINF:-1,DE | TNT Serie
+http://showflix.org:5890/Mohamed/1234567/1249
+#EXTINF:-1,DE | TNT Film
+http://showflix.org:5890/Mohamed/1234567/1255
+#EXTINF:-1,DE | TNT Comedy HD
+http://showflix.org:5890/Mohamed/1234567/1256
+#EXTINF:-1,DE | SIXX HD
+http://showflix.org:5890/Mohamed/1234567/1250
+#EXTINF:-1,DE | SIXX
+http://showflix.org:5890/Mohamed/1234567/1251
+#EXTINF:-1,DE | NITRO HD
+http://showflix.org:5890/Mohamed/1234567/1252
+#EXTINF:-1,DE | NITRO
+http://showflix.org:5890/Mohamed/1234567/1253
+#EXTINF:-1,DE | Universal HD
+http://showflix.org:5890/Mohamed/1234567/1254
+#EXTINF:-1,DE | Comedy Central
+http://showflix.org:5890/Mohamed/1234567/1257
+#EXTINF:-1,DE | SYFY HD
+http://showflix.org:5890/Mohamed/1234567/1258
+#EXTINF:-1,DE | SYFY
+http://showflix.org:5890/Mohamed/1234567/1259
+#EXTINF:-1,DE | TLC HD
+http://showflix.org:5890/Mohamed/1234567/1260
+#EXTINF:-1,DE | TLC
+http://showflix.org:5890/Mohamed/1234567/1261
+#EXTINF:-1,DE | Kinowelt TV HD
+http://showflix.org:5890/Mohamed/1234567/1262
+#EXTINF:-1,DE | E! Entertainm. HD
+http://showflix.org:5890/Mohamed/1234567/1263
+#EXTINF:-1,-- SPORTS | LIVE --
+http://showflix.org:5890/Mohamed/1234567/1264
+#EXTINF:-1,DE | Sport1 HD
+http://showflix.org:5890/Mohamed/1234567/1265
+#EXTINF:-1,DE | DAZN 1 Bar FHD
+http://showflix.org:5890/Mohamed/1234567/1266
+#EXTINF:-1,DE | DAZN 2 Bar FHD
+http://showflix.org:5890/Mohamed/1234567/1267
+#EXTINF:-1,DE | Eurosport 1 HD
+http://showflix.org:5890/Mohamed/1234567/1268
+#EXTINF:-1,DE | Eurosport 1 SD
+http://showflix.org:5890/Mohamed/1234567/1269
+#EXTINF:-1,DE | Eurosport 2  HD Xtra
+http://showflix.org:5890/Mohamed/1234567/1270
+#EXTINF:-1,DE | Sport Digital HD
+http://showflix.org:5890/Mohamed/1234567/1271
+#EXTINF:-1,DE | Motorvision TV
+http://showflix.org:5890/Mohamed/1234567/1272
+#EXTINF:-1,DE | Sky Sport News FHD
+http://showflix.org:5890/Mohamed/1234567/1273
+#EXTINF:-1,DE | Sky Sport News
+http://showflix.org:5890/Mohamed/1234567/1274
+#EXTINF:-1,DE | Sky Sport Austria 
+http://showflix.org:5890/Mohamed/1234567/1275
+#EXTINF:-1,DE | Sky Sport Bundesliga 1 HD
+http://showflix.org:5890/Mohamed/1234567/1276
+#EXTINF:-1,DE | Sky Sport Bundesliga 1
+http://showflix.org:5890/Mohamed/1234567/1277
+#EXTINF:-1,DE | Sky Sport Bundesliga 2 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1278
+#EXTINF:-1,DE | Sky Sport Bundesliga 2 HD | Match time 
+http://showflix.org:5890/Mohamed/1234567/1279
+#EXTINF:-1,DE | Sky Sport Bundesliga 3 HD | Match time 
+http://showflix.org:5890/Mohamed/1234567/1280
+#EXTINF:-1,DE | Sky Sport Bundesliga 3 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1281
+#EXTINF:-1,DE | Sky Sport Bundesliga 4 HD | Match time 
+http://showflix.org:5890/Mohamed/1234567/1282
+#EXTINF:-1,DE |Sky Sport Bundesliga 4 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1283
+#EXTINF:-1,DE | Sky Sport Bundesliga 5 HD | Match time 
+http://showflix.org:5890/Mohamed/1234567/1284
+#EXTINF:-1,DE | Sky Sport Bundesliga 5 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1285
+#EXTINF:-1,DE | Sky Sport Bundesliga 6 HD | Match time 
+http://showflix.org:5890/Mohamed/1234567/1286
+#EXTINF:-1,DE | Sky Sport Bundesliga 6 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1287
+#EXTINF:-1,DE | Sky Sport Bundesliga 7 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1288
+#EXTINF:-1,DE | Sky Sport Bundesliga 8 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1289
+#EXTINF:-1,DE | Sky Sport Bundesliga 9 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1290
+#EXTINF:-1,DE | Sky Sport Bundesliga 10 HD | Match time 
+http://showflix.org:5890/Mohamed/1234567/1291
+#EXTINF:-1,DE | Sky Sport Bundesliga 10 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1292
+#EXTINF:-1,DE | Sky Sport 1 HD
+http://showflix.org:5890/Mohamed/1234567/1293
+#EXTINF:-1,DE | Sky Sport 1
+http://showflix.org:5890/Mohamed/1234567/1294
+#EXTINF:-1,DE | Sky Sport 2 HD
+http://showflix.org:5890/Mohamed/1234567/1295
+#EXTINF:-1,DE | Sky Sport 2
+http://showflix.org:5890/Mohamed/1234567/1296
+#EXTINF:-1,DE | Sky Sport 3 HD | Match time 
+http://showflix.org:5890/Mohamed/1234567/1297
+#EXTINF:-1,DE | Sky Sport 3 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1298
+#EXTINF:-1,DE | Sky Sport 4 HD | Match time 
+http://showflix.org:5890/Mohamed/1234567/1299
+#EXTINF:-1,DE | Sky Sport 4 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1300
+#EXTINF:-1,DE | Sky Sport 5HD | Match time 
+http://showflix.org:5890/Mohamed/1234567/1301
+#EXTINF:-1,DE | Sky Sport 5 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1302
+#EXTINF:-1,DE | Sky Sport 6 HD | Match time 
+http://showflix.org:5890/Mohamed/1234567/1303
+#EXTINF:-1,DE | Sky Sport 6 ( Match time )
+http://showflix.org:5890/Mohamed/1234567/1304
+#EXTINF:-1,DE | Sky Sport 7 HD | Match time 
+http://showflix.org:5890/Mohamed/1234567/1305
+#EXTINF:-1,DE | Sky Sport 7 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1306
+#EXTINF:-1,DE | Sky Sport 8 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1307
+#EXTINF:-1,DE | Sky Sport 9 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1308
+#EXTINF:-1,DE | Sky Sport 10 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1309
+#EXTINF:-1,DE | Sky Sport 11 HD | Match time 
+http://showflix.org:5890/Mohamed/1234567/1310
+#EXTINF:-1,DE | Sky Sport 11 | Match time 
+http://showflix.org:5890/Mohamed/1234567/1311
+#EXTINF:-1,-- CULTURE | LIVE --
+http://showflix.org:5890/Mohamed/1234567/1312
+#EXTINF:-1,DE | National Geographic HD
+http://showflix.org:5890/Mohamed/1234567/1313
+#EXTINF:-1,DE | National Geographic
+http://showflix.org:5890/Mohamed/1234567/1314
+#EXTINF:-1,DE | Nat Geo Wild FHD
+http://showflix.org:5890/Mohamed/1234567/1315
+#EXTINF:-1,DE | Nat Geo Wild
+http://showflix.org:5890/Mohamed/1234567/1317
+#EXTINF:-1,DE | DMAX HD
+http://showflix.org:5890/Mohamed/1234567/1316
+#EXTINF:-1,DE | N24 DOKU
+http://showflix.org:5890/Mohamed/1234567/1318
+#EXTINF:-1,DE | ANIXE HD
+http://showflix.org:5890/Mohamed/1234567/1327
+#EXTINF:-1,DE | 3sat HD
+http://showflix.org:5890/Mohamed/1234567/1328
+#EXTINF:-1,DE | Discovery HD
+http://showflix.org:5890/Mohamed/1234567/1319
+#EXTINF:-1,DE | Discovery
+http://showflix.org:5890/Mohamed/1234567/1320
+#EXTINF:-1,DE | History HD
+http://showflix.org:5890/Mohamed/1234567/1324
+#EXTINF:-1,DE | kabel eins Doku
+http://showflix.org:5890/Mohamed/1234567/1325
+#EXTINF:-1,DE | CRIME+ INVESTI GATION HD
+http://showflix.org:5890/Mohamed/1234567/1326
+#EXTINF:-1,DE | EWTN katholisches TV
+http://showflix.org:5890/Mohamed/1234567/1323
+#EXTINF:-1,-- Enfante | LIVE  --
+http://showflix.org:5890/Mohamed/1234567/1330
+#EXTINF:-1,DE | KiKA HD
+http://showflix.org:5890/Mohamed/1234567/1331
+#EXTINF:-1,DE | Cartoon Network
+http://showflix.org:5890/Mohamed/1234567/1332
+#EXTINF:-1,DE | Boomerang
+http://showflix.org:5890/Mohamed/1234567/1333
+#EXTINF:-1,DE | Junior
+http://showflix.org:5890/Mohamed/1234567/1334
+#EXTINF:-1,DE | TOGGO plus
+http://showflix.org:5890/Mohamed/1234567/1335
+#EXTINF:-1,DE | Disney XD HD
+http://showflix.org:5890/Mohamed/1234567/1336
+#EXTINF:-1,DE | Disney Junior HD
+http://showflix.org:5890/Mohamed/1234567/1337
+#EXTINF:-1,DE | Disney Junior
+http://showflix.org:5890/Mohamed/1234567/1338
+#EXTINF:-1,DE | Disney Cinemagic HD
+http://showflix.org:5890/Mohamed/1234567/1339
+#EXTINF:-1,DE | Disney Cinemagic
+http://showflix.org:5890/Mohamed/1234567/1340
+#EXTINF:-1,DE| Disney Channel  ᴴᴰ
+http://showflix.org:5890/Mohamed/1234567/1341
+#EXTINF:-1,DE | NICKELODEON AT
+http://showflix.org:5890/Mohamed/1234567/1342
+#EXTINF:-1,DE | MTV HD
+http://showflix.org:5890/Mohamed/1234567/1344
+#EXTINF:-1,DE | Classica
+http://showflix.org:5890/Mohamed/1234567/1346
+#EXTINF:-1,DE| DELUXE MUSIC
+http://showflix.org:5890/Mohamed/1234567/1347
+#EXTINF:-1,-- PPV | REC  --
+http://showflix.org:5890/Mohamed/1234567/1348
+#EXTINF:-1,DE | SKY SELECTE 1 HD
+http://showflix.org:5890/Mohamed/1234567/1192
+#EXTINF:-1,DE | SKY SELECTE 2 HD
+http://showflix.org:5890/Mohamed/1234567/1193
+#EXTINF:-1,DE | SKY SELECTE 3 HD
+http://showflix.org:5890/Mohamed/1234567/1202
+#EXTINF:-1,DE | SKY SELECTE 4 HD
+http://showflix.org:5890/Mohamed/1234567/1203
+#EXTINF:-1,DE | SKY SELECTE 5 HD
+http://showflix.org:5890/Mohamed/1234567/1209
+#EXTINF:-1,DE | SKY SELECTE 6 HD
+http://showflix.org:5890/Mohamed/1234567/1210
+#EXTINF:-1,DE | SKY SELECTE 7 HD
+http://showflix.org:5890/Mohamed/1234567/1211
+#EXTINF:-1,DE | SKY SELECTE 8 HD
+http://showflix.org:5890/Mohamed/1234567/1212
+#EXTINF:-1,DE | SKY SELECTE 9 HD
+http://showflix.org:5890/Mohamed/1234567/1213
+#EXTINF:-1,DE | SKY SELECTE 10 HD
+http://showflix.org:5890/Mohamed/1234567/1214
+#EXTINF:-1,DE| Sky Select 1 ᴴᴰ
+http://showflix.org:5890/Mohamed/1234567/1349
+#EXTINF:-1,DE| Sky Select 2 ᴴᴰ
+http://showflix.org:5890/Mohamed/1234567/1350
+#EXTINF:-1,DE| Sky Select 3 ᴴᴰ
+http://showflix.org:5890/Mohamed/1234567/1351
+#EXTINF:-1,DE| Sky Select 4 ᴴᴰ
+http://showflix.org:5890/Mohamed/1234567/1352
+#EXTINF:-1,DE| Sky Select 5 ᴴᴰ
+http://showflix.org:5890/Mohamed/1234567/1353
+#EXTINF:-1,DE| Sky Select 6 ᴴᴰ
+http://showflix.org:5890/Mohamed/1234567/1354
+#EXTINF:-1,DE| Sky Select 7 ᴴᴰ
+http://showflix.org:5890/Mohamed/1234567/1355
+#EXTINF:-1,DE| Sky Select 8 ᴴᴰ
+http://showflix.org:5890/Mohamed/1234567/1356
+#EXTINF:-1,DE| Sky Select 9 ᴴᴰ
+http://showflix.org:5890/Mohamed/1234567/1357
+#EXTINF:-1,DE| Sky Select 10 ᴴᴰ
+http://showflix.org:5890/Mohamed/1234567/1358
+#EXTINF:-1,24/7: Absentia DE
+http://showflix.org:5890/Mohamed/1234567/68279
+#EXTINF:-1,24/7: A.I.C.O.Incarnation DE
+http://showflix.org:5890/Mohamed/1234567/68280
+#EXTINF:-1,24/7: Altered Carbon DE
+http://showflix.org:5890/Mohamed/1234567/68281
+#EXTINF:-1,24/7: American Gods DE
+http://showflix.org:5890/Mohamed/1234567/68282
+#EXTINF:-1,24/7: Babylon Berlin DE
+http://showflix.org:5890/Mohamed/1234567/68283
+#EXTINF:-1,24/7: Back with the Ex DE
+http://showflix.org:5890/Mohamed/1234567/68284
+#EXTINF:-1,24/7: Bad Blood DE
+http://showflix.org:5890/Mohamed/1234567/68285
+#EXTINF:-1,24/7: Better Than Us DE
+http://showflix.org:5890/Mohamed/1234567/68286
+#EXTINF:-1,24/7: Big Little Lies DE
+http://showflix.org:5890/Mohamed/1234567/68287
+#EXTINF:-1,24/7: Black Earth Rising DE
+http://showflix.org:5890/Mohamed/1234567/68288
+#EXTINF:-1,24/7: Bodyguard DE
+http://showflix.org:5890/Mohamed/1234567/68289
+#EXTINF:-1,24/7: Bonding DE
+http://showflix.org:5890/Mohamed/1234567/68290
+#EXTINF:-1,24/7: Breaking Bad DE
+http://showflix.org:5890/Mohamed/1234567/68291
+#EXTINF:-1,24/7: Brittania DE
+http://showflix.org:5890/Mohamed/1234567/68292
+#EXTINF:-1,24/7: B:The Beginning DE
+http://showflix.org:5890/Mohamed/1234567/68293
+#EXTINF:-1,24/7: Chernobyl DE
+http://showflix.org:5890/Mohamed/1234567/68294
+#EXTINF:-1,24/7: Chilling Adventures of Sabrina DE
+http://showflix.org:5890/Mohamed/1234567/68295
+#EXTINF:-1,24/7: Collateral DE
+http://showflix.org:5890/Mohamed/1234567/68296
+#EXTINF:-1,24/7: Dark DE
+http://showflix.org:5890/Mohamed/1234567/68297
+#EXTINF:-1,24/7: Deadly Class DE
+http://showflix.org:5890/Mohamed/1234567/68298
+#EXTINF:-1,24/7: Dead to ME DE
+http://showflix.org:5890/Mohamed/1234567/68299
+#EXTINF:-1,24/7: Deception DE
+http://showflix.org:5890/Mohamed/1234567/68300
+#EXTINF:-1,24/7: Dernackte Regisseur DE
+http://showflix.org:5890/Mohamed/1234567/68301
+#EXTINF:-1,24/7: Der Prinzder Drachen DE
+http://showflix.org:5890/Mohamed/1234567/68302
+#EXTINF:-1,24/7: Detective Konan DE
+http://showflix.org:5890/Mohamed/1234567/68303
+#EXTINF:-1,24/7: Diablero DE
+http://showflix.org:5890/Mohamed/1234567/68304
+#EXTINF:-1,24/7: Die Pest DE
+http://showflix.org:5890/Mohamed/1234567/68305
+#EXTINF:-1,24/7: Die Simpsons DE
+http://showflix.org:5890/Mohamed/1234567/68306
+#EXTINF:-1,24/7: Die Walkinder DE
+http://showflix.org:5890/Mohamed/1234567/68307
+#EXTINF:-1,24/7: Dissenchantment DE
+http://showflix.org:5890/Mohamed/1234567/68308
+#EXTINF:-1,24/7: Dogs of Berlin DE
+http://showflix.org:5890/Mohamed/1234567/68309
+#EXTINF:-1,24/7: Dragon Ball Z Kai DE
+http://showflix.org:5890/Mohamed/1234567/68310
+#EXTINF:-1,24/7: El Chapo DE
+http://showflix.org:5890/Mohamed/1234567/68311
+#EXTINF:-1,24/7: Elite DE
+http://showflix.org:5890/Mohamed/1234567/68312
+#EXTINF:-1,24/7: The End of the Fucking World DE
+http://showflix.org:5890/Mohamed/1234567/68313
+#EXTINF:-1,24/7: Every thing Sucks DE
+http://showflix.org:5890/Mohamed/1234567/68314
+#EXTINF:-1,24/7: FamilyReunion DE
+http://showflix.org:5890/Mohamed/1234567/68315
+#EXTINF:-1,24/7: Fear The Walking Dead DE
+http://showflix.org:5890/Mohamed/1234567/68316
+#EXTINF:-1,24/7: Flinch DE
+http://showflix.org:5890/Mohamed/1234567/68317
+#EXTINF:-1,24/7: Friends from College DE
+http://showflix.org:5890/Mohamed/1234567/68318
+#EXTINF:-1,24/7: Future Man DE
+http://showflix.org:5890/Mohamed/1234567/68319
+#EXTINF:-1,24/7: Game of Thrones DE
+http://showflix.org:5890/Mohamed/1234567/68320
+#EXTINF:-1,24/7: Gigantes DE
+http://showflix.org:5890/Mohamed/1234567/68321
+#EXTINF:-1,24/7: Good Omens DE
+http://showflix.org:5890/Mohamed/1234567/68322
+#EXTINF:-1,24/7: Gotham DE
+http://showflix.org:5890/Mohamed/1234567/68323
+#EXTINF:-1,24/7: Hanna DE
+http://showflix.org:5890/Mohamed/1234567/68324
+#EXTINF:-1,24/7: HAPPY! DE
+http://showflix.org:5890/Mohamed/1234567/68325
+#EXTINF:-1,24/7: Heroes DE
+http://showflix.org:5890/Mohamed/1234567/68326
+#EXTINF:-1,24/7: Heroes Reborn DE
+http://showflix.org:5890/Mohamed/1234567/68327
+#EXTINF:-1,24/7: I Am the Night DE
+http://showflix.org:5890/Mohamed/1234567/68328
+#EXTINF:-1,24/7: Immortals DE
+http://showflix.org:5890/Mohamed/1234567/68329
+#EXTINF:-1,24/7: Insatiable DE
+http://showflix.org:5890/Mohamed/1234567/68330
+#EXTINF:-1,24/7: Killing Eve DE
+http://showflix.org:5890/Mohamed/1234567/68331
+#EXTINF:-1,24/7: Kingdom DE
+http://showflix.org:5890/Mohamed/1234567/68332
+#EXTINF:-1,24/7: Knightfall DE
+http://showflix.org:5890/Mohamed/1234567/68333
+#EXTINF:-1,24/7: Krypton DE
+http://showflix.org:5890/Mohamed/1234567/68334
+#EXTINF:-1,24/7: Last Hope DE
+http://showflix.org:5890/Mohamed/1234567/68335
+#EXTINF:-1,24/7: Legion DE
+http://showflix.org:5890/Mohamed/1234567/68336
+#EXTINF:-1,24/7: Lore DE
+http://showflix.org:5890/Mohamed/1234567/68337
+#EXTINF:-1,24/7: Lostin Space DE
+http://showflix.org:5890/Mohamed/1234567/68338
+#EXTINF:-1,24/7: Love,Death&Robots DE
+http://showflix.org:5890/Mohamed/1234567/68339
+#EXTINF:-1,24/7: Lucifer DE
+http://showflix.org:5890/Mohamed/1234567/68340
+#EXTINF:-1,24/7: Magnum P.I DE
+http://showflix.org:5890/Mohamed/1234567/68341
+#EXTINF:-1,24/7: Maniac DE
+http://showflix.org:5890/Mohamed/1234567/68342
+#EXTINF:-1,24/7:Marvels Cloak and Dagger DE
+http://showflix.org:5890/Mohamed/1234567/68343
+#EXTINF:-1,24/7:Marvels Inhumans DE
+http://showflix.org:5890/Mohamed/1234567/68344
+#EXTINF:-1,24/7:Marvels Runaways DE
+http://showflix.org:5890/Mohamed/1234567/68345
+#EXTINF:-1,24/7:Marvels Spiderman DE
+http://showflix.org:5890/Mohamed/1234567/68346
+#EXTINF:-1,24/7:Marvels The Defenders DE
+http://showflix.org:5890/Mohamed/1234567/68347
+#EXTINF:-1,24/7:Marvels The Punisher DE
+http://showflix.org:5890/Mohamed/1234567/68348
+#EXTINF:-1,24/7:Mc Mafia DE
+http://showflix.org:5890/Mohamed/1234567/68349
+#EXTINF:-1,24/7:Missions DE
+http://showflix.org:5890/Mohamed/1234567/68350
+#EXTINF:-1,24/7:Modern Family DE
+http://showflix.org:5890/Mohamed/1234567/68351
+#EXTINF:-1,24/7:Mr.Iglesias DE
+http://showflix.org:5890/Mohamed/1234567/68352
+#EXTINF:-1,24/7:Mr.MercedesDE
+http://showflix.org:5890/Mohamed/1234567/68353
+#EXTINF:-1,24/7:  Mysterious Mermaids DE
+http://showflix.org:5890/Mohamed/1234567/68354
+#EXTINF:-1,24/7:  Narcos DE
+http://showflix.org:5890/Mohamed/1234567/68355
+#EXTINF:-1,24/7: No Good Nick DE
+http://showflix.org:5890/Mohamed/1234567/68356
+#EXTINF:-1,24/7: Ozark DE
+http://showflix.org:5890/Mohamed/1234567/68357
+#EXTINF:-1,24/7: Paradise PD DE
+http://showflix.org:5890/Mohamed/1234567/68358
+#EXTINF:-1,24/7: Peaky Blinders DE
+http://showflix.org:5890/Mohamed/1234567/68359
+#EXTINF:-1,24/7: Peppa Wutz  DE
+http://showflix.org:5890/Mohamed/1234567/68360
+#EXTINF:-1,24/7: Pine Gap DE
+http://showflix.org:5890/Mohamed/1234567/68361
+#EXTINF:-1,24/7: Plan Coeur DE
+http://showflix.org:5890/Mohamed/1234567/68362
+#EXTINF:-1,24/7: Prison Break DE
+http://showflix.org:5890/Mohamed/1234567/68363
+#EXTINF:-1,24/7: Quicksand DE
+http://showflix.org:5890/Mohamed/1234567/68364
+#EXTINF:-1,24/7: Salvation DE
+http://showflix.org:5890/Mohamed/1234567/68365
+#EXTINF:-1,24/7: Sex Education DE
+http://showflix.org:5890/Mohamed/1234567/68366
+#EXTINF:-1,24/7: Sharp Objects DE
+http://showflix.org:5890/Mohamed/1234567/68367
+#EXTINF:-1,24/7: Sherlock DE
+http://showflix.org:5890/Mohamed/1234567/68368
+#EXTINF:-1,24/7: Siren DE
+http://showflix.org:5890/Mohamed/1234567/68369
+#EXTINF:-1,24/7: Smallville DE
+http://showflix.org:5890/Mohamed/1234567/68370
+#EXTINF:-1,24/7: SMILF DE
+http://showflix.org:5890/Mohamed/1234567/68371
+#EXTINF:-1,24/7: Snowfall DE
+http://showflix.org:5890/Mohamed/1234567/68372
+#EXTINF:-1,24/7: Spukin Hill House DE
+http://showflix.org:5890/Mohamed/1234567/68373
+#EXTINF:-1,24/7: Star Trek: Discovery DE
+http://showflix.org:5890/Mohamed/1234567/68374
+#EXTINF:-1,24/7: Star Wars: Resistance DE
+http://showflix.org:5890/Mohamed/1234567/68375
+#EXTINF:-1,24/7: Stranger Things DE
+http://showflix.org:5890/Mohamed/1234567/68376
+#EXTINF:-1,24/7: Succession DE
+http://showflix.org:5890/Mohamed/1234567/68377
+#EXTINF:-1,24/7: Supergirl DE
+http://showflix.org:5890/Mohamed/1234567/68378
+#EXTINF:-1,24/7: Supernatural DE
+http://showflix.org:5890/Mohamed/1234567/68379
+#EXTINF:-1,24/7: S.W.A.T DE
+http://showflix.org:5890/Mohamed/1234567/68380
+#EXTINF:-1,24/7: Sweetbitter DE
+http://showflix.org:5890/Mohamed/1234567/68381
+#EXTINF:-1,24/7: The BigBang Theory DE
+http://showflix.org:5890/Mohamed/1234567/68382
+#EXTINF:-1,24/7: The Boys DE
+http://showflix.org:5890/Mohamed/1234567/68383
+#EXTINF:-1,24/7: TheDeuce DE
+http://showflix.org:5890/Mohamed/1234567/68384
+#EXTINF:-1,24/7: TheFlash DE
+http://showflix.org:5890/Mohamed/1234567/68385
+#EXTINF:-1,24/7: TheGifted DE
+http://showflix.org:5890/Mohamed/1234567/68386
+#EXTINF:-1,24/7: The Little Drummer Girl DE
+http://showflix.org:5890/Mohamed/1234567/68387
+#EXTINF:-1,24/7: The Oath DE
+http://showflix.org:5890/Mohamed/1234567/68388
+#EXTINF:-1,24/7: The Order DE
+http://showflix.org:5890/Mohamed/1234567/68389
+#EXTINF:-1,24/7: The Orville DE
+http://showflix.org:5890/Mohamed/1234567/68390
+#EXTINF:-1,24/7: The Purge DE
+http://showflix.org:5890/Mohamed/1234567/68391
+#EXTINF:-1,24/7: The Rain DE
+http://showflix.org:5890/Mohamed/1234567/68392
+#EXTINF:-1,24/7: The Society DE
+http://showflix.org:5890/Mohamed/1234567/68393
+#EXTINF:-1,24/7: The Son DE
+http://showflix.org:5890/Mohamed/1234567/68394
+#EXTINF:-1,24/7: The Walking Dead DE
+http://showflix.org:5890/Mohamed/1234567/68395
+#EXTINF:-1,24/7: Titans DE
+http://showflix.org:5890/Mohamed/1234567/68396
+#EXTINF:-1,24/7: Trailer Park Boys DE
+http://showflix.org:5890/Mohamed/1234567/68397
+#EXTINF:-1,24/7: True Detective DE
+http://showflix.org:5890/Mohamed/1234567/68398
+#EXTINF:-1,24/7: Turn Up Charlie DE
+http://showflix.org:5890/Mohamed/1234567/68399
+#EXTINF:-1,24/7: Tyrant DE
+http://showflix.org:5890/Mohamed/1234567/68400
+#EXTINF:-1,24/7: Ultraman DE
+http://showflix.org:5890/Mohamed/1234567/68401
+#EXTINF:-1,24/7: Under The Dome DE
+http://showflix.org:5890/Mohamed/1234567/68402
+#EXTINF:-1,24/7: Vampire Diaries DE
+http://showflix.org:5890/Mohamed/1234567/68403
+#EXTINF:-1,24/7: Verräter DE
+http://showflix.org:5890/Mohamed/1234567/68404
+#EXTINF:-1,24/7: Vikings DE
+http://showflix.org:5890/Mohamed/1234567/68405
+#EXTINF:-1,24/7: Violet Evergarden DE
+http://showflix.org:5890/Mohamed/1234567/68406
+#EXTINF:-1,24/7: Westworld DE
+http://showflix.org:5890/Mohamed/1234567/68407
+#EXTINF:-1,24/7: White Gold DE
+http://showflix.org:5890/Mohamed/1234567/68408
+#EXTINF:-1,24/7: Wilde Dynastien DE
+http://showflix.org:5890/Mohamed/1234567/68409
+#EXTINF:-1,24/7: Young Sheldon DE
+http://showflix.org:5890/Mohamed/1234567/68410
+#EXTINF:-1,24/7: ZNation DE
+http://showflix.org:5890/Mohamed/1234567/68411
+#EXTINF:-1,24/7: Zoo DE
+http://showflix.org:5890/Mohamed/1234567/68412
+#EXTINF:-1,---- DE | MOVIES 24/7 ----
+http://showflix.org:5890/Mohamed/1234567/68413
