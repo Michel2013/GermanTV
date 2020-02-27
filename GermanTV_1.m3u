@@ -1,55 +1,322 @@
 #EXTM3U 
-#EXTINF:-1,AXN HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13814 
-#EXTINF:-1,DISCOVERY CHANNEL HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13815 
-#EXTINF:-1,DISNEY CINEMAGIC HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13816 
-#EXTINF:-1,DISNEY HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13817 
-#EXTINF:-1,EUROSPORT HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13818 
-#EXTINF:-1,HISTORY HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13819 
-#EXTINF:-1,KABEL EINS HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13820 
-#EXTINF:-1,N-TV HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13821 
-#EXTINF:-1,NAT GEO HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13822 
-#EXTINF:-1,NDR HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13823 
-#EXTINF:-1,PROSIEBEN MAXX HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13824 
-#EXTINF:-1,RTL 2 HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13825 
-#EXTINF:-1,RTL CRIME 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13826 
-#EXTINF:-1,RTL HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13827 
-#EXTINF:-1,RTL NITRO HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13828 
-#EXTINF:-1,RTL PASSION 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13829 
-#EXTINF:-1,SAT. 1 HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13830 
-#EXTINF:-1,SIXX HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13831 
-#EXTINF:-1,SKY COMEDY HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13832 
-#EXTINF:-1,SPORT 1 HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13833 
-#EXTINF:-1,SUPER RTL 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13834 
-#EXTINF:-1,TNT SERIE 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13836 
-#EXTINF:-1,VOX HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13837 
-#EXTINF:-1,WDR HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13838 
-#EXTINF:-1,ZDF HD 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13839 
-#EXTINF:-1,SKY GERMANY 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13840 
-#EXTINF:-1,SKY SPORT NEWS. 
-plugin://plugin.video.f4mTester/?name=TheSamsungFreak_ TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/danielle123/danielle123/13841
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="[DE] Das Erste HD" tvg-logo="https://xpic.webox-eg.com/de/ARD.de.png" group-title="Germany",[DE] Das Erste HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/11134
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="[DE] Das Erste" tvg-logo="https://xpic.webox-eg.com/de/ARD.de.png" group-title="Germany",[DE] Das Erste
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21791
+#EXTINF:-1 tvg-id="ONE HD DE" tvg-name="[DE] ARD One HD" tvg-logo="https://i5-img.7tv.de/pis/apollo/b66fqgELBzZ_waVq72FRJvhr2kKdsbL1SrZYKa40hMNFeux3UQ2-LRZ-asIRDfN1k9tJBStS9YP-uPgnGMpttGjeZGGPp0oVwyhEvY8OmiowLMZUN2dm7LdQmMDAfIbkPrVmmc3TWb3baa0zQ6dHQd-I0azauqFmAuMw-Q/profile:nextgen-web-artlogo-183x75" group-title="Germany",[DE] ARD One HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/60224
+#EXTINF:-1 tvg-id="ZDF DE" tvg-name="[DE] ZDF HD" tvg-logo="https://xpic.webox-eg.com/de/ZDF.de.png" group-title="Germany",[DE] ZDF HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21832
+#EXTINF:-1 tvg-id="ZDF DE" tvg-name="[DE] ZDF" tvg-logo="https://xpic.webox-eg.com/de/ZDF.de.png" group-title="Germany",[DE] ZDF
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/754
+#EXTINF:-1 tvg-id="RTL DE" tvg-name="[DE] RTL HD" tvg-logo="https://xpic.webox-eg.com/de/RTL.de.png" group-title="Germany",[DE] RTL HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21826
+#EXTINF:-1 tvg-id="RTL DE" tvg-name="[DE] RTL" tvg-logo="https://xpic.webox-eg.com/de/RTL.de.png" group-title="Germany",[DE] RTL
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/436
+#EXTINF:-1 tvg-id="RTL II DE" tvg-name="[DE] RTL 2 HD" tvg-logo="https://xpic.webox-eg.com/de/RTL2.de.png" group-title="Germany",[DE] RTL 2 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21825
+#EXTINF:-1 tvg-id="RTL II DE" tvg-name="[DE] RTL 2" tvg-logo="https://xpic.webox-eg.com/de/RTL2.de.png" group-title="Germany",[DE] RTL 2
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/437
+#EXTINF:-1 tvg-id="Pro7 HD DE" tvg-name="[DE] Pro Sieben" tvg-logo="https://xpic.webox-eg.com/de/Pro7.de.png" group-title="Germany",[DE] Pro Sieben
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/158
+#EXTINF:-1 tvg-id="ProSieben DE" tvg-name="[DE] Pro Sieben HD" tvg-logo="https://xpic.webox-eg.com/de/Pro7.de.png" group-title="Germany",[DE] Pro Sieben HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21802
+#EXTINF:-1 tvg-id="Pro7 Maxx HD DE" tvg-name="[DE] Pro Sieben MAXX" tvg-logo="https://xpic.webox-eg.com/de/ProSiebenMaxx.de.png" group-title="Germany",[DE] Pro Sieben MAXX
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/15473
+#EXTINF:-1 tvg-id="DMAX DE" tvg-name="[DE] Dmax HD" tvg-logo="https://xpic.webox-eg.com/de/DMax.de.png" group-title="Germany",[DE] Dmax HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21790
+#EXTINF:-1 tvg-id="DMAX DE" tvg-name="[DE] Dmax" tvg-logo="https://xpic.webox-eg.com/de/DMax.de.png" group-title="Germany",[DE] Dmax
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/526
+#EXTINF:-1 tvg-id="kabel eins DE" tvg-name="[DE] Kabel Eins HD" tvg-logo="https://xpic.webox-eg.com/de/Kabel1.de.png" group-title="Germany",[DE] Kabel Eins HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21794
+#EXTINF:-1 tvg-id="kabel eins DE" tvg-name="[DE] Kabel Eins" tvg-logo="https://xpic.webox-eg.com/de/Kabel1.de.png" group-title="Germany",[DE] Kabel Eins
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/11116
+#EXTINF:-1 tvg-id="kabel eins Doku DE" tvg-name="[DE] Kabel Eins Doku" tvg-logo="https://xpic.webox-eg.com/de/KabelEinsDoku.de.png" group-title="Germany",[DE] Kabel Eins Doku
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21770
+#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="[DE] Sat 1 HD" tvg-logo="https://xpic.webox-eg.com/de/Sat1.de.png" group-title="Germany",[DE] Sat 1 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21792
+#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="[DE] Sat 1" tvg-logo="https://xpic.webox-eg.com/de/Sat1.de.png" group-title="Germany",[DE] Sat 1
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/159
+#EXTINF:-1 tvg-id="Sat.1 Gold DE" tvg-name="[DE] Sat 1 Gold" tvg-logo="https://xpic.webox-eg.com/de/Sat1Gold.de.png" group-title="Germany",[DE] Sat 1 Gold
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/11056
+#EXTINF:-1 tvg-id="arte DE" tvg-name="[DE] Arte HD" tvg-logo="https://xpic.webox-eg.com/fr/ARTE.fr.png" group-title="Germany",[DE] Arte HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/26126
+#EXTINF:-1 tvg-id="arte DE" tvg-name="[DE] Arte" tvg-logo="https://xpic.webox-eg.com/fr/ARTE.fr.png" group-title="Germany",[DE] Arte
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/26125
+#EXTINF:-1 tvg-id="BR Fernsehen Nord DE" tvg-name="[DE] BR" tvg-logo="https://xpic.webox-eg.com/de/BR.png" group-title="Germany",[DE] BR
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/55008
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="[DE] HR Fernsehen" tvg-logo="https://xpic.webox-eg.com/de/HR.png" group-title="Germany",[DE] HR Fernsehen
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/55009
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="[DE] NDR" tvg-logo="https://xpic.webox-eg.com/de/NDR.png" group-title="Germany",[DE] NDR
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/55010
+#EXTINF:-1 tvg-id="SWR DE" tvg-name="[DE] Swr" tvg-logo="https://xpic.webox-eg.com/de/Swr.png" group-title="Germany",[DE] Swr
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/55011
+#EXTINF:-1 tvg-id="VOX DE" tvg-name="[DE] VOX HD" tvg-logo="https://xpic.webox-eg.com/de/Vox.de.png" group-title="Germany",[DE] VOX HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21827
+#EXTINF:-1 tvg-id="VOX DE" tvg-name="[DE] VOX" tvg-logo="https://xpic.webox-eg.com/de/Vox.de.png" group-title="Germany",[DE] VOX
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/98
+#EXTINF:-1 tvg-id="3sat DE" tvg-name="[DE] 3Sat HD" tvg-logo="https://xpic.webox-eg.com/de/3sat_de.png" group-title="Germany",[DE] 3Sat HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21786
+#EXTINF:-1 tvg-id="3sat DE" tvg-name="[DE] 3Sat" tvg-logo="https://xpic.webox-eg.com/de/3sat_de.png" group-title="Germany",[DE] 3Sat
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/766
+#EXTINF:-1 tvg-id="KiKa DE" tvg-name="[DE] Kika HD" tvg-logo="https://xpic.webox-eg.com/de/Kika.de.png" group-title="Germany",[DE] Kika HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21776
+#EXTINF:-1 tvg-id="KiKa DE" tvg-name="[DE] Kika" tvg-logo="https://xpic.webox-eg.com/de/Kika.de.png" group-title="Germany",[DE] Kika
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/82
+#EXTINF:-1 tvg-id="Super RTL DE" tvg-name="[DE] Super RTL HD" tvg-logo="https://xpic.webox-eg.com/de/SuperRTL.de.png" group-title="Germany",[DE] Super RTL HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21819
+#EXTINF:-1 tvg-id="Super RTL DE" tvg-name="[DE] Super RTL" tvg-logo="https://xpic.webox-eg.com/de/SuperRTL.de.png" group-title="Germany",[DE] Super RTL
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5020
+#EXTINF:-1 tvg-id="ZDFneo DE" tvg-name="[DE] ZDF Neo HD" tvg-logo="https://xpic.webox-eg.com/de/ZDFneo.de.png" group-title="Germany",[DE] ZDF Neo HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21830
+#EXTINF:-1 tvg-id="ZDFneo DE" tvg-name="[DE] ZDF Neo" tvg-logo="https://xpic.webox-eg.com/de/ZDFneo.de.png" group-title="Germany",[DE] ZDF Neo
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/18
+#EXTINF:-1 tvg-id="ZDFinfo DE" tvg-name="[DE] ZDF Info HD" tvg-logo="https://xpic.webox-eg.com/de/ZDFinfo.de.png" group-title="Germany",[DE] ZDF Info HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21831
+#EXTINF:-1 tvg-id="ZDFinfo DE" tvg-name="[DE] ZDF Info" tvg-logo="https://xpic.webox-eg.com/de/ZDFinfo.de.png" group-title="Germany",[DE] ZDF Info
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/765
+#EXTINF:-1 tvg-id="RTL Crime DE" tvg-name="[DE] RTL Crime HD" tvg-logo="https://xpic.webox-eg.com/de/RTLCrime.de.png" group-title="Germany",[DE] RTL Crime HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21821
+#EXTINF:-1 tvg-id="RTL Crime DE" tvg-name="[DE] RTL Crime" tvg-logo="https://xpic.webox-eg.com/de/RTLCrime.de.png" group-title="Germany",[DE] RTL Crime
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5034
+#EXTINF:-1 tvg-id="RTL Passion DE" tvg-name="[DE] RTL Passion HD" tvg-logo="https://xpic.webox-eg.com/de/RTLPassion.de.png" group-title="Germany",[DE] RTL Passion HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21820
+#EXTINF:-1 tvg-id="RTL Passion DE" tvg-name="[DE] RTL Passion" tvg-logo="https://xpic.webox-eg.com/de/RTLPassion.de.png" group-title="Germany",[DE] RTL Passion
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/926
+#EXTINF:-1 tvg-id="RTL NITRO DE" tvg-name="[DE] RTL Nitro HD" tvg-logo="https://xpic.webox-eg.com/de/RTLNitro.de.png" group-title="Germany",[DE] RTL Nitro HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21823
+#EXTINF:-1 tvg-id="RTL NITRO DE" tvg-name="[DE] RTL Nitro" tvg-logo="https://xpic.webox-eg.com/de/RTLNitro.de.png" group-title="Germany",[DE] RTL Nitro
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9740
+#EXTINF:-1 tvg-id="RTL Living DE" tvg-name="[DE] RTL Living HD" tvg-logo="https://xpic.webox-eg.com/de/RTL_Living.png" group-title="Germany",[DE] RTL Living HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/16089
+#EXTINF:-1 tvg-id="RTLplus DE" tvg-name="[DE] RTL plus" tvg-logo="https://xpic.webox-eg.com/de/RTLPlus.de.png" group-title="Germany",[DE] RTL plus
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/26281
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="[DE] WDR" tvg-logo="https://xpic.webox-eg.com/de/WDR.de.png" group-title="Germany",[DE] WDR
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/26236
+#EXTINF:-1 tvg-id="Sky Cinema DE" tvg-name="[DE] Sky Cinema" tvg-logo="https://xpic.webox-eg.com/de/SkyCinema.de.png" group-title="Germany",[DE] Sky Cinema
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5022
+#EXTINF:-1 tvg-id="Sky Cinema DE" tvg-name="[DE] Sky Cinema HD" tvg-logo="https://xpic.webox-eg.com/de/SkyCinema.de.png" group-title="Germany",[DE] Sky Cinema HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21816
+#EXTINF:-1 tvg-id="Sky Cinema Plus1 DE" tvg-name="[DE] Sky Cinema +1" tvg-logo="https://xpic.webox-eg.com/de/SkyCinemaPlus1.de.png" group-title="Germany",[DE] Sky Cinema +1
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5024
+#EXTINF:-1 tvg-id="Sky Cinema Plus1 DE" tvg-name="[DE] Sky Cinema +1 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyCinemaPlus1.de.png" group-title="Germany",[DE] Sky Cinema +1 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21814
+#EXTINF:-1 tvg-id="Sky Cinema Plus24 DE" tvg-name="[DE] Sky Cinema +24" tvg-logo="https://xpic.webox-eg.com/de/SkyCinemaPlus24.de.png" group-title="Germany",[DE] Sky Cinema +24
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5023
+#EXTINF:-1 tvg-id="Sky Cinema Plus24 DE" tvg-name="[DE] Sky Cinema +24 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyCinemaPlus24.de.png" group-title="Germany",[DE] Sky Cinema +24 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21813
+#EXTINF:-1 tvg-id="Sky Cinema Hits DE" tvg-name="[DE] Sky Cinema Hits" tvg-logo="https://xpic.webox-eg.com/de/SkyHits.de.png" group-title="Germany",[DE] Sky Cinema Hits
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/715
+#EXTINF:-1 tvg-id="Sky Cinema Hits DE" tvg-name="[DE] Sky Cinema Hits HD" tvg-logo="https://xpic.webox-eg.com/de/SkyHits.de.png" group-title="Germany",[DE] Sky Cinema Hits HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21811
+#EXTINF:-1 tvg-id="Sky Cinema Comedy DE" tvg-name="[DE] Sky Cinema Comedy" tvg-logo="https://xpic.webox-eg.com/de/SkyComedy.de.png" group-title="Germany",[DE] Sky Cinema Comedy
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5021
+#EXTINF:-1 tvg-id="Sky Cinema Comedy DE" tvg-name="[DE] Sky Cinema Comedy HD" tvg-logo="https://xpic.webox-eg.com/de/SkyComedy.de.png" group-title="Germany",[DE] Sky Cinema Comedy HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21808
+#EXTINF:-1 tvg-id="Sky Cinema Action DE" tvg-name="[DE] Sky Cinema Action" tvg-logo="https://xpic.webox-eg.com/de/SkyAction.de.png" group-title="Germany",[DE] Sky Cinema Action
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5032
+#EXTINF:-1 tvg-id="Sky Cinema Action DE" tvg-name="[DE] Sky Cinema Action HD" tvg-logo="https://xpic.webox-eg.com/de/SkyAction.de.png" group-title="Germany",[DE] Sky Cinema Action HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21810
+#EXTINF:-1 tvg-id="Sky Cinema Emotion DE" tvg-name="[DE] Sky Cinema  Emotion" tvg-logo="https://xpic.webox-eg.com/de/SkyEmotion.de.png" group-title="Germany",[DE] Sky Cinema  Emotion
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/75
+#EXTINF:-1 tvg-id="Sky Cinema Emotion DE" tvg-name="[DE] Sky Cinema  Emotion HD" tvg-logo="https://xpic.webox-eg.com/de/SkyEmotion.de.png" group-title="Germany",[DE] Sky Cinema  Emotion HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21807
+#EXTINF:-1 tvg-id="Sky Cinema Family DE" tvg-name="[DE] Sky Cinema Family" tvg-logo="https://xpic.webox-eg.com/de/SkyFamily.de.png" group-title="Germany",[DE] Sky Cinema Family
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5035
+#EXTINF:-1 tvg-id="Sky Cinema Family DE" tvg-name="[DE] Sky Cinema Family HD" tvg-logo="https://xpic.webox-eg.com/de/SkyFamily.de.png" group-title="Germany",[DE] Sky Cinema Family HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21812
+#EXTINF:-1 tvg-id="Sky Cinema Nostalgie DE" tvg-name="[DE] Sky Cinema Nostalgie" tvg-logo="https://xpic.webox-eg.com/de/SkyNostalgie.de.png" group-title="Germany",[DE] Sky Cinema Nostalgie
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/698
+#EXTINF:-1 tvg-id="Sky Cinema Nostalgie DE" tvg-name="[DE] Sky Cinema Nostalgie HD" tvg-logo="https://xpic.webox-eg.com/de/SkyNostalgie.de.png" group-title="Germany",[DE] Sky Cinema Nostalgie HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21805
+#EXTINF:-1 tvg-id="Sky Atlantic DE" tvg-name="[DE] Sky Atlantic" tvg-logo="https://xpic.webox-eg.com/de/SkyAtlantic.de.png" group-title="Germany",[DE] Sky Atlantic
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/289
+#EXTINF:-1 tvg-id="Sky Krimi DE" tvg-name="[DE] Sky Krimi" tvg-logo="https://xpic.webox-eg.com/de/SkyKrimi.de.png" group-title="Germany",[DE] Sky Krimi
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/37
+#EXTINF:-1 tvg-id="Sky Krimi DE" tvg-name="[DE] Sky Krimi HD" tvg-logo="https://xpic.webox-eg.com/de/SkyKrimi.de.png" group-title="Germany",[DE] Sky Krimi HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21806
+#EXTINF:-1 tvg-id="Sky 1 DE" tvg-name="[DE] Sky 1 HD" tvg-logo="https://xpic.webox-eg.com/de/Sky1.de.png" group-title="Germany",[DE] Sky 1 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21818
+#EXTINF:-1 tvg-id="Sky Arts HD DE" tvg-name="[DE] Sky Arts HD" tvg-logo="https://xpic.webox-eg.com/de/SkyArts.de.png" group-title="Germany",[DE] Sky Arts HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21833
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 1" tvg-logo="https://xpic.webox-eg.com/de/SkySelect1.de.png" group-title="Germany",[DE] Sky Select 1
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/420
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 2" tvg-logo="https://xpic.webox-eg.com/de/SkySelect2.de.png" group-title="Germany",[DE] Sky Select 2
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/799
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 3" tvg-logo="https://xpic.webox-eg.com/de/SkySelect3.de.png" group-title="Germany",[DE] Sky Select 3
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/927
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 4" tvg-logo="https://xpic.webox-eg.com/de/SkySelect4.de.png" group-title="Germany",[DE] Sky Select 4
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5033
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 5" tvg-logo="https://xpic.webox-eg.com/de/SkySelect5.de.png" group-title="Germany",[DE] Sky Select 5
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/717
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 6" tvg-logo="https://xpic.webox-eg.com/de/SkySelect6.de.png" group-title="Germany",[DE] Sky Select 6
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5041
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 7" tvg-logo="https://xpic.webox-eg.com/de/SkySelect7.de.png" group-title="Germany",[DE] Sky Select 7
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5037
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 8" tvg-logo="https://xpic.webox-eg.com/de/SkySelect8.de.png" group-title="Germany",[DE] Sky Select 8
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5040
+#EXTINF:-1 tvg-id="Syfy DE" tvg-name="[DE] SyFy" tvg-logo="https://xpic.webox-eg.com/de/syfy_us_global.png" group-title="Germany",[DE] SyFy
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/714
+#EXTINF:-1 tvg-id="FOX HD DE" tvg-name="[DE] Fox HD" tvg-logo="https://xpic.webox-eg.com/de/fox_global.png" group-title="Germany",[DE] Fox HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21793
+#EXTINF:-1 tvg-id="FOX HD DE" tvg-name="[DE] Fox" tvg-logo="https://xpic.webox-eg.com/de/fox_global.png" group-title="Germany",[DE] Fox
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9735
+#EXTINF:-1 tvg-id="TNT Serie DE" tvg-name="[DE] TNT Serie HD" tvg-logo="https://xpic.webox-eg.com/de/TNTSerie.de.png" group-title="Germany",[DE] TNT Serie HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21800
+#EXTINF:-1 tvg-id="TNT Serie DE" tvg-name="[DE] TNT Serie" tvg-logo="https://xpic.webox-eg.com/de/TNTSerie.de.png" group-title="Germany",[DE] TNT Serie
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/35
+#EXTINF:-1 tvg-id="TNT Comedy DE" tvg-name="[DE] TNT Comedy HD" tvg-logo="https://xpic.webox-eg.com/de/TNTComedy.de.png" group-title="Germany",[DE] TNT Comedy HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21799
+#EXTINF:-1 tvg-id="13th Street DE" tvg-name="[DE] 13th Street HD" tvg-logo="https://xpic.webox-eg.com/de/13thStreet.de.png" group-title="Germany",[DE] 13th Street HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21803
+#EXTINF:-1 tvg-id="13th Street DE" tvg-name="[DE] 13th Street" tvg-logo="https://xpic.webox-eg.com/de/13thStreet.de.png" group-title="Germany",[DE] 13th Street
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5042
+#EXTINF:-1 tvg-id="SPIEGEL Geschichte DE" tvg-name="[DE] Spiegel Geschichte" tvg-logo="https://xpic.webox-eg.com/de/spiegel_tv_de_geschichte.png" group-title="Germany",[DE] Spiegel Geschichte
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5015
+#EXTINF:-1 tvg-id="Heimatkanal DE" tvg-name="[DE] Heimat Kanal" tvg-logo="https://xpic.webox-eg.com/de/heimatkanal_de.png" group-title="Germany",[DE] Heimat Kanal
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21822
+#EXTINF:-1 tvg-id="ANIXE DE" tvg-name="[DE] Anixe" tvg-logo="https://xpic.webox-eg.com/de/Anixe.de.png" group-title="Germany",[DE] Anixe
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/86
+#EXTINF:-1 tvg-id="n-tv DE" tvg-name="[DE] NTV HD" tvg-logo="https://xpic.webox-eg.com/de/ntv.de.png" group-title="Germany",[DE] NTV HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21783
+#EXTINF:-1 tvg-id="n-tv DE" tvg-name="[DE] NTV" tvg-logo="https://xpic.webox-eg.com/de/ntv.de.png" group-title="Germany",[DE] NTV
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/76
+#EXTINF:-1 tvg-id="N24 DE" tvg-name="[DE] N24" tvg-logo="https://xpic.webox-eg.com/de/N24Doku.de.png" group-title="Germany",[DE] N24
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21782
+#EXTINF:-1 tvg-id="AandE DE" tvg-name="[DE] A&E HD" tvg-logo="https://xpic.webox-eg.com/de/AandE.de.png" group-title="Germany",[DE] A&E HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21795
+#EXTINF:-1 tvg-id="AXN HD DE" tvg-name="[DE] AXN HD" tvg-logo="https://xpic.webox-eg.com/de/AXN.de.png" group-title="Germany",[DE] AXN HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21788
+#EXTINF:-1 tvg-id="SIXX DE" tvg-name="[DE] Sixx HD" tvg-logo="https://xpic.webox-eg.com/de/sixx.de.png" group-title="Germany",[DE] Sixx HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21784
+#EXTINF:-1 tvg-id="Tele 5 DE" tvg-name="[DE] Tele 5 HD" tvg-logo="https://xpic.webox-eg.com/de/Tele5.de.png" group-title="Germany",[DE] Tele 5 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21766
+#EXTINF:-1 tvg-id="TLC DE" tvg-name="[DE] TLC HD" tvg-logo="https://xpic.webox-eg.com/global/TLC.png" group-title="Germany",[DE] TLC HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21798
+#EXTINF:-1 tvg-id="E! Entertainment DE" tvg-name="[DE] E! Entertainm HD" tvg-logo="https://xpic.webox-eg.com/de/EEntertainment.de.png" group-title="Germany",[DE] E! Entertainm HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21796
+#EXTINF:-1 tvg-id="Romance TV DE" tvg-name="[DE] Romance TV" tvg-logo="https://xpic.webox-eg.com/de/Romance.de.png" group-title="Germany",[DE] Romance TV
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5016
+#EXTINF:-1 tvg-id="Zee One DE" tvg-name="[DE] Zee One HD" tvg-logo="https://xpic.webox-eg.com/de/ZeeOne.de.png" group-title="Germany",[DE] Zee One HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21828
+#EXTINF:-1 tvg-id="ORF eins DE" tvg-name="[DE] ORF Eins HD" tvg-logo="https://xpic.webox-eg.com/de/ORF1.at.png" group-title="Germany",[DE] ORF Eins HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21765
+#EXTINF:-1 tvg-id="ORF 2 DE" tvg-name="[DE] ORF 2 HD" tvg-logo="https://xpic.webox-eg.com/de/ORF2.at.png" group-title="Germany",[DE] ORF 2 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21764
+#EXTINF:-1 tvg-id="Disney Channel DE" tvg-name="[DE] Disney" tvg-logo="https://xpic.webox-eg.com/global/Disney.png" group-title="Germany",[DE] Disney
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21769
+#EXTINF:-1 tvg-id="Disney XD DE" tvg-name="[DE] Disney XD" tvg-logo="https://xpic.webox-eg.com/global/Disney_XD.png" group-title="Germany",[DE] Disney XD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9738
+#EXTINF:-1 tvg-id="Disney Junior DE" tvg-name="[DE] Disney Junior" tvg-logo="https://xpic.webox-eg.com/global/Disney_JR.png" group-title="Germany",[DE] Disney Junior
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9739
+#EXTINF:-1 tvg-id="Disney Junior DE" tvg-name="[DE] Disney Junior HD" tvg-logo="https://xpic.webox-eg.com/global/Disney_JR.png" group-title="Germany",[DE] Disney Junior HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21768
+#EXTINF:-1 tvg-id="Disney Cinemagic DE" tvg-name="[DE] Disney Cine Magic" tvg-logo="https://xpic.webox-eg.com/de/DisneyCinemagic.de.png" group-title="Germany",[DE] Disney Cine Magic
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9736
+#EXTINF:-1 tvg-id="Disney Cinemagic DE" tvg-name="[DE] Disney Cine Magic HD" tvg-logo="https://xpic.webox-eg.com/de/DisneyCinemagic.de.png" group-title="Germany",[DE] Disney Cine Magic HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21767
+#EXTINF:-1 tvg-id="Junior DE" tvg-name="[DE] Junior" tvg-logo="https://xpic.webox-eg.com/de/Junior.de.png" group-title="Germany",[DE] Junior
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9737
+#EXTINF:-1 tvg-id="Junior DE" tvg-name="[DE] Junior HD" tvg-logo="https://xpic.webox-eg.com/de/Junior.de.png" group-title="Germany",[DE] Junior HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21771
+#EXTINF:-1 tvg-id="Boomerang DE" tvg-name="[DE] Boomerang" tvg-logo="https://xpic.webox-eg.com/de/Boomerang.de.png" group-title="Germany",[DE] Boomerang
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21775
+#EXTINF:-1 tvg-id="Cartoon Network DE" tvg-name="[DE] Cartoon Network" tvg-logo="https://xpic.webox-eg.com/de/CartoonNetwork.de.png" group-title="Germany",[DE] Cartoon Network
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21774
+#EXTINF:-1 tvg-id="Nickelodeon DE" tvg-name="[DE] Nickelodeon HD" tvg-logo="https://xpic.webox-eg.com/de/Nickelodeon.de.png" group-title="Germany",[DE] Nickelodeon HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21772
+#EXTINF:-1 tvg-id="TOGGO plus DE" tvg-name="[DE] Toggo Plus" tvg-logo="https://xpic.webox-eg.com/de/TOGGOplus.de.png" group-title="Germany",[DE] Toggo Plus
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/716
+#EXTINF:-1 tvg-id="TOGGO plus DE" tvg-name="[DE] Toggo Plus HD" tvg-logo="https://xpic.webox-eg.com/de/TOGGOplus.de.png" group-title="Germany",[DE] Toggo Plus HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21773
+#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="[DE] National Geo" tvg-logo="https://xpic.webox-eg.com/de/NatGeo.de.png" group-title="Germany",[DE] National Geo
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5036
+#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="[DE] National Geo HD" tvg-logo="https://xpic.webox-eg.com/de/NatGeo.de.png" group-title="Germany",[DE] National Geo HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21780
+#EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="[DE] Nat Geo Wild" tvg-logo="https://xpic.webox-eg.com/de/NatGeoWild.de.png" group-title="Germany",[DE] Nat Geo Wild
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9734
+#EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="[DE] Nat Geo Wild HD" tvg-logo="https://xpic.webox-eg.com/de/NatGeoWild.de.png" group-title="Germany",[DE] Nat Geo Wild HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21779
+#EXTINF:-1 tvg-id="Discovery Channel HD DE" tvg-name="[DE] Discovery" tvg-logo="https://xpic.webox-eg.com/de/DiscoveryChannel.de.png" group-title="Germany",[DE] Discovery
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5039
+#EXTINF:-1 tvg-id="Discovery Channel HD DE" tvg-name="[DE] Discovery HD" tvg-logo="https://xpic.webox-eg.com/de/DiscoveryChannel.de.png" group-title="Germany",[DE] Discovery HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21778
+#EXTINF:-1 tvg-id="History DE" tvg-name="[DE] History HD" tvg-logo="https://xpic.webox-eg.com/de/History.de.png" group-title="Germany",[DE] History HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21789
+#EXTINF:-1 tvg-id="Sport1 DE" tvg-name="[DE] Sport 1 HD" tvg-logo="https://xpic.webox-eg.com/de/Sport1.de.png" group-title="Germany",[DE] Sport 1 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21815
+#EXTINF:-1 tvg-id="Sport1Plus DE" tvg-name="[DE] Sport 1+ HD" tvg-logo="https://xpic.webox-eg.com/de/Sport1Plus.de.png" group-title="Germany",[DE] Sport 1+ HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21761
+#EXTINF:-1 tvg-id="sportdigital DE" tvg-name="[DE] Sport Digital HD" tvg-logo="https://xpic.webox-eg.com/de/sportdigital.de.png" group-title="Germany",[DE] Sport Digital HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/25165
+#EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="[DE] Sky Sport Austria 1" tvg-logo="https://xpic.webox-eg.com/de/SkySportAustria.at.png" group-title="Germany",[DE] Sky Sport Austria 1
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/38814
+#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="[DE] Eurosport 1 HD" tvg-logo="https://xpic.webox-eg.com/global/EuroSport1.png" group-title="Germany",[DE] Eurosport 1 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/87
+#EXTINF:-1 tvg-id="Eurosport 2 DE" tvg-name="[DE] Eurosport 2 HD" tvg-logo="https://xpic.webox-eg.com/global/EuroSport2.png" group-title="Germany",[DE] Eurosport 2 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/20148
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport Extra 1" tvg-logo="https://xpic.webox-eg.com/de/Eurosport2Xtra.de.png" group-title="Germany",[DE] Eurosport Extra 1
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/20172
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport Extra 2 FHD" tvg-logo="https://xpic.webox-eg.com/de/Eurosport2Xtra.de.png" group-title="Germany",[DE] Eurosport Extra 2 FHD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/31660
+#EXTINF:-1 tvg-id="DAZN DE" tvg-name="[DE] DAZN 1" tvg-logo="https://xpic.webox-eg.com/de/DAZN.de.png" group-title="Germany",[DE] DAZN 1
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/616
+#EXTINF:-1 tvg-id="DAZN DE" tvg-name="[DE] DAZN 2 FHD" tvg-logo="https://xpic.webox-eg.com/de/DAZN.de.png" group-title="Germany",[DE] DAZN 2 FHD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/34508
+#EXTINF:-1 tvg-id="ServusTV Deutschland DE" tvg-name="[DE] Servus" tvg-logo="https://xpic.webox-eg.com/de/Servus.png" group-title="Germany",[DE] Servus
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/54611
+#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-name="[DE] Sky Sport News HD" tvg-logo="https://xpic.webox-eg.com/de/SkySportNews.de.png" group-title="Germany",[DE] Sky Sport News HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21760
+#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="[DE] Sky Sport 1" tvg-logo="https://xpic.webox-eg.com/de/SkySport1.de.png" group-title="Germany",[DE] Sky Sport 1
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5018
+#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="[DE] Sky Sport 2" tvg-logo="https://xpic.webox-eg.com/de/SkySport2.de.png" group-title="Germany",[DE] Sky Sport 2
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5017
+#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="[DE] Sky Sport 1 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport1.de.png" group-title="Germany",[DE] Sky Sport 1 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21759
+#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="[DE] Sky Sport 2 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport2.de.png" group-title="Germany",[DE] Sky Sport 2 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21758
+#EXTINF:-1 tvg-id="Sky Sport 3 DE" tvg-name="[DE] Sky Sport 3 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport3.de.png" group-title="Germany",[DE] Sky Sport 3 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21757
+#EXTINF:-1 tvg-id="Sky Sport 4 DE" tvg-name="[DE] Sky Sport 4 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport4.de.png" group-title="Germany",[DE] Sky Sport 4 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21756
+#EXTINF:-1 tvg-id="Sky Sport 5 DE" tvg-name="[DE] Sky Sport 5 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport5.de.png" group-title="Germany",[DE] Sky Sport 5 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21755
+#EXTINF:-1 tvg-id="Sky Sport 6 DE" tvg-name="[DE] Sky Sport 6 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport6.de.png" group-title="Germany",[DE] Sky Sport 6 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21754
+#EXTINF:-1 tvg-id="Sky Sport 7 DE" tvg-name="[DE] Sky Sport 7 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport7.de.png" group-title="Germany",[DE] Sky Sport 7 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21753
+#EXTINF:-1 tvg-id="Sky Sport 8 DE" tvg-name="[DE] Sky Sport 8 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport8.de.png" group-title="Germany",[DE] Sky Sport 8 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21752
+#EXTINF:-1 tvg-id="Sky Sport 9 DE" tvg-name="[DE] Sky Sport 9 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport9.de.png" group-title="Germany",[DE] Sky Sport 9 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21751
+#EXTINF:-1 tvg-id="Sky Sport 10 DE" tvg-name="[DE] Sky Sport 10 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport10.de.png" group-title="Germany",[DE] Sky Sport 10 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21750
+#EXTINF:-1 tvg-id="Sky Sport 11 DE" tvg-name="[DE] Sky Sport 11 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport11.de.png" group-title="Germany",[DE] Sky Sport 11 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21749
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="[DE] Sky Sport Bundesliga 1" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga1.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 1
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21748
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 DE" tvg-name="[DE] Sky Sport Bundesliga 2 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga2.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 2 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21747
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 DE" tvg-name="[DE] Sky Sport Bundesliga 3 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga3.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 3 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21746
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 DE" tvg-name="[DE] Sky Sport Bundesliga 4 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga4.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 4 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21745
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 DE" tvg-name="[DE] Sky Sport Bundesliga 5 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga5.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 5 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21744
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 DE" tvg-name="[DE] Sky Sport Bundesliga 6 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga6.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 6 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21743
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 7 DE" tvg-name="[DE] Sky Sport Bundesliga 7 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga7.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 7 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21742
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8 DE" tvg-name="[DE] Sky Sport Bundesliga 8 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga8.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 8 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21741
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 9 DE" tvg-name="[DE] Sky Sport Bundesliga 9 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga9.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 9 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21740
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 10 DE" tvg-name="[DE] Sky Sport Bundesliga 10 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga10.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 10 HD
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21739
+#EXTINF:-1 tvg-id="SRF 1 HD CH" tvg-name="[CH-DE] SRF 1" tvg-logo="" group-title="Switzerland",[CH-DE] SRF 1
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/44806
+#EXTINF:-1 tvg-id="SRF zwei HD CH" tvg-name="[CH-DE] SRF zwei" tvg-logo="" group-title="Switzerland",[CH-DE] SRF zwei
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/44803
+#EXTINF:-1 tvg-id="SRF info HD CH" tvg-name="[CH-DE] SRF Info" tvg-logo="" group-title="Switzerland",[CH-DE] SRF Info
+http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/44804
+
