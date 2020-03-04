@@ -1,322 +1,845 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="[DE] Das Erste HD" tvg-logo="https://xpic.webox-eg.com/de/ARD.de.png" group-title="Germany",[DE] Das Erste HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/11134
-#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="[DE] Das Erste" tvg-logo="https://xpic.webox-eg.com/de/ARD.de.png" group-title="Germany",[DE] Das Erste
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21791
-#EXTINF:-1 tvg-id="ONE HD DE" tvg-name="[DE] ARD One HD" tvg-logo="https://i5-img.7tv.de/pis/apollo/b66fqgELBzZ_waVq72FRJvhr2kKdsbL1SrZYKa40hMNFeux3UQ2-LRZ-asIRDfN1k9tJBStS9YP-uPgnGMpttGjeZGGPp0oVwyhEvY8OmiowLMZUN2dm7LdQmMDAfIbkPrVmmc3TWb3baa0zQ6dHQd-I0azauqFmAuMw-Q/profile:nextgen-web-artlogo-183x75" group-title="Germany",[DE] ARD One HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/60224
-#EXTINF:-1 tvg-id="ZDF DE" tvg-name="[DE] ZDF HD" tvg-logo="https://xpic.webox-eg.com/de/ZDF.de.png" group-title="Germany",[DE] ZDF HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21832
-#EXTINF:-1 tvg-id="ZDF DE" tvg-name="[DE] ZDF" tvg-logo="https://xpic.webox-eg.com/de/ZDF.de.png" group-title="Germany",[DE] ZDF
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/754
-#EXTINF:-1 tvg-id="RTL DE" tvg-name="[DE] RTL HD" tvg-logo="https://xpic.webox-eg.com/de/RTL.de.png" group-title="Germany",[DE] RTL HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21826
-#EXTINF:-1 tvg-id="RTL DE" tvg-name="[DE] RTL" tvg-logo="https://xpic.webox-eg.com/de/RTL.de.png" group-title="Germany",[DE] RTL
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/436
-#EXTINF:-1 tvg-id="RTL II DE" tvg-name="[DE] RTL 2 HD" tvg-logo="https://xpic.webox-eg.com/de/RTL2.de.png" group-title="Germany",[DE] RTL 2 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21825
-#EXTINF:-1 tvg-id="RTL II DE" tvg-name="[DE] RTL 2" tvg-logo="https://xpic.webox-eg.com/de/RTL2.de.png" group-title="Germany",[DE] RTL 2
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/437
-#EXTINF:-1 tvg-id="Pro7 HD DE" tvg-name="[DE] Pro Sieben" tvg-logo="https://xpic.webox-eg.com/de/Pro7.de.png" group-title="Germany",[DE] Pro Sieben
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/158
-#EXTINF:-1 tvg-id="ProSieben DE" tvg-name="[DE] Pro Sieben HD" tvg-logo="https://xpic.webox-eg.com/de/Pro7.de.png" group-title="Germany",[DE] Pro Sieben HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21802
-#EXTINF:-1 tvg-id="Pro7 Maxx HD DE" tvg-name="[DE] Pro Sieben MAXX" tvg-logo="https://xpic.webox-eg.com/de/ProSiebenMaxx.de.png" group-title="Germany",[DE] Pro Sieben MAXX
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/15473
-#EXTINF:-1 tvg-id="DMAX DE" tvg-name="[DE] Dmax HD" tvg-logo="https://xpic.webox-eg.com/de/DMax.de.png" group-title="Germany",[DE] Dmax HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21790
-#EXTINF:-1 tvg-id="DMAX DE" tvg-name="[DE] Dmax" tvg-logo="https://xpic.webox-eg.com/de/DMax.de.png" group-title="Germany",[DE] Dmax
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/526
-#EXTINF:-1 tvg-id="kabel eins DE" tvg-name="[DE] Kabel Eins HD" tvg-logo="https://xpic.webox-eg.com/de/Kabel1.de.png" group-title="Germany",[DE] Kabel Eins HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21794
-#EXTINF:-1 tvg-id="kabel eins DE" tvg-name="[DE] Kabel Eins" tvg-logo="https://xpic.webox-eg.com/de/Kabel1.de.png" group-title="Germany",[DE] Kabel Eins
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/11116
-#EXTINF:-1 tvg-id="kabel eins Doku DE" tvg-name="[DE] Kabel Eins Doku" tvg-logo="https://xpic.webox-eg.com/de/KabelEinsDoku.de.png" group-title="Germany",[DE] Kabel Eins Doku
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21770
-#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="[DE] Sat 1 HD" tvg-logo="https://xpic.webox-eg.com/de/Sat1.de.png" group-title="Germany",[DE] Sat 1 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21792
-#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="[DE] Sat 1" tvg-logo="https://xpic.webox-eg.com/de/Sat1.de.png" group-title="Germany",[DE] Sat 1
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/159
-#EXTINF:-1 tvg-id="Sat.1 Gold DE" tvg-name="[DE] Sat 1 Gold" tvg-logo="https://xpic.webox-eg.com/de/Sat1Gold.de.png" group-title="Germany",[DE] Sat 1 Gold
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/11056
-#EXTINF:-1 tvg-id="arte DE" tvg-name="[DE] Arte HD" tvg-logo="https://xpic.webox-eg.com/fr/ARTE.fr.png" group-title="Germany",[DE] Arte HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/26126
-#EXTINF:-1 tvg-id="arte DE" tvg-name="[DE] Arte" tvg-logo="https://xpic.webox-eg.com/fr/ARTE.fr.png" group-title="Germany",[DE] Arte
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/26125
-#EXTINF:-1 tvg-id="BR Fernsehen Nord DE" tvg-name="[DE] BR" tvg-logo="https://xpic.webox-eg.com/de/BR.png" group-title="Germany",[DE] BR
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/55008
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="[DE] HR Fernsehen" tvg-logo="https://xpic.webox-eg.com/de/HR.png" group-title="Germany",[DE] HR Fernsehen
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/55009
-#EXTINF:-1 tvg-id="NDR DE" tvg-name="[DE] NDR" tvg-logo="https://xpic.webox-eg.com/de/NDR.png" group-title="Germany",[DE] NDR
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/55010
-#EXTINF:-1 tvg-id="SWR DE" tvg-name="[DE] Swr" tvg-logo="https://xpic.webox-eg.com/de/Swr.png" group-title="Germany",[DE] Swr
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/55011
-#EXTINF:-1 tvg-id="VOX DE" tvg-name="[DE] VOX HD" tvg-logo="https://xpic.webox-eg.com/de/Vox.de.png" group-title="Germany",[DE] VOX HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21827
-#EXTINF:-1 tvg-id="VOX DE" tvg-name="[DE] VOX" tvg-logo="https://xpic.webox-eg.com/de/Vox.de.png" group-title="Germany",[DE] VOX
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/98
-#EXTINF:-1 tvg-id="3sat DE" tvg-name="[DE] 3Sat HD" tvg-logo="https://xpic.webox-eg.com/de/3sat_de.png" group-title="Germany",[DE] 3Sat HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21786
-#EXTINF:-1 tvg-id="3sat DE" tvg-name="[DE] 3Sat" tvg-logo="https://xpic.webox-eg.com/de/3sat_de.png" group-title="Germany",[DE] 3Sat
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/766
-#EXTINF:-1 tvg-id="KiKa DE" tvg-name="[DE] Kika HD" tvg-logo="https://xpic.webox-eg.com/de/Kika.de.png" group-title="Germany",[DE] Kika HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21776
-#EXTINF:-1 tvg-id="KiKa DE" tvg-name="[DE] Kika" tvg-logo="https://xpic.webox-eg.com/de/Kika.de.png" group-title="Germany",[DE] Kika
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/82
-#EXTINF:-1 tvg-id="Super RTL DE" tvg-name="[DE] Super RTL HD" tvg-logo="https://xpic.webox-eg.com/de/SuperRTL.de.png" group-title="Germany",[DE] Super RTL HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21819
-#EXTINF:-1 tvg-id="Super RTL DE" tvg-name="[DE] Super RTL" tvg-logo="https://xpic.webox-eg.com/de/SuperRTL.de.png" group-title="Germany",[DE] Super RTL
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5020
-#EXTINF:-1 tvg-id="ZDFneo DE" tvg-name="[DE] ZDF Neo HD" tvg-logo="https://xpic.webox-eg.com/de/ZDFneo.de.png" group-title="Germany",[DE] ZDF Neo HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21830
-#EXTINF:-1 tvg-id="ZDFneo DE" tvg-name="[DE] ZDF Neo" tvg-logo="https://xpic.webox-eg.com/de/ZDFneo.de.png" group-title="Germany",[DE] ZDF Neo
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/18
-#EXTINF:-1 tvg-id="ZDFinfo DE" tvg-name="[DE] ZDF Info HD" tvg-logo="https://xpic.webox-eg.com/de/ZDFinfo.de.png" group-title="Germany",[DE] ZDF Info HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21831
-#EXTINF:-1 tvg-id="ZDFinfo DE" tvg-name="[DE] ZDF Info" tvg-logo="https://xpic.webox-eg.com/de/ZDFinfo.de.png" group-title="Germany",[DE] ZDF Info
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/765
-#EXTINF:-1 tvg-id="RTL Crime DE" tvg-name="[DE] RTL Crime HD" tvg-logo="https://xpic.webox-eg.com/de/RTLCrime.de.png" group-title="Germany",[DE] RTL Crime HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21821
-#EXTINF:-1 tvg-id="RTL Crime DE" tvg-name="[DE] RTL Crime" tvg-logo="https://xpic.webox-eg.com/de/RTLCrime.de.png" group-title="Germany",[DE] RTL Crime
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5034
-#EXTINF:-1 tvg-id="RTL Passion DE" tvg-name="[DE] RTL Passion HD" tvg-logo="https://xpic.webox-eg.com/de/RTLPassion.de.png" group-title="Germany",[DE] RTL Passion HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21820
-#EXTINF:-1 tvg-id="RTL Passion DE" tvg-name="[DE] RTL Passion" tvg-logo="https://xpic.webox-eg.com/de/RTLPassion.de.png" group-title="Germany",[DE] RTL Passion
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/926
-#EXTINF:-1 tvg-id="RTL NITRO DE" tvg-name="[DE] RTL Nitro HD" tvg-logo="https://xpic.webox-eg.com/de/RTLNitro.de.png" group-title="Germany",[DE] RTL Nitro HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21823
-#EXTINF:-1 tvg-id="RTL NITRO DE" tvg-name="[DE] RTL Nitro" tvg-logo="https://xpic.webox-eg.com/de/RTLNitro.de.png" group-title="Germany",[DE] RTL Nitro
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9740
-#EXTINF:-1 tvg-id="RTL Living DE" tvg-name="[DE] RTL Living HD" tvg-logo="https://xpic.webox-eg.com/de/RTL_Living.png" group-title="Germany",[DE] RTL Living HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/16089
-#EXTINF:-1 tvg-id="RTLplus DE" tvg-name="[DE] RTL plus" tvg-logo="https://xpic.webox-eg.com/de/RTLPlus.de.png" group-title="Germany",[DE] RTL plus
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/26281
-#EXTINF:-1 tvg-id="WDR DE" tvg-name="[DE] WDR" tvg-logo="https://xpic.webox-eg.com/de/WDR.de.png" group-title="Germany",[DE] WDR
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/26236
-#EXTINF:-1 tvg-id="Sky Cinema DE" tvg-name="[DE] Sky Cinema" tvg-logo="https://xpic.webox-eg.com/de/SkyCinema.de.png" group-title="Germany",[DE] Sky Cinema
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5022
-#EXTINF:-1 tvg-id="Sky Cinema DE" tvg-name="[DE] Sky Cinema HD" tvg-logo="https://xpic.webox-eg.com/de/SkyCinema.de.png" group-title="Germany",[DE] Sky Cinema HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21816
-#EXTINF:-1 tvg-id="Sky Cinema Plus1 DE" tvg-name="[DE] Sky Cinema +1" tvg-logo="https://xpic.webox-eg.com/de/SkyCinemaPlus1.de.png" group-title="Germany",[DE] Sky Cinema +1
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5024
-#EXTINF:-1 tvg-id="Sky Cinema Plus1 DE" tvg-name="[DE] Sky Cinema +1 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyCinemaPlus1.de.png" group-title="Germany",[DE] Sky Cinema +1 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21814
-#EXTINF:-1 tvg-id="Sky Cinema Plus24 DE" tvg-name="[DE] Sky Cinema +24" tvg-logo="https://xpic.webox-eg.com/de/SkyCinemaPlus24.de.png" group-title="Germany",[DE] Sky Cinema +24
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5023
-#EXTINF:-1 tvg-id="Sky Cinema Plus24 DE" tvg-name="[DE] Sky Cinema +24 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyCinemaPlus24.de.png" group-title="Germany",[DE] Sky Cinema +24 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21813
-#EXTINF:-1 tvg-id="Sky Cinema Hits DE" tvg-name="[DE] Sky Cinema Hits" tvg-logo="https://xpic.webox-eg.com/de/SkyHits.de.png" group-title="Germany",[DE] Sky Cinema Hits
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/715
-#EXTINF:-1 tvg-id="Sky Cinema Hits DE" tvg-name="[DE] Sky Cinema Hits HD" tvg-logo="https://xpic.webox-eg.com/de/SkyHits.de.png" group-title="Germany",[DE] Sky Cinema Hits HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21811
-#EXTINF:-1 tvg-id="Sky Cinema Comedy DE" tvg-name="[DE] Sky Cinema Comedy" tvg-logo="https://xpic.webox-eg.com/de/SkyComedy.de.png" group-title="Germany",[DE] Sky Cinema Comedy
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5021
-#EXTINF:-1 tvg-id="Sky Cinema Comedy DE" tvg-name="[DE] Sky Cinema Comedy HD" tvg-logo="https://xpic.webox-eg.com/de/SkyComedy.de.png" group-title="Germany",[DE] Sky Cinema Comedy HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21808
-#EXTINF:-1 tvg-id="Sky Cinema Action DE" tvg-name="[DE] Sky Cinema Action" tvg-logo="https://xpic.webox-eg.com/de/SkyAction.de.png" group-title="Germany",[DE] Sky Cinema Action
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5032
-#EXTINF:-1 tvg-id="Sky Cinema Action DE" tvg-name="[DE] Sky Cinema Action HD" tvg-logo="https://xpic.webox-eg.com/de/SkyAction.de.png" group-title="Germany",[DE] Sky Cinema Action HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21810
-#EXTINF:-1 tvg-id="Sky Cinema Emotion DE" tvg-name="[DE] Sky Cinema  Emotion" tvg-logo="https://xpic.webox-eg.com/de/SkyEmotion.de.png" group-title="Germany",[DE] Sky Cinema  Emotion
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/75
-#EXTINF:-1 tvg-id="Sky Cinema Emotion DE" tvg-name="[DE] Sky Cinema  Emotion HD" tvg-logo="https://xpic.webox-eg.com/de/SkyEmotion.de.png" group-title="Germany",[DE] Sky Cinema  Emotion HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21807
-#EXTINF:-1 tvg-id="Sky Cinema Family DE" tvg-name="[DE] Sky Cinema Family" tvg-logo="https://xpic.webox-eg.com/de/SkyFamily.de.png" group-title="Germany",[DE] Sky Cinema Family
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5035
-#EXTINF:-1 tvg-id="Sky Cinema Family DE" tvg-name="[DE] Sky Cinema Family HD" tvg-logo="https://xpic.webox-eg.com/de/SkyFamily.de.png" group-title="Germany",[DE] Sky Cinema Family HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21812
-#EXTINF:-1 tvg-id="Sky Cinema Nostalgie DE" tvg-name="[DE] Sky Cinema Nostalgie" tvg-logo="https://xpic.webox-eg.com/de/SkyNostalgie.de.png" group-title="Germany",[DE] Sky Cinema Nostalgie
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/698
-#EXTINF:-1 tvg-id="Sky Cinema Nostalgie DE" tvg-name="[DE] Sky Cinema Nostalgie HD" tvg-logo="https://xpic.webox-eg.com/de/SkyNostalgie.de.png" group-title="Germany",[DE] Sky Cinema Nostalgie HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21805
-#EXTINF:-1 tvg-id="Sky Atlantic DE" tvg-name="[DE] Sky Atlantic" tvg-logo="https://xpic.webox-eg.com/de/SkyAtlantic.de.png" group-title="Germany",[DE] Sky Atlantic
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/289
-#EXTINF:-1 tvg-id="Sky Krimi DE" tvg-name="[DE] Sky Krimi" tvg-logo="https://xpic.webox-eg.com/de/SkyKrimi.de.png" group-title="Germany",[DE] Sky Krimi
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/37
-#EXTINF:-1 tvg-id="Sky Krimi DE" tvg-name="[DE] Sky Krimi HD" tvg-logo="https://xpic.webox-eg.com/de/SkyKrimi.de.png" group-title="Germany",[DE] Sky Krimi HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21806
-#EXTINF:-1 tvg-id="Sky 1 DE" tvg-name="[DE] Sky 1 HD" tvg-logo="https://xpic.webox-eg.com/de/Sky1.de.png" group-title="Germany",[DE] Sky 1 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21818
-#EXTINF:-1 tvg-id="Sky Arts HD DE" tvg-name="[DE] Sky Arts HD" tvg-logo="https://xpic.webox-eg.com/de/SkyArts.de.png" group-title="Germany",[DE] Sky Arts HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21833
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 1" tvg-logo="https://xpic.webox-eg.com/de/SkySelect1.de.png" group-title="Germany",[DE] Sky Select 1
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/420
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 2" tvg-logo="https://xpic.webox-eg.com/de/SkySelect2.de.png" group-title="Germany",[DE] Sky Select 2
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/799
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 3" tvg-logo="https://xpic.webox-eg.com/de/SkySelect3.de.png" group-title="Germany",[DE] Sky Select 3
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/927
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 4" tvg-logo="https://xpic.webox-eg.com/de/SkySelect4.de.png" group-title="Germany",[DE] Sky Select 4
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5033
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 5" tvg-logo="https://xpic.webox-eg.com/de/SkySelect5.de.png" group-title="Germany",[DE] Sky Select 5
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/717
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 6" tvg-logo="https://xpic.webox-eg.com/de/SkySelect6.de.png" group-title="Germany",[DE] Sky Select 6
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5041
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 7" tvg-logo="https://xpic.webox-eg.com/de/SkySelect7.de.png" group-title="Germany",[DE] Sky Select 7
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5037
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Select 8" tvg-logo="https://xpic.webox-eg.com/de/SkySelect8.de.png" group-title="Germany",[DE] Sky Select 8
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5040
-#EXTINF:-1 tvg-id="Syfy DE" tvg-name="[DE] SyFy" tvg-logo="https://xpic.webox-eg.com/de/syfy_us_global.png" group-title="Germany",[DE] SyFy
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/714
-#EXTINF:-1 tvg-id="FOX HD DE" tvg-name="[DE] Fox HD" tvg-logo="https://xpic.webox-eg.com/de/fox_global.png" group-title="Germany",[DE] Fox HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21793
-#EXTINF:-1 tvg-id="FOX HD DE" tvg-name="[DE] Fox" tvg-logo="https://xpic.webox-eg.com/de/fox_global.png" group-title="Germany",[DE] Fox
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9735
-#EXTINF:-1 tvg-id="TNT Serie DE" tvg-name="[DE] TNT Serie HD" tvg-logo="https://xpic.webox-eg.com/de/TNTSerie.de.png" group-title="Germany",[DE] TNT Serie HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21800
-#EXTINF:-1 tvg-id="TNT Serie DE" tvg-name="[DE] TNT Serie" tvg-logo="https://xpic.webox-eg.com/de/TNTSerie.de.png" group-title="Germany",[DE] TNT Serie
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/35
-#EXTINF:-1 tvg-id="TNT Comedy DE" tvg-name="[DE] TNT Comedy HD" tvg-logo="https://xpic.webox-eg.com/de/TNTComedy.de.png" group-title="Germany",[DE] TNT Comedy HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21799
-#EXTINF:-1 tvg-id="13th Street DE" tvg-name="[DE] 13th Street HD" tvg-logo="https://xpic.webox-eg.com/de/13thStreet.de.png" group-title="Germany",[DE] 13th Street HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21803
-#EXTINF:-1 tvg-id="13th Street DE" tvg-name="[DE] 13th Street" tvg-logo="https://xpic.webox-eg.com/de/13thStreet.de.png" group-title="Germany",[DE] 13th Street
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5042
-#EXTINF:-1 tvg-id="SPIEGEL Geschichte DE" tvg-name="[DE] Spiegel Geschichte" tvg-logo="https://xpic.webox-eg.com/de/spiegel_tv_de_geschichte.png" group-title="Germany",[DE] Spiegel Geschichte
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5015
-#EXTINF:-1 tvg-id="Heimatkanal DE" tvg-name="[DE] Heimat Kanal" tvg-logo="https://xpic.webox-eg.com/de/heimatkanal_de.png" group-title="Germany",[DE] Heimat Kanal
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21822
-#EXTINF:-1 tvg-id="ANIXE DE" tvg-name="[DE] Anixe" tvg-logo="https://xpic.webox-eg.com/de/Anixe.de.png" group-title="Germany",[DE] Anixe
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/86
-#EXTINF:-1 tvg-id="n-tv DE" tvg-name="[DE] NTV HD" tvg-logo="https://xpic.webox-eg.com/de/ntv.de.png" group-title="Germany",[DE] NTV HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21783
-#EXTINF:-1 tvg-id="n-tv DE" tvg-name="[DE] NTV" tvg-logo="https://xpic.webox-eg.com/de/ntv.de.png" group-title="Germany",[DE] NTV
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/76
-#EXTINF:-1 tvg-id="N24 DE" tvg-name="[DE] N24" tvg-logo="https://xpic.webox-eg.com/de/N24Doku.de.png" group-title="Germany",[DE] N24
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21782
-#EXTINF:-1 tvg-id="AandE DE" tvg-name="[DE] A&E HD" tvg-logo="https://xpic.webox-eg.com/de/AandE.de.png" group-title="Germany",[DE] A&E HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21795
-#EXTINF:-1 tvg-id="AXN HD DE" tvg-name="[DE] AXN HD" tvg-logo="https://xpic.webox-eg.com/de/AXN.de.png" group-title="Germany",[DE] AXN HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21788
-#EXTINF:-1 tvg-id="SIXX DE" tvg-name="[DE] Sixx HD" tvg-logo="https://xpic.webox-eg.com/de/sixx.de.png" group-title="Germany",[DE] Sixx HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21784
-#EXTINF:-1 tvg-id="Tele 5 DE" tvg-name="[DE] Tele 5 HD" tvg-logo="https://xpic.webox-eg.com/de/Tele5.de.png" group-title="Germany",[DE] Tele 5 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21766
-#EXTINF:-1 tvg-id="TLC DE" tvg-name="[DE] TLC HD" tvg-logo="https://xpic.webox-eg.com/global/TLC.png" group-title="Germany",[DE] TLC HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21798
-#EXTINF:-1 tvg-id="E! Entertainment DE" tvg-name="[DE] E! Entertainm HD" tvg-logo="https://xpic.webox-eg.com/de/EEntertainment.de.png" group-title="Germany",[DE] E! Entertainm HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21796
-#EXTINF:-1 tvg-id="Romance TV DE" tvg-name="[DE] Romance TV" tvg-logo="https://xpic.webox-eg.com/de/Romance.de.png" group-title="Germany",[DE] Romance TV
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5016
-#EXTINF:-1 tvg-id="Zee One DE" tvg-name="[DE] Zee One HD" tvg-logo="https://xpic.webox-eg.com/de/ZeeOne.de.png" group-title="Germany",[DE] Zee One HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21828
-#EXTINF:-1 tvg-id="ORF eins DE" tvg-name="[DE] ORF Eins HD" tvg-logo="https://xpic.webox-eg.com/de/ORF1.at.png" group-title="Germany",[DE] ORF Eins HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21765
-#EXTINF:-1 tvg-id="ORF 2 DE" tvg-name="[DE] ORF 2 HD" tvg-logo="https://xpic.webox-eg.com/de/ORF2.at.png" group-title="Germany",[DE] ORF 2 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21764
-#EXTINF:-1 tvg-id="Disney Channel DE" tvg-name="[DE] Disney" tvg-logo="https://xpic.webox-eg.com/global/Disney.png" group-title="Germany",[DE] Disney
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21769
-#EXTINF:-1 tvg-id="Disney XD DE" tvg-name="[DE] Disney XD" tvg-logo="https://xpic.webox-eg.com/global/Disney_XD.png" group-title="Germany",[DE] Disney XD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9738
-#EXTINF:-1 tvg-id="Disney Junior DE" tvg-name="[DE] Disney Junior" tvg-logo="https://xpic.webox-eg.com/global/Disney_JR.png" group-title="Germany",[DE] Disney Junior
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9739
-#EXTINF:-1 tvg-id="Disney Junior DE" tvg-name="[DE] Disney Junior HD" tvg-logo="https://xpic.webox-eg.com/global/Disney_JR.png" group-title="Germany",[DE] Disney Junior HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21768
-#EXTINF:-1 tvg-id="Disney Cinemagic DE" tvg-name="[DE] Disney Cine Magic" tvg-logo="https://xpic.webox-eg.com/de/DisneyCinemagic.de.png" group-title="Germany",[DE] Disney Cine Magic
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9736
-#EXTINF:-1 tvg-id="Disney Cinemagic DE" tvg-name="[DE] Disney Cine Magic HD" tvg-logo="https://xpic.webox-eg.com/de/DisneyCinemagic.de.png" group-title="Germany",[DE] Disney Cine Magic HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21767
-#EXTINF:-1 tvg-id="Junior DE" tvg-name="[DE] Junior" tvg-logo="https://xpic.webox-eg.com/de/Junior.de.png" group-title="Germany",[DE] Junior
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9737
-#EXTINF:-1 tvg-id="Junior DE" tvg-name="[DE] Junior HD" tvg-logo="https://xpic.webox-eg.com/de/Junior.de.png" group-title="Germany",[DE] Junior HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21771
-#EXTINF:-1 tvg-id="Boomerang DE" tvg-name="[DE] Boomerang" tvg-logo="https://xpic.webox-eg.com/de/Boomerang.de.png" group-title="Germany",[DE] Boomerang
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21775
-#EXTINF:-1 tvg-id="Cartoon Network DE" tvg-name="[DE] Cartoon Network" tvg-logo="https://xpic.webox-eg.com/de/CartoonNetwork.de.png" group-title="Germany",[DE] Cartoon Network
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21774
-#EXTINF:-1 tvg-id="Nickelodeon DE" tvg-name="[DE] Nickelodeon HD" tvg-logo="https://xpic.webox-eg.com/de/Nickelodeon.de.png" group-title="Germany",[DE] Nickelodeon HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21772
-#EXTINF:-1 tvg-id="TOGGO plus DE" tvg-name="[DE] Toggo Plus" tvg-logo="https://xpic.webox-eg.com/de/TOGGOplus.de.png" group-title="Germany",[DE] Toggo Plus
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/716
-#EXTINF:-1 tvg-id="TOGGO plus DE" tvg-name="[DE] Toggo Plus HD" tvg-logo="https://xpic.webox-eg.com/de/TOGGOplus.de.png" group-title="Germany",[DE] Toggo Plus HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21773
-#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="[DE] National Geo" tvg-logo="https://xpic.webox-eg.com/de/NatGeo.de.png" group-title="Germany",[DE] National Geo
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5036
-#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="[DE] National Geo HD" tvg-logo="https://xpic.webox-eg.com/de/NatGeo.de.png" group-title="Germany",[DE] National Geo HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21780
-#EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="[DE] Nat Geo Wild" tvg-logo="https://xpic.webox-eg.com/de/NatGeoWild.de.png" group-title="Germany",[DE] Nat Geo Wild
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/9734
-#EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="[DE] Nat Geo Wild HD" tvg-logo="https://xpic.webox-eg.com/de/NatGeoWild.de.png" group-title="Germany",[DE] Nat Geo Wild HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21779
-#EXTINF:-1 tvg-id="Discovery Channel HD DE" tvg-name="[DE] Discovery" tvg-logo="https://xpic.webox-eg.com/de/DiscoveryChannel.de.png" group-title="Germany",[DE] Discovery
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5039
-#EXTINF:-1 tvg-id="Discovery Channel HD DE" tvg-name="[DE] Discovery HD" tvg-logo="https://xpic.webox-eg.com/de/DiscoveryChannel.de.png" group-title="Germany",[DE] Discovery HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21778
-#EXTINF:-1 tvg-id="History DE" tvg-name="[DE] History HD" tvg-logo="https://xpic.webox-eg.com/de/History.de.png" group-title="Germany",[DE] History HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21789
-#EXTINF:-1 tvg-id="Sport1 DE" tvg-name="[DE] Sport 1 HD" tvg-logo="https://xpic.webox-eg.com/de/Sport1.de.png" group-title="Germany",[DE] Sport 1 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21815
-#EXTINF:-1 tvg-id="Sport1Plus DE" tvg-name="[DE] Sport 1+ HD" tvg-logo="https://xpic.webox-eg.com/de/Sport1Plus.de.png" group-title="Germany",[DE] Sport 1+ HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21761
-#EXTINF:-1 tvg-id="sportdigital DE" tvg-name="[DE] Sport Digital HD" tvg-logo="https://xpic.webox-eg.com/de/sportdigital.de.png" group-title="Germany",[DE] Sport Digital HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/25165
-#EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="[DE] Sky Sport Austria 1" tvg-logo="https://xpic.webox-eg.com/de/SkySportAustria.at.png" group-title="Germany",[DE] Sky Sport Austria 1
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/38814
-#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="[DE] Eurosport 1 HD" tvg-logo="https://xpic.webox-eg.com/global/EuroSport1.png" group-title="Germany",[DE] Eurosport 1 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/87
-#EXTINF:-1 tvg-id="Eurosport 2 DE" tvg-name="[DE] Eurosport 2 HD" tvg-logo="https://xpic.webox-eg.com/global/EuroSport2.png" group-title="Germany",[DE] Eurosport 2 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/20148
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport Extra 1" tvg-logo="https://xpic.webox-eg.com/de/Eurosport2Xtra.de.png" group-title="Germany",[DE] Eurosport Extra 1
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/20172
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport Extra 2 FHD" tvg-logo="https://xpic.webox-eg.com/de/Eurosport2Xtra.de.png" group-title="Germany",[DE] Eurosport Extra 2 FHD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/31660
-#EXTINF:-1 tvg-id="DAZN DE" tvg-name="[DE] DAZN 1" tvg-logo="https://xpic.webox-eg.com/de/DAZN.de.png" group-title="Germany",[DE] DAZN 1
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/616
-#EXTINF:-1 tvg-id="DAZN DE" tvg-name="[DE] DAZN 2 FHD" tvg-logo="https://xpic.webox-eg.com/de/DAZN.de.png" group-title="Germany",[DE] DAZN 2 FHD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/34508
-#EXTINF:-1 tvg-id="ServusTV Deutschland DE" tvg-name="[DE] Servus" tvg-logo="https://xpic.webox-eg.com/de/Servus.png" group-title="Germany",[DE] Servus
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/54611
-#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-name="[DE] Sky Sport News HD" tvg-logo="https://xpic.webox-eg.com/de/SkySportNews.de.png" group-title="Germany",[DE] Sky Sport News HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21760
-#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="[DE] Sky Sport 1" tvg-logo="https://xpic.webox-eg.com/de/SkySport1.de.png" group-title="Germany",[DE] Sky Sport 1
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5018
-#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="[DE] Sky Sport 2" tvg-logo="https://xpic.webox-eg.com/de/SkySport2.de.png" group-title="Germany",[DE] Sky Sport 2
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/5017
-#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="[DE] Sky Sport 1 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport1.de.png" group-title="Germany",[DE] Sky Sport 1 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21759
-#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="[DE] Sky Sport 2 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport2.de.png" group-title="Germany",[DE] Sky Sport 2 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21758
-#EXTINF:-1 tvg-id="Sky Sport 3 DE" tvg-name="[DE] Sky Sport 3 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport3.de.png" group-title="Germany",[DE] Sky Sport 3 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21757
-#EXTINF:-1 tvg-id="Sky Sport 4 DE" tvg-name="[DE] Sky Sport 4 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport4.de.png" group-title="Germany",[DE] Sky Sport 4 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21756
-#EXTINF:-1 tvg-id="Sky Sport 5 DE" tvg-name="[DE] Sky Sport 5 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport5.de.png" group-title="Germany",[DE] Sky Sport 5 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21755
-#EXTINF:-1 tvg-id="Sky Sport 6 DE" tvg-name="[DE] Sky Sport 6 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport6.de.png" group-title="Germany",[DE] Sky Sport 6 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21754
-#EXTINF:-1 tvg-id="Sky Sport 7 DE" tvg-name="[DE] Sky Sport 7 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport7.de.png" group-title="Germany",[DE] Sky Sport 7 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21753
-#EXTINF:-1 tvg-id="Sky Sport 8 DE" tvg-name="[DE] Sky Sport 8 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport8.de.png" group-title="Germany",[DE] Sky Sport 8 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21752
-#EXTINF:-1 tvg-id="Sky Sport 9 DE" tvg-name="[DE] Sky Sport 9 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport9.de.png" group-title="Germany",[DE] Sky Sport 9 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21751
-#EXTINF:-1 tvg-id="Sky Sport 10 DE" tvg-name="[DE] Sky Sport 10 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport10.de.png" group-title="Germany",[DE] Sky Sport 10 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21750
-#EXTINF:-1 tvg-id="Sky Sport 11 DE" tvg-name="[DE] Sky Sport 11 HD" tvg-logo="https://xpic.webox-eg.com/de/SkySport11.de.png" group-title="Germany",[DE] Sky Sport 11 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21749
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="[DE] Sky Sport Bundesliga 1" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga1.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 1
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21748
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 DE" tvg-name="[DE] Sky Sport Bundesliga 2 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga2.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 2 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21747
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 DE" tvg-name="[DE] Sky Sport Bundesliga 3 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga3.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 3 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21746
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 DE" tvg-name="[DE] Sky Sport Bundesliga 4 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga4.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 4 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21745
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 DE" tvg-name="[DE] Sky Sport Bundesliga 5 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga5.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 5 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21744
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 DE" tvg-name="[DE] Sky Sport Bundesliga 6 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga6.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 6 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21743
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 7 DE" tvg-name="[DE] Sky Sport Bundesliga 7 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga7.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 7 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21742
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8 DE" tvg-name="[DE] Sky Sport Bundesliga 8 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga8.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 8 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21741
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 9 DE" tvg-name="[DE] Sky Sport Bundesliga 9 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga9.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 9 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21740
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 10 DE" tvg-name="[DE] Sky Sport Bundesliga 10 HD" tvg-logo="https://xpic.webox-eg.com/de/SkyBundesliga10.de.png" group-title="Germany",[DE] Sky Sport Bundesliga 10 HD
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/21739
-#EXTINF:-1 tvg-id="SRF 1 HD CH" tvg-name="[CH-DE] SRF 1" tvg-logo="" group-title="Switzerland",[CH-DE] SRF 1
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/44806
-#EXTINF:-1 tvg-id="SRF zwei HD CH" tvg-name="[CH-DE] SRF zwei" tvg-logo="" group-title="Switzerland",[CH-DE] SRF zwei
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/44803
-#EXTINF:-1 tvg-id="SRF info HD CH" tvg-name="[CH-DE] SRF Info" tvg-logo="" group-title="Switzerland",[CH-DE] SRF Info
-http://148.251.83.36:80/ai9c33p09B/9C5KJAmhn3/44804
-
+#EXTM3U
+#EXTINF:-1,DE: Sky POPCORN SELECT 1 FHD
+http://premium-iptv.link:7899/mattias/123456/55645
+#EXTINF:-1,DE: Sky Select 6 HD
+http://premium-iptv.link:7899/mattias/123456/55626
+#EXTINF:-1,DE: Sky Select 5 HD
+http://premium-iptv.link:7899/mattias/123456/55625
+#EXTINF:-1,DE: Sky Select 4 HD
+http://premium-iptv.link:7899/mattias/123456/55624
+#EXTINF:-1,DE: Sky Select 3 HD
+http://premium-iptv.link:7899/mattias/123456/55623
+#EXTINF:-1,DE: Sky Select 2 HD
+http://premium-iptv.link:7899/mattias/123456/55622
+#EXTINF:-1,DE: Sky Select 1 HD
+http://premium-iptv.link:7899/mattias/123456/55621
+#EXTINF:-1,DE: MAX Select 7 HD
+http://premium-iptv.link:7899/mattias/123456/55620
+#EXTINF:-1,DE: MAX Select 6 HD
+http://premium-iptv.link:7899/mattias/123456/55619
+#EXTINF:-1,DE: MAX Select 5 HD
+http://premium-iptv.link:7899/mattias/123456/55618
+#EXTINF:-1,DE: MAX Select 4 HD
+http://premium-iptv.link:7899/mattias/123456/55617
+#EXTINF:-1,DE: MAX Select 3 HD
+http://premium-iptv.link:7899/mattias/123456/55616
+#EXTINF:-1,DE: MAX Select 2 HD
+http://premium-iptv.link:7899/mattias/123456/55615
+#EXTINF:-1,DE: MAX Select 1 HD
+http://premium-iptv.link:7899/mattias/123456/55614
+#EXTINF:-1,DE: Eagle Cinema 9 HD
+http://premium-iptv.link:7899/mattias/123456/54310
+#EXTINF:-1,DE: Eagle Cinema 8 HD
+http://premium-iptv.link:7899/mattias/123456/54309
+#EXTINF:-1,DE: Eagle Cinema 7 HD
+http://premium-iptv.link:7899/mattias/123456/54308
+#EXTINF:-1,DE: Eagle Cinema 6 HD
+http://premium-iptv.link:7899/mattias/123456/54307
+#EXTINF:-1,DE: Eagle Cinema 5 HD
+http://premium-iptv.link:7899/mattias/123456/54306
+#EXTINF:-1,DE: Eagle Cinema 4 HD
+http://premium-iptv.link:7899/mattias/123456/54305
+#EXTINF:-1,DE: Eagle Cinema 3 HD
+http://premium-iptv.link:7899/mattias/123456/54304
+#EXTINF:-1,DE: Eagle Cinema 2 HD
+http://premium-iptv.link:7899/mattias/123456/54303
+#EXTINF:-1,DE: Eagle Cinema 1 HD
+http://premium-iptv.link:7899/mattias/123456/54302
+#EXTINF:-1,DE: MAX Select 7 HD
+http://premium-iptv.link:7899/mattias/123456/54301
+#EXTINF:-1,DE: MAX Select 6 HD
+http://premium-iptv.link:7899/mattias/123456/54300
+#EXTINF:-1,DE: MAX Select 5 HD
+http://premium-iptv.link:7899/mattias/123456/54299
+#EXTINF:-1,DE: MAX Select 4 HD
+http://premium-iptv.link:7899/mattias/123456/54298
+#EXTINF:-1,DE: MAX Select 3 HD
+http://premium-iptv.link:7899/mattias/123456/54297
+#EXTINF:-1,DE: MAX Select 2 HD
+http://premium-iptv.link:7899/mattias/123456/54296
+#EXTINF:-1,DE: MAX Select 1 HD
+http://premium-iptv.link:7899/mattias/123456/54295
+#EXTINF:-1,DE: MAX Premiere 3 HD
+http://premium-iptv.link:7899/mattias/123456/54294
+#EXTINF:-1,DE: MAX Premiere 2 HD
+http://premium-iptv.link:7899/mattias/123456/54293
+#EXTINF:-1,DE: MAX Premiere HD
+http://premium-iptv.link:7899/mattias/123456/54292
+#EXTINF:-1,DE: MAX Kino Collection HD
+http://premium-iptv.link:7899/mattias/123456/54291
+#EXTINF:-1,DE: Max Kino 3 HD
+http://premium-iptv.link:7899/mattias/123456/54290
+#EXTINF:-1,DE: MAX Kino 2 HD
+http://premium-iptv.link:7899/mattias/123456/54289
+#EXTINF:-1,DE: MAX Kino HD
+http://premium-iptv.link:7899/mattias/123456/54288
+#EXTINF:-1,DE: Toggo Plus
+http://premium-iptv.link:7899/mattias/123456/54287
+#EXTINF:-1,DE: Anixe Serie FullHD VIP
+http://premium-iptv.link:7899/mattias/123456/54286
+#EXTINF:-1,DE: Kika FullHD VIP
+http://premium-iptv.link:7899/mattias/123456/54285
+#EXTINF:-1,DE: Bon Gusto FullHD VIP
+http://premium-iptv.link:7899/mattias/123456/54284
+#EXTINF:-1,DE: Crime Investigation FullHD VIP
+http://premium-iptv.link:7899/mattias/123456/54283
+#EXTINF:-1,DE: Planet HD
+http://premium-iptv.link:7899/mattias/123456/54282
+#EXTINF:-1,DE: RTL 4K UHD
+http://premium-iptv.link:7899/mattias/123456/54281
+#EXTINF:-1,DE: Sky Krimi FHD
+http://premium-iptv.link:7899/mattias/123456/54280
+#EXTINF:-1,DE: eSports1 FullHD
+http://premium-iptv.link:7899/mattias/123456/54279
+#EXTINF:-1,DE: Sport Fight (ONLY ON FIGHDAY)
+http://premium-iptv.link:7899/mattias/123456/54278
+#EXTINF:-1,DE: Frauen Bundesliga HD
+http://premium-iptv.link:7899/mattias/123456/54277
+#EXTINF:-1,DE: Spiegel Geschichte Local
+http://premium-iptv.link:7899/mattias/123456/54276
+#EXTINF:-1,DE: Spiegel TV Wissen Local
+http://premium-iptv.link:7899/mattias/123456/54275
+#EXTINF:-1,DE: BBL Sport 1
+http://premium-iptv.link:7899/mattias/123456/54274
+#EXTINF:-1,DE: BBL Sport 2
+http://premium-iptv.link:7899/mattias/123456/54273
+#EXTINF:-1,DE: BBL Sport 3
+http://premium-iptv.link:7899/mattias/123456/54272
+#EXTINF:-1,DE: BBL Sport 4
+http://premium-iptv.link:7899/mattias/123456/54271
+#EXTINF:-1,DE: Bundesliga 3 - 1
+http://premium-iptv.link:7899/mattias/123456/54270
+#EXTINF:-1,DE: Bundesliga 3 - 2
+http://premium-iptv.link:7899/mattias/123456/54269
+#EXTINF:-1,DE: Bundesliga 3 - 3
+http://premium-iptv.link:7899/mattias/123456/54268
+#EXTINF:-1,DE: Bundesliga 3 - 4
+http://premium-iptv.link:7899/mattias/123456/54267
+#EXTINF:-1,DE: Bundesliga 3 - 5
+http://premium-iptv.link:7899/mattias/123456/54266
+#EXTINF:-1,DE: Bundesliga 3 - 6
+http://premium-iptv.link:7899/mattias/123456/54265
+#EXTINF:-1,DE: Bundesliga 3 - 7
+http://premium-iptv.link:7899/mattias/123456/54264
+#EXTINF:-1,DE: Bundesliga 3 - 8
+http://premium-iptv.link:7899/mattias/123456/54263
+#EXTINF:-1,DE: DEL Sport 1
+http://premium-iptv.link:7899/mattias/123456/54262
+#EXTINF:-1,DE: DEL Sport 2
+http://premium-iptv.link:7899/mattias/123456/54261
+#EXTINF:-1,DE: DEL Sport 3
+http://premium-iptv.link:7899/mattias/123456/54260
+#EXTINF:-1,DE: DEL Sport 4
+http://premium-iptv.link:7899/mattias/123456/54259
+#EXTINF:-1,DE: DEL Sport 5
+http://premium-iptv.link:7899/mattias/123456/54258
+#EXTINF:-1,DE: DEL Sport 6
+http://premium-iptv.link:7899/mattias/123456/54257
+#EXTINF:-1,DE: DEL Sport 7
+http://premium-iptv.link:7899/mattias/123456/54256
+#EXTINF:-1,DE: FC Bayern TV Full HD
+http://premium-iptv.link:7899/mattias/123456/54255
+#EXTINF:-1,DE: FC Bayern TV SD Local
+http://premium-iptv.link:7899/mattias/123456/54254
+#EXTINF:-1,DE: Sky SPORT KOMPAKT 1 HD
+http://premium-iptv.link:7899/mattias/123456/54253
+#EXTINF:-1,DE: Sky SPORT KOMPAKT 2 HD
+http://premium-iptv.link:7899/mattias/123456/54252
+#EXTINF:-1,DE: Sky SPORT KOMPAKT 3 HD
+http://premium-iptv.link:7899/mattias/123456/54251
+#EXTINF:-1,DE: Sky SPORT KOMPAKT 4 HD
+http://premium-iptv.link:7899/mattias/123456/54250
+#EXTINF:-1,DE: RTL PLUS (HD)
+http://premium-iptv.link:7899/mattias/123456/54088
+#EXTINF:-1,DE: NITRO (HD)
+http://premium-iptv.link:7899/mattias/123456/54087
+#EXTINF:-1,DE: RTL 2 (HD)
+http://premium-iptv.link:7899/mattias/123456/54086
+#EXTINF:-1,DE: RTL II HD+
+http://premium-iptv.link:7899/mattias/123456/54085
+#EXTINF:-1,DE: RTL (HD)
+http://premium-iptv.link:7899/mattias/123456/54084
+#EXTINF:-1,DE: RTL HD+
+http://premium-iptv.link:7899/mattias/123456/54083
+#EXTINF:-1,DE: WELT DER WUNDER (HD)
+http://premium-iptv.link:7899/mattias/123456/54082
+#EXTINF:-1,DE: JUKEBOX (HD)
+http://premium-iptv.link:7899/mattias/123456/54081
+#EXTINF:-1,DE: SKY CLASSICA (HD)
+http://premium-iptv.link:7899/mattias/123456/54080
+#EXTINF:-1,DE: KIKA HD
+http://premium-iptv.link:7899/mattias/123456/54079
+#EXTINF:-1,DE: TOGGO PLUS (HD)
+http://premium-iptv.link:7899/mattias/123456/54078
+#EXTINF:-1,DE: Sky Junior (HD)
+http://premium-iptv.link:7899/mattias/123456/54077
+#EXTINF:-1,DE: SKY ROMANCE TV (HD)
+http://premium-iptv.link:7899/mattias/123456/54076
+#EXTINF:-1,DE: SKY KINOWELT TV (HD)
+http://premium-iptv.link:7899/mattias/123456/54075
+#EXTINF:-1,DE: SKY HEIMATKANAL (HD)
+http://premium-iptv.link:7899/mattias/123456/54074
+#EXTINF:-1,DE: SKY CINEMA NOSTALGIE (HD)
+http://premium-iptv.link:7899/mattias/123456/54073
+#EXTINF:-1,DE: SKY CINEMA EMOTION (HD)
+http://premium-iptv.link:7899/mattias/123456/54072
+#EXTINF:-1,DE: SKY CINEMA COMEDY (HD)
+http://premium-iptv.link:7899/mattias/123456/54071
+#EXTINF:-1,DE: SKY CINEMA KRIMI HD+
+http://premium-iptv.link:7899/mattias/123456/54070
+#EXTINF:-1,DE: SKY CINEMA Action HD+
+http://premium-iptv.link:7899/mattias/123456/54069
+#EXTINF:-1,DE: SKY ATLANTIC HD+
+http://premium-iptv.link:7899/mattias/123456/54068
+#EXTINF:-1,DE: Sky Cinema Adventure HD+
+http://premium-iptv.link:7899/mattias/123456/54067
+#EXTINF:-1,DE: Sport1 HD (H265/HEVC)
+http://premium-iptv.link:7899/mattias/123456/53850
+#EXTINF:-1,DE: Sky Sport Austria 1 HD (H265/HEVC)
+http://premium-iptv.link:7899/mattias/123456/53849
+#EXTINF:-1,DE: Eurosport 2 HD Xtra (H265/HEVC)
+http://premium-iptv.link:7899/mattias/123456/53848
+#EXTINF:-1,DE: Eurosport 2 HD (H265/HEVC)
+http://premium-iptv.link:7899/mattias/123456/53847
+#EXTINF:-1,DE: Eurosport 1 HD (H265/HEVC)
+http://premium-iptv.link:7899/mattias/123456/53846
+#EXTINF:-1,DE: DAZN 2 Bar HD (H265/HEVC)
+http://premium-iptv.link:7899/mattias/123456/53845
+#EXTINF:-1,DE: DAZN 1 Bar HD (H265/HEVC)
+http://premium-iptv.link:7899/mattias/123456/53844
+#EXTINF:-1,DE: BUNDESLIGA 1 HD (H265/HEVC)
+http://premium-iptv.link:7899/mattias/123456/53843
+#EXTINF:-1,DE: SKY SPORT 2 HD (H265/HEVC)
+http://premium-iptv.link:7899/mattias/123456/53842
+#EXTINF:-1,DE: SKY SPORT 1 HD (H265/HEVC)
+http://premium-iptv.link:7899/mattias/123456/53841
+#EXTINF:-1,DE: KINO WELT (Horror)
+http://premium-iptv.link:7899/mattias/123456/50145
+#EXTINF:-1,DE: KINO WELT (Comedy)
+http://premium-iptv.link:7899/mattias/123456/50144
+#EXTINF:-1,DE: KINO WELT (Krimi)
+http://premium-iptv.link:7899/mattias/123456/50143
+#EXTINF:-1,DE: KINO WELT (Familie)
+http://premium-iptv.link:7899/mattias/123456/50142
+#EXTINF:-1,DE: KINO WELT (Animation)
+http://premium-iptv.link:7899/mattias/123456/50141
+#EXTINF:-1,DE: KINO WELT (Science-Fiction)
+http://premium-iptv.link:7899/mattias/123456/50140
+#EXTINF:-1,DE: KINO WELT (Drama)
+http://premium-iptv.link:7899/mattias/123456/50139
+#EXTINF:-1,DE: KINO WELT (Action)
+http://premium-iptv.link:7899/mattias/123456/50138
+#EXTINF:-1,DE: KINO HITS (2019)
+http://premium-iptv.link:7899/mattias/123456/50137
+#EXTINF:-1,DE: Sky Cinema Action Buddies HD+
+http://premium-iptv.link:7899/mattias/123456/50136
+#EXTINF:-1,DE: Disney Cinemagic HD(1)
+http://premium-iptv.link:7899/mattias/123456/523
+#EXTINF:-1,DE: Fox HD
+http://premium-iptv.link:7899/mattias/123456/519
+#EXTINF:-1,DE: RTL Crime HD
+http://premium-iptv.link:7899/mattias/123456/518
+#EXTINF:-1,DE: RTL Living
+http://premium-iptv.link:7899/mattias/123456/517
+#EXTINF:-1,DE: RTL Passion
+http://premium-iptv.link:7899/mattias/123456/516
+#EXTINF:-1,DE: RTL HD
+http://premium-iptv.link:7899/mattias/123456/3607
+#EXTINF:-1,DE: Sky Krimi
+http://premium-iptv.link:7899/mattias/123456/514
+#EXTINF:-1,DE: Sky Nostalgie
+http://premium-iptv.link:7899/mattias/123456/513
+#EXTINF:-1,DE: Sky atlantic
+http://premium-iptv.link:7899/mattias/123456/935
+#EXTINF:-1,DE: RTL2
+http://premium-iptv.link:7899/mattias/123456/941
+#EXTINF:-1,DE : Eurosport 1 HD
+http://premium-iptv.link:7899/mattias/123456/521
+#EXTINF:-1,DE : Sky Atlantic HD
+http://premium-iptv.link:7899/mattias/123456/515
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 6 HD
+http://premium-iptv.link:7899/mattias/123456/3627
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 5 HD
+http://premium-iptv.link:7899/mattias/123456/3626
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 4 HD
+http://premium-iptv.link:7899/mattias/123456/3625
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 3 HD
+http://premium-iptv.link:7899/mattias/123456/3624
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 7 HD
+http://premium-iptv.link:7899/mattias/123456/3628
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 10 HD
+http://premium-iptv.link:7899/mattias/123456/3631
+#EXTINF:-1,DE: TNT Comedy
+http://premium-iptv.link:7899/mattias/123456/3473
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 8 HD
+http://premium-iptv.link:7899/mattias/123456/3629
+#EXTINF:-1,DE: Sky Sport Austria(1)
+http://premium-iptv.link:7899/mattias/123456/931
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 9 HD
+http://premium-iptv.link:7899/mattias/123456/3630
+#EXTINF:-1,DE: TNT Film TCM
+http://premium-iptv.link:7899/mattias/123456/510
+#EXTINF:-1,DE: Syfy
+http://premium-iptv.link:7899/mattias/123456/930
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 2 HD
+http://premium-iptv.link:7899/mattias/123456/3623
+#EXTINF:-1,DE: SKY SELECT 3
+http://premium-iptv.link:7899/mattias/123456/4095
+#EXTINF:-1,DE: SKY SELECT 2
+http://premium-iptv.link:7899/mattias/123456/4094
+#EXTINF:-1,DE: SKY SELECT 1
+http://premium-iptv.link:7899/mattias/123456/4093
+#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3085
+#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3084
+#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3083
+#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3082
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3081
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3080
+#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3078
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3079
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3086
+#EXTINF:-1,DE: SKY SELECT 4
+http://premium-iptv.link:7899/mattias/123456/4096
+#EXTINF:-1,DE: SKY SELECT 5
+http://premium-iptv.link:7899/mattias/123456/4097
+#EXTINF:-1,DE: SKY SELECT 6
+http://premium-iptv.link:7899/mattias/123456/4098
+#EXTINF:-1,DE: Sky Select 7
+http://premium-iptv.link:7899/mattias/123456/4099
+#EXTINF:-1,DE: Sky Select 8
+http://premium-iptv.link:7899/mattias/123456/4100
+#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3076
+#EXTINF:-1,DE: Sky Sport 11 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3077
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3069
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3070
+#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3071
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3072
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3073
+#EXTINF:-1,DE: 13th Street
+http://premium-iptv.link:7899/mattias/123456/527
+#EXTINF:-1,DE: ARD
+http://premium-iptv.link:7899/mattias/123456/927
+#EXTINF:-1,DE: AXN HD Germany
+http://premium-iptv.link:7899/mattias/123456/462
+#EXTINF:-1,DE: Boomerang
+http://premium-iptv.link:7899/mattias/123456/952
+#EXTINF:-1,DE: Bundesliga 1
+http://premium-iptv.link:7899/mattias/123456/951
+#EXTINF:-1,DE: Cartoon Network Germany
+http://premium-iptv.link:7899/mattias/123456/461
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://premium-iptv.link:7899/mattias/123456/950
+#EXTINF:-1,DE: Classica
+http://premium-iptv.link:7899/mattias/123456/460
+#EXTINF:-1,DE: Deluxe Music HD
+http://premium-iptv.link:7899/mattias/123456/459
+#EXTINF:-1,DE: Discovery HD
+http://premium-iptv.link:7899/mattias/123456/458
+#EXTINF:-1,DE: Disney Channel HD Germany
+http://premium-iptv.link:7899/mattias/123456/457
+#EXTINF:-1,DE: Disney Junior
+http://premium-iptv.link:7899/mattias/123456/455
+#EXTINF:-1,DE: Disney XD Deutschland
+http://premium-iptv.link:7899/mattias/123456/454
+#EXTINF:-1,DE: Sky DMAX HD
+http://premium-iptv.link:7899/mattias/123456/453
+#EXTINF:-1,DE: Kabel 1
+http://premium-iptv.link:7899/mattias/123456/929
+#EXTINF:-1,DE: Kika
+http://premium-iptv.link:7899/mattias/123456/949
+#EXTINF:-1,DE: MGM HD
+http://premium-iptv.link:7899/mattias/123456/948
+#EXTINF:-1,DE: N24
+http://premium-iptv.link:7899/mattias/123456/946
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://premium-iptv.link:7899/mattias/123456/451
+#EXTINF:-1,DE: National Geographic HD Germany
+http://premium-iptv.link:7899/mattias/123456/450
+#EXTINF:-1,DE: Nickelodeon
+http://premium-iptv.link:7899/mattias/123456/449
+#EXTINF:-1,DE: Orf 1
+http://premium-iptv.link:7899/mattias/123456/945
+#EXTINF:-1,DE: Orf 2
+http://premium-iptv.link:7899/mattias/123456/944
+#EXTINF:-1,DE: Pro7
+http://premium-iptv.link:7899/mattias/123456/943
+#EXTINF:-1,DE: RTL
+http://premium-iptv.link:7899/mattias/123456/942
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3074
+#EXTINF:-1,DE: RTL NITRO
+http://premium-iptv.link:7899/mattias/123456/940
+#EXTINF:-1,DE: Sat 1
+http://premium-iptv.link:7899/mattias/123456/939
+#EXTINF:-1,DE: sat 1 emotions
+http://premium-iptv.link:7899/mattias/123456/938
+#EXTINF:-1,DE: Sky Action HD
+http://premium-iptv.link:7899/mattias/123456/412
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://premium-iptv.link:7899/mattias/123456/933
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://premium-iptv.link:7899/mattias/123456/408
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://premium-iptv.link:7899/mattias/123456/448
+#EXTINF:-1,DE: SKY CINEMA  24
+http://premium-iptv.link:7899/mattias/123456/932
+#EXTINF:-1,DE: Sky Cinema HD
+http://premium-iptv.link:7899/mattias/123456/413
+#EXTINF:-1,DE: Sky Comedy HD
+http://premium-iptv.link:7899/mattias/123456/415
+#EXTINF:-1,DE: Sky Disney HD
+http://premium-iptv.link:7899/mattias/123456/419
+#EXTINF:-1,DE: Sky Emotion HD
+http://premium-iptv.link:7899/mattias/123456/418
+#EXTINF:-1,DE: Sky Hits HD
+http://premium-iptv.link:7899/mattias/123456/414
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://premium-iptv.link:7899/mattias/123456/409
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://premium-iptv.link:7899/mattias/123456/410
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+http://premium-iptv.link:7899/mattias/123456/3075
+#EXTINF:-1,DE: Sky Sport News HD
+http://premium-iptv.link:7899/mattias/123456/447
+#EXTINF:-1,DE: TNT Serie HD
+http://premium-iptv.link:7899/mattias/123456/417
+#EXTINF:-1,DE: Sky Universal HD
+http://premium-iptv.link:7899/mattias/123456/416
+#EXTINF:-1,DE: SUPER RTL HD
+http://premium-iptv.link:7899/mattias/123456/937
+#EXTINF:-1,DE: TNT Serie
+http://premium-iptv.link:7899/mattias/123456/936
+#EXTINF:-1,DE: VOX
+http://premium-iptv.link:7899/mattias/123456/526
+#EXTINF:-1,DE: ZDF
+http://premium-iptv.link:7899/mattias/123456/928
+#EXTINF:-1,DE: Sport 1  HD
+http://premium-iptv.link:7899/mattias/123456/511
+#EXTINF:-1,DE: VIVA
+http://premium-iptv.link:7899/mattias/123456/6323
+#EXTINF:-1,DE: WDR HD DE
+http://premium-iptv.link:7899/mattias/123456/6328
+#EXTINF:-1,DE: ZDF NEO HD
+http://premium-iptv.link:7899/mattias/123456/6329
+#EXTINF:-1,DE: ZEE ONE
+http://premium-iptv.link:7899/mattias/123456/6330
+#EXTINF:-1,DE: 3sat
+http://premium-iptv.link:7899/mattias/123456/6319
+#EXTINF:-1,DE: 3SAT HD
+http://premium-iptv.link:7899/mattias/123456/6320
+#EXTINF:-1,DE: Arte
+http://premium-iptv.link:7899/mattias/123456/6321
+#EXTINF:-1,DE: DAS ERSTE HD
+http://premium-iptv.link:7899/mattias/123456/6322
+#EXTINF:-1,DE: Kabel Eins
+http://premium-iptv.link:7899/mattias/123456/6324
+#EXTINF:-1,DE: PHOENIX
+http://premium-iptv.link:7899/mattias/123456/6325
+#EXTINF:-1,DE: Sat 1 Gold
+http://premium-iptv.link:7899/mattias/123456/6326
+#EXTINF:-1,DE: SERVUS TV HD
+http://premium-iptv.link:7899/mattias/123456/6327
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6794
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6803
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6795
+#EXTINF:-1,VIP DE: Sky Sport 1 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6746
+#EXTINF:-1,VIP DE: Sky Sport 10 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6755
+#EXTINF:-1,VIP DE: Sky Sport 11 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6756
+#EXTINF:-1,VIP DE: Sky Sport 2 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6747
+#EXTINF:-1,VIP DE: Sky Sport 3 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6748
+#EXTINF:-1,VIP DE: Sky Sport 4 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6749
+#EXTINF:-1,VIP DE: Sky Sport 5 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6750
+#EXTINF:-1,VIP DE: Sky Sport 6 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6751
+#EXTINF:-1,VIP DE: Sky Sport 7 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6752
+#EXTINF:-1,VIP DE: Sky Sport 8 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6753
+#EXTINF:-1,VIP DE: Sky Sport 9 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6754
+#EXTINF:-1,VIP DE: Sky Sport News HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/6745
+#EXTINF:-1,DE: 13th Street HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6290
+#EXTINF:-1,DE VIP: A&E HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6291
+#EXTINF:-1,DE VIP: Animal Planet HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6292
+#EXTINF:-1,DE VIP: AXN HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6293
+#EXTINF:-1,DE VIP: Discovery HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6294
+#EXTINF:-1,DE VIP: Disney Channel HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6295
+#EXTINF:-1,DE VIP: Disney Cinemagic HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6296
+#EXTINF:-1,DE VIP: FOX HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6297
+#EXTINF:-1,DE VIP: History HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6298
+#EXTINF:-1,DE: N-TV HD
+http://premium-iptv.link:7899/mattias/123456/6300
+#EXTINF:-1,DE VIP: Nat Geo Wild HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6301
+#EXTINF:-1,DE: National Geographic FHD
+http://premium-iptv.link:7899/mattias/123456/6302
+#EXTINF:-1,DE VIP: National Geographic HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6303
+#EXTINF:-1,DE VIP: PRO 7 HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6304
+#EXTINF:-1,DE VIP: ProSieben Maxx HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6305
+#EXTINF:-1,DE VIP: RTL 2 HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6306
+#EXTINF:-1,DE VIP: RTL HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6307
+#EXTINF:-1,DE VIP: RTL NITRO HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6308
+#EXTINF:-1,DE VIP: SAT.1 HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6309
+#EXTINF:-1,DE VIP: sixx HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6310
+#EXTINF:-1,DE VIP: Sky Action HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6311
+#EXTINF:-1,DE: Sky Atlantic HD
+http://premium-iptv.link:7899/mattias/123456/6312
+#EXTINF:-1,DE VIP: Sky Cinema HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6313
+#EXTINF:-1,DE VIP: Sky Hits HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6314
+#EXTINF:-1,DE VIP: SUPER RTL HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6315
+#EXTINF:-1,DE: SyFy FHD
+http://premium-iptv.link:7899/mattias/123456/6316
+#EXTINF:-1,DE VIP: TNT Serie HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6317
+#EXTINF:-1,DE VIP: VOX HD 1080P
+http://premium-iptv.link:7899/mattias/123456/6318
+#EXTINF:-1,DE: Sky Cinema Hits
+http://premium-iptv.link:7899/mattias/123456/7266
+#EXTINF:-1,DE: ANIXE HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7243
+#EXTINF:-1,DE: Bundesliga 2 FHD (BackUp)
+http://premium-iptv.link:7899/mattias/123456/8123
+#EXTINF:-1,DE: E! Entertainement
+http://premium-iptv.link:7899/mattias/123456/7267
+#EXTINF:-1,DE: E! Entertainm HD
+http://premium-iptv.link:7899/mattias/123456/7264
+#EXTINF:-1,DE: EUROSPORT 2 XTRA FHD
+http://premium-iptv.link:7899/mattias/123456/13180
+#EXTINF:-1,DE: EUROSPORT 2 XTRA HD
+http://premium-iptv.link:7899/mattias/123456/13181
+#EXTINF:-1,DE: EUROSPORT 2 XTRA SD
+http://premium-iptv.link:7899/mattias/123456/13182
+#EXTINF:-1,DE: Hr-fernsehen HD
+http://premium-iptv.link:7899/mattias/123456/7232
+#EXTINF:-1,DE: KABEL 1 HD 1080
+http://premium-iptv.link:7899/mattias/123456/8758
+#EXTINF:-1,DE: MDR S-Anhalt HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7228
+#EXTINF:-1,DE: MDR Sachsen HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7227
+#EXTINF:-1,DE: MDR Th
+http://premium-iptv.link:7899/mattias/123456/7226
+#EXTINF:-1,DE: Motorvision TV
+http://premium-iptv.link:7899/mattias/123456/7263
+#EXTINF:-1,DE: MTV HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7247
+#EXTINF:-1,DE: Phoenix HD
+http://premium-iptv.link:7899/mattias/123456/8760
+#EXTINF:-1,DE: Pro7 Fun HD
+http://premium-iptv.link:7899/mattias/123456/7056
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://premium-iptv.link:7899/mattias/123456/7055
+#EXTINF:-1,DE: ProSieben HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7249
+#EXTINF:-1,DE: ProSieben Maxx HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7244
+#EXTINF:-1,DE: Rbb Berlin HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7235
+#EXTINF:-1,DE: rbb Brandenburg HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7234
+#EXTINF:-1,DE: RD HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7233
+#EXTINF:-1,DE: ROMANCE TV
+http://premium-iptv.link:7899/mattias/123456/8759
+#EXTINF:-1,DE: RTL II YOU HD
+http://premium-iptv.link:7899/mattias/123456/8761
+#EXTINF:-1,DE: SIXX HD
+http://premium-iptv.link:7899/mattias/123456/8756
+#EXTINF:-1,DE: Sky Bundesliga 1 HD ( during match )
+http://premium-iptv.link:7899/mattias/123456/8145
+#EXTINF:-1,DE: Sky Bundesliga 10 HD ( during match )
+http://premium-iptv.link:7899/mattias/123456/8136
+#EXTINF:-1,DE: Sky Bundesliga 2 HD ( during match )
+http://premium-iptv.link:7899/mattias/123456/8144
+#EXTINF:-1,DE: Sky Bundesliga 3 HD ( during match )
+http://premium-iptv.link:7899/mattias/123456/8143
+#EXTINF:-1,DE: Sky Bundesliga 4 HD ( during match )
+http://premium-iptv.link:7899/mattias/123456/8142
+#EXTINF:-1,DE: Sky Bundesliga 5 HD ( during match )
+http://premium-iptv.link:7899/mattias/123456/8141
+#EXTINF:-1,DE: Sky Bundesliga 6 HD ( during match )
+http://premium-iptv.link:7899/mattias/123456/8140
+#EXTINF:-1,DE: Sky Bundesliga 7 HD ( during match )
+http://premium-iptv.link:7899/mattias/123456/8139
+#EXTINF:-1,DE: Sky Bundesliga 8 HD ( during match )
+http://premium-iptv.link:7899/mattias/123456/8138
+#EXTINF:-1,DE: Sky Bundesliga 9 HD ( during match )
+http://premium-iptv.link:7899/mattias/123456/8137
+#EXTINF:-1,DE: Sky Cinema Family
+http://premium-iptv.link:7899/mattias/123456/7265
+#EXTINF:-1,DE: Sky Sport 1 HD 1080P
+http://premium-iptv.link:7899/mattias/123456/7524
+#EXTINF:-1,DE: Sky Sport 2 FHD
+http://premium-iptv.link:7899/mattias/123456/8273
+#EXTINF:-1,DE: Sky Sport 2 HD 1080P
+http://premium-iptv.link:7899/mattias/123456/7523
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD 1080P
+http://premium-iptv.link:7899/mattias/123456/7534
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD 1080P
+http://premium-iptv.link:7899/mattias/123456/7532
+#EXTINF:-1,DE: Sky Sport Fanzone HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7224
+#EXTINF:-1,DE: Sky Sport News HD 1080P
+http://premium-iptv.link:7899/mattias/123456/7513
+#EXTINF:-1,DE: SPIEGEL TV Wissen HD
+http://premium-iptv.link:7899/mattias/123456/7240
+#EXTINF:-1,DE: Sport 1 US
+http://premium-iptv.link:7899/mattias/123456/6982
+#EXTINF:-1,DE: Sport 1+ HD
+http://premium-iptv.link:7899/mattias/123456/6980
+#EXTINF:-1,DE: Sport Digital HD
+http://premium-iptv.link:7899/mattias/123456/6981
+#EXTINF:-1,DE: SPORT1 HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7223
+#EXTINF:-1,DE: SR Fernsehen HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7241
+#EXTINF:-1,DE: tagesschau24 HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7239
+#EXTINF:-1,DE: TLC HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7246
+#EXTINF:-1,DE: TNT Comedy HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7248
+#EXTINF:-1,DE: VOX HD
+http://premium-iptv.link:7899/mattias/123456/8757
+#EXTINF:-1,DE: ZDF FHD
+http://premium-iptv.link:7899/mattias/123456/8862
+#EXTINF:-1,DE: Zee One HD ( 1080P )
+http://premium-iptv.link:7899/mattias/123456/7250
+#EXTINF:-1,VIP DE: Disney Junior HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/7591
+#EXTINF:-1,VIP DE: Eurosport 2 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/7590
+#EXTINF:-1,VIP DE: MDR S-Anhalt HD 1080P DE
+http://premium-iptv.link:7899/mattias/123456/7576
+#EXTINF:-1,VIP DE: MDR Sachsen HD 1080P DE
+http://premium-iptv.link:7899/mattias/123456/7575
+#EXTINF:-1,VIP DE: MDR Th
+http://premium-iptv.link:7899/mattias/123456/7574
+#EXTINF:-1,DE: MTV HD
+http://premium-iptv.link:7899/mattias/123456/7577
+#EXTINF:-1,VIP DE: RTL Crime HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/7589
+#EXTINF:-1,VIP DE: SAT.1 HD 1080P DE
+http://premium-iptv.link:7899/mattias/123456/7578
+#EXTINF:-1,VIP DE: Sky 1 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/7579
+#EXTINF:-1,VIP DE: Sky Arts HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/7580
+#EXTINF:-1,VIP DE: Sky Cinema  1 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/7582
+#EXTINF:-1,VIP DE: Sky Cinema  24 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/7581
+#EXTINF:-1,VIP DE: Sky Cinema Family HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/7583
+#EXTINF:-1,VIP DE: Sky Sport Austria HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/7584
+#EXTINF:-1,VIP DE: SRF 1 HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/7587
+#EXTINF:-1,VIP DE: SRF Zwei DE
+http://premium-iptv.link:7899/mattias/123456/7586
+#EXTINF:-1,VIP DE: SWR DE
+http://premium-iptv.link:7899/mattias/123456/7585
+#EXTINF:-1,VIP DE: Universal Channel HD (1080P)
+http://premium-iptv.link:7899/mattias/123456/7588
+#EXTINF:-1,DE: TLC HD
+http://premium-iptv.link:7899/mattias/123456/16747
+#EXTINF:-1,DE: A&E
+http://premium-iptv.link:7899/mattias/123456/17640
+#EXTINF:-1,DE: Heimatkanal
+http://premium-iptv.link:7899/mattias/123456/18211
+#EXTINF:-1,DE: Nick JR HD
+http://premium-iptv.link:7899/mattias/123456/17207
+#EXTINF:-1,DE: Nickelodeon HD
+http://premium-iptv.link:7899/mattias/123456/17744
+#EXTINF:-1,DE: Tele 5 HD
+http://premium-iptv.link:7899/mattias/123456/17971
+#EXTINF:-1,DE: RTL Plus
+http://premium-iptv.link:7899/mattias/123456/19524
+#EXTINF:-1,DE: DAZN 1 FHD
+http://premium-iptv.link:7899/mattias/123456/28269
+#EXTINF:-1,DE: DAZN 2 FHD
+http://premium-iptv.link:7899/mattias/123456/28270
+#EXTINF:-1,DE: Sky Sport 1 Backup
+http://premium-iptv.link:7899/mattias/123456/29169
+#EXTINF:-1,DE: Sky Sport 1 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29168
+#EXTINF:-1,DE: Sky Sport 2 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29166
+#EXTINF:-1,DE: Sky Sport 3 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29164
+#EXTINF:-1,DE: Sky Sport 4 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29162
+#EXTINF:-1,DE: Sky Sport 5 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29160
+#EXTINF:-1,DE: Sky Sport 6 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29158
+#EXTINF:-1,DE: Sky Sport 7 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29156
+#EXTINF:-1,DE: Sky Sport 8 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29154
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29151
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29136
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29149
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29147
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29145
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29139
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29138
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD Backup
+http://premium-iptv.link:7899/mattias/123456/29137
+#EXTINF:-1,DE: Acht FHD
+http://premium-iptv.link:7899/mattias/123456/33779
+#EXTINF:-1,DE: Animal Planet
+http://premium-iptv.link:7899/mattias/123456/31869
+#EXTINF:-1,DE: ARD HD
+http://premium-iptv.link:7899/mattias/123456/31460
+#EXTINF:-1,DE: Auto Motor Sport FHD
+http://premium-iptv.link:7899/mattias/123456/33778
+#EXTINF:-1,DE: BR
+http://premium-iptv.link:7899/mattias/123456/31528
+#EXTINF:-1,DE: KABEL 1 CLASSIC
+http://premium-iptv.link:7899/mattias/123456/31523
+#EXTINF:-1,DE: Kabel 1 Doku
+http://premium-iptv.link:7899/mattias/123456/31524
+#EXTINF:-1,DE: KINOWELT TV HD
+http://premium-iptv.link:7899/mattias/123456/31527
+#EXTINF:-1,DE: NDR HD
+http://premium-iptv.link:7899/mattias/123456/31529
+#EXTINF:-1,DE: ONE HD
+http://premium-iptv.link:7899/mattias/123456/31525
+#EXTINF:-1,DE: Sky Bundesliga 1 SD
+http://premium-iptv.link:7899/mattias/123456/31548
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://premium-iptv.link:7899/mattias/123456/31546
+#EXTINF:-1,DE: Sky Bundesliga 2 SD
+http://premium-iptv.link:7899/mattias/123456/31547
+#EXTINF:-1,DE: XITE
+http://premium-iptv.link:7899/mattias/123456/33780
+#EXTINF:-1,DE: Arte HD
+http://premium-iptv.link:7899/mattias/123456/31461
+#EXTINF:-1,DE: Elit Select HD
+http://premium-iptv.link:7899/mattias/123456/47690
+#EXTINF:-1,DE: SKY SPORT 1 (2K)
+http://premium-iptv.link:7899/mattias/123456/49788
+#EXTINF:-1,DE: SKY SPORT 2 (2K)
+http://premium-iptv.link:7899/mattias/123456/49789
+#EXTINF:-1,DE: BUNDESLIGA 1 (2K)
+http://premium-iptv.link:7899/mattias/123456/49790
+#EXTINF:-1,DE: DAZN 1 BAR (2K)
+http://premium-iptv.link:7899/mattias/123456/49791
+#EXTINF:-1,DE: DAZN 2 BAR HD (2K)
+http://premium-iptv.link:7899/mattias/123456/49792
+#EXTINF:-1,DE: EUROSPORT 1 (2K)
+http://premium-iptv.link:7899/mattias/123456/49793
+#EXTINF:-1,DE: EUROSPORT 2 (2K)
+http://premium-iptv.link:7899/mattias/123456/49794
+#EXTINF:-1,DE: DAZN 1 BAR HD+
+http://premium-iptv.link:7899/mattias/123456/49795
+#EXTINF:-1,DE: DAZN 2 BAR HD+
+http://premium-iptv.link:7899/mattias/123456/49796
+#EXTINF:-1,DE: EUROSPORT 2 XTRA HD+
+http://premium-iptv.link:7899/mattias/123456/49797
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 1 HD+
+http://premium-iptv.link:7899/mattias/123456/49798
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 2 HD+
+http://premium-iptv.link:7899/mattias/123456/49799
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 3 HD+
+http://premium-iptv.link:7899/mattias/123456/49800
+#EXTINF:-1,DE: SKY SPORT AUSTRIA 4 HD+
+http://premium-iptv.link:7899/mattias/123456/49801
+#EXTINF:-1,DE: SKY SPORT 1 (HD)
+http://premium-iptv.link:7899/mattias/123456/49802
+#EXTINF:-1,DE: SKY SPORT 2 (HD)
+http://premium-iptv.link:7899/mattias/123456/49803
+#EXTINF:-1,DE: SKY SPORT 3 (HD)
+http://premium-iptv.link:7899/mattias/123456/49804
+#EXTINF:-1,DE: SKY SPORT 4 (HD)
+http://premium-iptv.link:7899/mattias/123456/49805
+#EXTINF:-1,DE: SKY SPORT 5 (HD)
+http://premium-iptv.link:7899/mattias/123456/49806
+#EXTINF:-1,DE: SKY SPORT 6 (HD)
+http://premium-iptv.link:7899/mattias/123456/49807
+#EXTINF:-1,DE: SKY SPORT 7 (HD)
+http://premium-iptv.link:7899/mattias/123456/49808
+#EXTINF:-1,DE: SKY SPORT 8 (HD)
+http://premium-iptv.link:7899/mattias/123456/49809
+#EXTINF:-1,DE: SKY SPORT 9 (HD)
+http://premium-iptv.link:7899/mattias/123456/49810
+#EXTINF:-1,DE: SKY SPORT 10 (HD)
+http://premium-iptv.link:7899/mattias/123456/49811
+#EXTINF:-1,DE: SKY SPORT 11 (HD)
+http://premium-iptv.link:7899/mattias/123456/49812
+#EXTINF:-1,DE: BUNDESLIGA 1 (HD)
+http://premium-iptv.link:7899/mattias/123456/49813
+#EXTINF:-1,DE: BUNDESLIGA 2 (HD)
+http://premium-iptv.link:7899/mattias/123456/49814
+#EXTINF:-1,DE: BUNDESLIGA 3 (HD)
+http://premium-iptv.link:7899/mattias/123456/49815
+#EXTINF:-1,DE: BUNDESLIGA 4 (HD)
+http://premium-iptv.link:7899/mattias/123456/49816
+#EXTINF:-1,DE: BUNDESLIGA 5 (HD)
+http://premium-iptv.link:7899/mattias/123456/49817
+#EXTINF:-1,DE: BUNDESLIGA 6 (HD)
+http://premium-iptv.link:7899/mattias/123456/49818
+#EXTINF:-1,DE: BUNDESLIGA 7 (HD)
+http://premium-iptv.link:7899/mattias/123456/49819
+#EXTINF:-1,DE: BUNDESLIGA 8 (HD)
+http://premium-iptv.link:7899/mattias/123456/49820
+#EXTINF:-1,DE: BUNDESLIGA 9 (HD)
+http://premium-iptv.link:7899/mattias/123456/49821
+#EXTINF:-1,DE: BUNDESLIGA 10 (HD)
+http://premium-iptv.link:7899/mattias/123456/49822
